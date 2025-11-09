@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #F5F9FF;
+  color: #000000;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@layer utilities {
+  .gradient-bg {
+    background: linear-gradient(135deg, #319795 0%, #1D4044 100%);
+  }
+
+  .gradient-footer {
+    background: linear-gradient(135deg, #319795 0%, #1D4044 100%);
+  }
+
+  /* Override footer gradient when parent has gradient-bg */
+  .gradient-bg .gradient-footer {
+    background: transparent !important;
+  }
+}
+
+/* Mermaid diagram styling */
+.mermaid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mermaid svg {
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+}
+
+.mermaid .node rect,
+.mermaid .node polygon {
+  filter: drop-shadow(0 4px 6px rgba(0,0,0,0.15));
+  min-width: 280px !important;
+  min-height: 100px !important;
+  padding: 25px !important;
+}
+
+.mermaid .cluster rect {
+  fill: #e0e7ff !important;
+  padding: 30px !important;
+}
+
+.mermaid .cluster text,
+.mermaid .cluster tspan,
+.mermaid g.cluster text,
+.mermaid g.cluster tspan {
+  fill: #f97316 !important;
+  color: #f97316 !important;
+  font-weight: 700 !important;
+  font-size: 38px !important;
+}
+
+.mermaid g.node:not(.cluster) text {
+  fill: #ffffff !important;
+  font-weight: 600 !important;
+  font-size: 36px !important;
+}
+
+.mermaid text,
+.mermaid tspan {
+  font-size: 36px !important;
+}

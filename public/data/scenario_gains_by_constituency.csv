@@ -1,0 +1,1951 @@
+scenario,constituency_code,constituency_name,average_gain
+raise_basic_rate_1p,E14001063,Aldershot,-288.59506
+raise_basic_rate_1p,E14001064,Aldridge-Brownhills,-222.3458
+raise_basic_rate_1p,E14001065,Altrincham and Sale West,-327.28253
+raise_basic_rate_1p,E14001066,Amber Valley,-213.66397
+raise_basic_rate_1p,E14001067,Arundel and South Downs,-267.12375
+raise_basic_rate_1p,E14001068,Ashfield,-191.43382
+raise_basic_rate_1p,E14001069,Ashford,-258.21985
+raise_basic_rate_1p,E14001070,Ashton-under-Lyne,-193.38597
+raise_basic_rate_1p,E14001071,Aylesbury,-301.78757
+raise_basic_rate_1p,E14001072,Banbury,-302.18573
+raise_basic_rate_1p,E14001073,Barking,-223.12938
+raise_basic_rate_1p,E14001074,Barnsley North,-203.82707
+raise_basic_rate_1p,E14001075,Barnsley South,-205.84248
+raise_basic_rate_1p,E14001076,Barrow and Furness,-231.49925
+raise_basic_rate_1p,E14001077,Basildon and Billericay,-260.3681
+raise_basic_rate_1p,E14001078,Basingstoke,-310.0466
+raise_basic_rate_1p,E14001079,Bassetlaw,-220.89552
+raise_basic_rate_1p,E14001080,Bath,-255.28198
+raise_basic_rate_1p,E14001081,Battersea,-413.95154
+raise_basic_rate_1p,E14001082,Beaconsfield,-353.73428
+raise_basic_rate_1p,E14001083,Beckenham and Penge,-338.70865
+raise_basic_rate_1p,E14001084,Bedford,-249.52588
+raise_basic_rate_1p,E14001085,Bermondsey and Old Southwark,-340.87622
+raise_basic_rate_1p,E14001086,Bethnal Green and Stepney,-307.59906
+raise_basic_rate_1p,E14001087,Beverley and Holderness,-207.64633
+raise_basic_rate_1p,E14001088,Bexhill and Battle,-222.63567
+raise_basic_rate_1p,E14001089,Bexleyheath and Crayford,-293.9681
+raise_basic_rate_1p,E14001090,Bicester and Woodstock,-305.63513
+raise_basic_rate_1p,E14001091,Birkenhead,-187.70978
+raise_basic_rate_1p,E14001092,Birmingham Edgbaston,-214.44965
+raise_basic_rate_1p,E14001093,Birmingham Erdington,-161.5794
+raise_basic_rate_1p,E14001094,Birmingham Hall Green and Moseley,-179.46219
+raise_basic_rate_1p,E14001095,Birmingham Hodge Hill and Solihull North,-158.49167
+raise_basic_rate_1p,E14001096,Birmingham Ladywood,-138.61548
+raise_basic_rate_1p,E14001097,Birmingham Northfield,-195.14392
+raise_basic_rate_1p,E14001098,Birmingham Perry Barr,-149.92113
+raise_basic_rate_1p,E14001099,Birmingham Selly Oak,-182.07384
+raise_basic_rate_1p,E14001100,Birmingham Yardley,-154.15372
+raise_basic_rate_1p,E14001101,Bishop Auckland,-192.31454
+raise_basic_rate_1p,E14001102,Blackburn,-171.57446
+raise_basic_rate_1p,E14001103,Blackley and Middleton South,-170.55302
+raise_basic_rate_1p,E14001104,Blackpool North and Fleetwood,-193.75494
+raise_basic_rate_1p,E14001105,Blackpool South,-162.67336
+raise_basic_rate_1p,E14001106,Blaydon and Consett,-213.5758
+raise_basic_rate_1p,E14001107,Blyth and Ashington,-212.40387
+raise_basic_rate_1p,E14001108,Bognor Regis and Littlehampton,-202.0712
+raise_basic_rate_1p,E14001109,Bolsover,-189.88406
+raise_basic_rate_1p,E14001110,Bolton North East,-184.4727
+raise_basic_rate_1p,E14001111,Bolton South and Walkden,-191.88557
+raise_basic_rate_1p,E14001112,Bolton West,-226.92188
+raise_basic_rate_1p,E14001113,Bootle,-197.75456
+raise_basic_rate_1p,E14001114,Boston and Skegness,-190.17897
+raise_basic_rate_1p,E14001115,Bournemouth East,-236.89096
+raise_basic_rate_1p,E14001116,Bournemouth West,-207.66362
+raise_basic_rate_1p,E14001117,Bracknell,-313.94858
+raise_basic_rate_1p,E14001118,Bradford East,-140.96805
+raise_basic_rate_1p,E14001119,Bradford South,-166.24432
+raise_basic_rate_1p,E14001120,Bradford West,-126.523834
+raise_basic_rate_1p,E14001121,Braintree,-277.32407
+raise_basic_rate_1p,E14001122,Brent East,-267.1398
+raise_basic_rate_1p,E14001123,Brent West,-272.6176
+raise_basic_rate_1p,E14001124,Brentford and Isleworth,-356.17365
+raise_basic_rate_1p,E14001125,Brentwood and Ongar,-309.54367
+raise_basic_rate_1p,E14001126,Bridgwater,-210.5314
+raise_basic_rate_1p,E14001127,Bridlington and The Wolds,-207.49457
+raise_basic_rate_1p,E14001128,Brigg and Immingham,-210.05899
+raise_basic_rate_1p,E14001129,Brighton Kemptown and Peacehaven,-222.04651
+raise_basic_rate_1p,E14001130,Brighton Pavilion,-228.35945
+raise_basic_rate_1p,E14001131,Bristol Central,-257.56915
+raise_basic_rate_1p,E14001132,Bristol East,-249.81622
+raise_basic_rate_1p,E14001133,Bristol North East,-251.64053
+raise_basic_rate_1p,E14001134,Bristol North West,-280.18784
+raise_basic_rate_1p,E14001135,Bristol South,-234.38336
+raise_basic_rate_1p,E14001136,Broadland and Fakenham,-213.48409
+raise_basic_rate_1p,E14001137,Bromley and Biggin Hill,-330.91992
+raise_basic_rate_1p,E14001138,Bromsgrove,-280.70013
+raise_basic_rate_1p,E14001139,Broxbourne,-283.90872
+raise_basic_rate_1p,E14001140,Broxtowe,-228.43718
+raise_basic_rate_1p,E14001141,Buckingham and Bletchley,-321.90604
+raise_basic_rate_1p,E14001142,Burnley,-181.70645
+raise_basic_rate_1p,E14001143,Burton and Uttoxeter,-238.5414
+raise_basic_rate_1p,E14001144,Bury North,-215.15839
+raise_basic_rate_1p,E14001145,Bury South,-236.63742
+raise_basic_rate_1p,E14001146,Bury St Edmunds and Stowmarket,-249.91667
+raise_basic_rate_1p,E14001147,Calder Valley,-231.04129
+raise_basic_rate_1p,E14001148,Camborne and Redruth,-191.12355
+raise_basic_rate_1p,E14001149,Cambridge,-346.14404
+raise_basic_rate_1p,E14001150,Cannock Chase,-203.42296
+raise_basic_rate_1p,E14001151,Canterbury,-215.36607
+raise_basic_rate_1p,E14001152,Carlisle,-217.96399
+raise_basic_rate_1p,E14001153,Carshalton and Wallington,-275.2598
+raise_basic_rate_1p,E14001154,Castle Point,-231.37108
+raise_basic_rate_1p,E14001155,Central Devon,-212.79066
+raise_basic_rate_1p,E14001156,Central Suffolk and North Ipswich,-233.87863
+raise_basic_rate_1p,E14001157,Chatham and Aylesford,-250.17903
+raise_basic_rate_1p,E14001158,Cheadle,-274.50897
+raise_basic_rate_1p,E14001159,Chelmsford,-285.5829
+raise_basic_rate_1p,E14001160,Chelsea and Fulham,-408.03796
+raise_basic_rate_1p,E14001161,Cheltenham,-267.2785
+raise_basic_rate_1p,E14001162,Chesham and Amersham,-335.3806
+raise_basic_rate_1p,E14001163,Chester North and Neston,-236.78438
+raise_basic_rate_1p,E14001164,Chester South and Eddisbury,-249.49124
+raise_basic_rate_1p,E14001165,Chesterfield,-196.64584
+raise_basic_rate_1p,E14001166,Chichester,-268.05908
+raise_basic_rate_1p,E14001167,Chingford and Woodford Green,-319.6849
+raise_basic_rate_1p,E14001168,Chippenham,-264.6004
+raise_basic_rate_1p,E14001169,Chipping Barnet,-311.0507
+raise_basic_rate_1p,E14001170,Chorley,-239.48495
+raise_basic_rate_1p,E14001171,Christchurch,-205.0628
+raise_basic_rate_1p,E14001172,Cities of London and Westminster,-331.74506
+raise_basic_rate_1p,E14001173,City of Durham,-194.13046
+raise_basic_rate_1p,E14001174,Clacton,-164.83986
+raise_basic_rate_1p,E14001175,Clapham and Brixton Hill,-375.09253
+raise_basic_rate_1p,E14001176,Colchester,-266.90692
+raise_basic_rate_1p,E14001177,Colne Valley,-248.51881
+raise_basic_rate_1p,E14001178,Congleton,-299.5279
+raise_basic_rate_1p,E14001179,Corby and East Northamptonshire,-264.40173
+raise_basic_rate_1p,E14001180,Coventry East,-182.67616
+raise_basic_rate_1p,E14001181,Coventry North West,-192.92035
+raise_basic_rate_1p,E14001182,Coventry South,-165.65283
+raise_basic_rate_1p,E14001183,Cramlington and Killingworth,-212.88698
+raise_basic_rate_1p,E14001184,Crawley,-260.30475
+raise_basic_rate_1p,E14001185,Crewe and Nantwich,-241.56584
+raise_basic_rate_1p,E14001186,Croydon East,-287.5899
+raise_basic_rate_1p,E14001187,Croydon South,-318.74658
+raise_basic_rate_1p,E14001188,Croydon West,-267.62955
+raise_basic_rate_1p,E14001189,Dagenham and Rainham,-250.6168
+raise_basic_rate_1p,E14001190,Darlington,-207.89111
+raise_basic_rate_1p,E14001191,Dartford,-281.42557
+raise_basic_rate_1p,E14001192,Daventry,-299.66058
+raise_basic_rate_1p,E14001193,Derby North,-225.65945
+raise_basic_rate_1p,E14001194,Derby South,-177.80215
+raise_basic_rate_1p,E14001195,Derbyshire Dales,-238.7806
+raise_basic_rate_1p,E14001196,Dewsbury and Batley,-195.11235
+raise_basic_rate_1p,E14001197,Didcot and Wantage,-317.0029
+raise_basic_rate_1p,E14001198,Doncaster Central,-205.9103
+raise_basic_rate_1p,E14001199,Doncaster East and the Isle of Axholme,-211.51985
+raise_basic_rate_1p,E14001200,Doncaster North,-188.62344
+raise_basic_rate_1p,E14001201,Dorking and Horley,-326.11902
+raise_basic_rate_1p,E14001202,Dover and Deal,-200.35516
+raise_basic_rate_1p,E14001203,Droitwich and Evesham,-258.46027
+raise_basic_rate_1p,E14001204,Dudley,-188.13663
+raise_basic_rate_1p,E14001205,Dulwich and West Norwood,-373.75943
+raise_basic_rate_1p,E14001206,Dunstable and Leighton Buzzard,-289.2392
+raise_basic_rate_1p,E14001207,Ealing Central and Acton,-374.03802
+raise_basic_rate_1p,E14001208,Ealing North,-287.7656
+raise_basic_rate_1p,E14001209,Ealing Southall,-305.35306
+raise_basic_rate_1p,E14001210,Earley and Woodley,-328.40353
+raise_basic_rate_1p,E14001211,Easington,-191.93195
+raise_basic_rate_1p,E14001212,East Grinstead and Uckfield,-282.45255
+raise_basic_rate_1p,E14001213,East Ham,-230.82442
+raise_basic_rate_1p,E14001214,East Hampshire,-281.94464
+raise_basic_rate_1p,E14001215,East Surrey,-327.67026
+raise_basic_rate_1p,E14001216,East Thanet,-200.7529
+raise_basic_rate_1p,E14001217,East Wiltshire,-259.5671
+raise_basic_rate_1p,E14001218,East Worthing and Shoreham,-230.24756
+raise_basic_rate_1p,E14001219,Eastbourne,-185.51056
+raise_basic_rate_1p,E14001220,Eastleigh,-284.08466
+raise_basic_rate_1p,E14001221,Edmonton and Winchmore Hill,-223.19458
+raise_basic_rate_1p,E14001222,Ellesmere Port and Bromborough,-243.18474
+raise_basic_rate_1p,E14001223,Eltham and Chislehurst,-302.4109
+raise_basic_rate_1p,E14001224,Ely and East Cambridgeshire,-300.5875
+raise_basic_rate_1p,E14001225,Enfield North,-227.65434
+raise_basic_rate_1p,E14001226,Epping Forest,-314.84277
+raise_basic_rate_1p,E14001227,Epsom and Ewell,-319.0211
+raise_basic_rate_1p,E14001228,Erewash,-224.72011
+raise_basic_rate_1p,E14001229,Erith and Thamesmead,-262.33212
+raise_basic_rate_1p,E14001230,Esher and Walton,-378.10373
+raise_basic_rate_1p,E14001231,Exeter,-209.10233
+raise_basic_rate_1p,E14001232,Exmouth and Exeter East,-224.97873
+raise_basic_rate_1p,E14001233,Fareham and Waterlooville,-263.6008
+raise_basic_rate_1p,E14001234,Farnham and Bordon,-334.3556
+raise_basic_rate_1p,E14001235,Faversham and Mid Kent,-274.0724
+raise_basic_rate_1p,E14001236,Feltham and Heston,-246.46835
+raise_basic_rate_1p,E14001237,Filton and Bradley Stoke,-271.29047
+raise_basic_rate_1p,E14001238,Finchley and Golders Green,-320.93573
+raise_basic_rate_1p,E14001239,Folkestone and Hythe,-206.03854
+raise_basic_rate_1p,E14001240,Forest of Dean,-210.45921
+raise_basic_rate_1p,E14001241,Frome and East Somerset,-240.7753
+raise_basic_rate_1p,E14001242,Fylde,-251.33104
+raise_basic_rate_1p,E14001243,Gainsborough,-233.41853
+raise_basic_rate_1p,E14001244,Gateshead Central and Whickham,-203.21121
+raise_basic_rate_1p,E14001245,Gedling,-217.06755
+raise_basic_rate_1p,E14001246,Gillingham and Rainham,-252.6089
+raise_basic_rate_1p,E14001247,Glastonbury and Somerton,-223.18562
+raise_basic_rate_1p,E14001248,Gloucester,-224.12465
+raise_basic_rate_1p,E14001249,Godalming and Ash,-332.46564
+raise_basic_rate_1p,E14001250,Goole and Pocklington,-237.24445
+raise_basic_rate_1p,E14001251,Gorton and Denton,-185.41801
+raise_basic_rate_1p,E14001252,Gosport,-219.73921
+raise_basic_rate_1p,E14001253,Grantham and Bourne,-242.20935
+raise_basic_rate_1p,E14001254,Gravesham,-265.264
+raise_basic_rate_1p,E14001255,Great Grimsby and Cleethorpes,-201.0615
+raise_basic_rate_1p,E14001256,Great Yarmouth,-188.38475
+raise_basic_rate_1p,E14001257,Greenwich and Woolwich,-366.9373
+raise_basic_rate_1p,E14001258,Guildford,-325.22144
+raise_basic_rate_1p,E14001259,Hackney North and Stoke Newington,-289.88727
+raise_basic_rate_1p,E14001260,Hackney South and Shoreditch,-310.3168
+raise_basic_rate_1p,E14001261,Halesowen,-201.23528
+raise_basic_rate_1p,E14001262,Halifax,-168.54285
+raise_basic_rate_1p,E14001263,Hamble Valley,-269.5478
+raise_basic_rate_1p,E14001264,Hammersmith and Chiswick,-372.0358
+raise_basic_rate_1p,E14001265,Hampstead and Highgate,-332.89355
+raise_basic_rate_1p,E14001266,"Harborough, Oadby and Wigston",-256.65457
+raise_basic_rate_1p,E14001267,Harlow,-275.40234
+raise_basic_rate_1p,E14001268,Harpenden and Berkhamsted,-337.22858
+raise_basic_rate_1p,E14001269,Harrogate and Knaresborough,-286.61078
+raise_basic_rate_1p,E14001270,Harrow East,-287.66003
+raise_basic_rate_1p,E14001271,Harrow West,-286.1544
+raise_basic_rate_1p,E14001272,Hartlepool,-191.64575
+raise_basic_rate_1p,E14001273,Harwich and North Essex,-241.78966
+raise_basic_rate_1p,E14001274,Hastings and Rye,-185.80386
+raise_basic_rate_1p,E14001275,Havant,-212.96808
+raise_basic_rate_1p,E14001276,Hayes and Harlington,-232.36769
+raise_basic_rate_1p,E14001277,Hazel Grove,-253.77599
+raise_basic_rate_1p,E14001278,Hemel Hempstead,-295.38373
+raise_basic_rate_1p,E14001279,Hendon,-292.2631
+raise_basic_rate_1p,E14001280,Henley and Thame,-328.872
+raise_basic_rate_1p,E14001281,Hereford and South Herefordshire,-193.4149
+raise_basic_rate_1p,E14001282,Herne Bay and Sandwich,-206.57416
+raise_basic_rate_1p,E14001283,Hertford and Stortford,-335.78537
+raise_basic_rate_1p,E14001284,Hertsmere,-334.56976
+raise_basic_rate_1p,E14001285,Hexham,-243.65
+raise_basic_rate_1p,E14001286,Heywood and Middleton North,-211.58546
+raise_basic_rate_1p,E14001287,High Peak,-221.18835
+raise_basic_rate_1p,E14001288,Hinckley and Bosworth,-252.47794
+raise_basic_rate_1p,E14001289,Hitchin,-342.82983
+raise_basic_rate_1p,E14001290,Holborn and St Pancras,-261.55704
+raise_basic_rate_1p,E14001291,Honiton and Sidmouth,-218.51193
+raise_basic_rate_1p,E14001292,Hornchurch and Upminster,-303.75006
+raise_basic_rate_1p,E14001293,Hornsey and Friern Barnet,-358.90894
+raise_basic_rate_1p,E14001294,Horsham,-295.6996
+raise_basic_rate_1p,E14001295,Houghton and Sunderland South,-190.70216
+raise_basic_rate_1p,E14001296,Hove and Portslade,-283.47192
+raise_basic_rate_1p,E14001297,Huddersfield,-186.86877
+raise_basic_rate_1p,E14001298,Huntingdon,-282.13193
+raise_basic_rate_1p,E14001299,Hyndburn,-175.55983
+raise_basic_rate_1p,E14001300,Ilford North,-263.6375
+raise_basic_rate_1p,E14001301,Ilford South,-225.16252
+raise_basic_rate_1p,E14001302,Ipswich,-247.12384
+raise_basic_rate_1p,E14001303,Isle of Wight East,-190.1326
+raise_basic_rate_1p,E14001304,Isle of Wight West,-190.30165
+raise_basic_rate_1p,E14001305,Islington North,-326.81647
+raise_basic_rate_1p,E14001306,Islington South and Finsbury,-311.0996
+raise_basic_rate_1p,E14001307,Jarrow and Gateshead East,-207.81519
+raise_basic_rate_1p,E14001308,Keighley and Ilkley,-212.50722
+raise_basic_rate_1p,E14001309,Kenilworth and Southam,-298.92615
+raise_basic_rate_1p,E14001310,Kensington and Bayswater,-359.85532
+raise_basic_rate_1p,E14001311,Kettering,-271.2241
+raise_basic_rate_1p,E14001312,Kingston and Surbiton,-294.38144
+raise_basic_rate_1p,E14001313,Kingston upon Hull East,-180.589
+raise_basic_rate_1p,E14001314,Kingston upon Hull North and Cottingham,-205.06621
+raise_basic_rate_1p,E14001315,Kingston upon Hull West and Haltemprice,-221.5239
+raise_basic_rate_1p,E14001316,Kingswinford and South Staffordshire,-228.14166
+raise_basic_rate_1p,E14001317,Knowsley,-203.26263
+raise_basic_rate_1p,E14001318,Lancaster and Wyre,-205.32283
+raise_basic_rate_1p,E14001319,Leeds Central and Headingley,-200.81569
+raise_basic_rate_1p,E14001320,Leeds East,-220.45905
+raise_basic_rate_1p,E14001321,Leeds North East,-271.74014
+raise_basic_rate_1p,E14001322,Leeds North West,-267.7072
+raise_basic_rate_1p,E14001323,Leeds South,-166.77672
+raise_basic_rate_1p,E14001324,Leeds South West and Morley,-263.5631
+raise_basic_rate_1p,E14001325,Leeds West and Pudsey,-252.76286
+raise_basic_rate_1p,E14001326,Leicester East,-160.14618
+raise_basic_rate_1p,E14001327,Leicester South,-155.1139
+raise_basic_rate_1p,E14001328,Leicester West,-185.58746
+raise_basic_rate_1p,E14001329,Leigh and Atherton,-235.0235
+raise_basic_rate_1p,E14001330,Lewes,-229.29675
+raise_basic_rate_1p,E14001331,Lewisham East,-305.23047
+raise_basic_rate_1p,E14001332,Lewisham North,-318.83264
+raise_basic_rate_1p,E14001333,Lewisham West and East Dulwich,-325.5885
+raise_basic_rate_1p,E14001334,Leyton and Wanstead,-306.11932
+raise_basic_rate_1p,E14001335,Lichfield,-262.44894
+raise_basic_rate_1p,E14001336,Lincoln,-204.57628
+raise_basic_rate_1p,E14001337,Liverpool Garston,-214.9654
+raise_basic_rate_1p,E14001338,Liverpool Riverside,-165.5384
+raise_basic_rate_1p,E14001339,Liverpool Walton,-188.81754
+raise_basic_rate_1p,E14001340,Liverpool Wavertree,-170.72655
+raise_basic_rate_1p,E14001341,Liverpool West Derby,-188.52785
+raise_basic_rate_1p,E14001342,Loughborough,-207.38431
+raise_basic_rate_1p,E14001343,Louth and Horncastle,-167.26434
+raise_basic_rate_1p,E14001344,Lowestoft,-165.66158
+raise_basic_rate_1p,E14001345,Luton North,-207.19872
+raise_basic_rate_1p,E14001346,Luton South and South Bedfordshire,-221.1606
+raise_basic_rate_1p,E14001347,Macclesfield,-283.12967
+raise_basic_rate_1p,E14001348,Maidenhead,-348.72443
+raise_basic_rate_1p,E14001349,Maidstone and Malling,-295.7082
+raise_basic_rate_1p,E14001350,Makerfield,-231.44467
+raise_basic_rate_1p,E14001351,Maldon,-286.16385
+raise_basic_rate_1p,E14001352,Manchester Central,-172.75636
+raise_basic_rate_1p,E14001353,Manchester Rusholme,-163.74725
+raise_basic_rate_1p,E14001354,Manchester Withington,-256.4087
+raise_basic_rate_1p,E14001355,Mansfield,-200.48631
+raise_basic_rate_1p,E14001356,Melksham and Devizes,-257.7673
+raise_basic_rate_1p,E14001357,Melton and Syston,-250.09015
+raise_basic_rate_1p,E14001358,Meriden and Solihull East,-263.9528
+raise_basic_rate_1p,E14001359,Mid Bedfordshire,-309.60504
+raise_basic_rate_1p,E14001360,Mid Buckinghamshire,-317.44266
+raise_basic_rate_1p,E14001361,Mid Cheshire,-272.91098
+raise_basic_rate_1p,E14001362,Mid Derbyshire,-250.0665
+raise_basic_rate_1p,E14001363,Mid Dorset and North Poole,-240.5621
+raise_basic_rate_1p,E14001364,Mid Leicestershire,-255.66187
+raise_basic_rate_1p,E14001365,Mid Norfolk,-239.1825
+raise_basic_rate_1p,E14001366,Mid Sussex,-299.18787
+raise_basic_rate_1p,E14001367,Middlesbrough and Thornaby East,-179.77626
+raise_basic_rate_1p,E14001368,Middlesbrough South and East Cleveland,-209.19234
+raise_basic_rate_1p,E14001369,Milton Keynes Central,-297.98212
+raise_basic_rate_1p,E14001370,Milton Keynes North,-284.71783
+raise_basic_rate_1p,E14001371,Mitcham and Morden,-317.80563
+raise_basic_rate_1p,E14001372,Morecambe and Lunesdale,-203.74445
+raise_basic_rate_1p,E14001373,New Forest East,-236.02711
+raise_basic_rate_1p,E14001374,New Forest West,-240.04686
+raise_basic_rate_1p,E14001375,Newark,-252.4095
+raise_basic_rate_1p,E14001376,Newbury,-310.09427
+raise_basic_rate_1p,E14001377,Newcastle upon Tyne Central and West,-185.15259
+raise_basic_rate_1p,E14001378,Newcastle upon Tyne East and Wallsend,-183.45772
+raise_basic_rate_1p,E14001379,Newcastle upon Tyne North,-205.91841
+raise_basic_rate_1p,E14001380,Newcastle-under-Lyme,-214.61404
+raise_basic_rate_1p,E14001381,Newton Abbot,-212.2235
+raise_basic_rate_1p,E14001382,Newton Aycliffe and Spennymoor,-193.53703
+raise_basic_rate_1p,E14001383,Normanton and Hemsworth,-213.0168
+raise_basic_rate_1p,E14001384,North Bedfordshire,-315.6935
+raise_basic_rate_1p,E14001385,North Cornwall,-180.66277
+raise_basic_rate_1p,E14001386,North Cotswolds,-264.1613
+raise_basic_rate_1p,E14001387,North Devon,-199.27861
+raise_basic_rate_1p,E14001388,North Dorset,-238.08408
+raise_basic_rate_1p,E14001389,North Durham,-211.1319
+raise_basic_rate_1p,E14001390,North East Cambridgeshire,-235.22084
+raise_basic_rate_1p,E14001391,North East Derbyshire,-228.16663
+raise_basic_rate_1p,E14001392,North East Hampshire,-342.34088
+raise_basic_rate_1p,E14001393,North East Hertfordshire,-313.82898
+raise_basic_rate_1p,E14001394,North East Somerset and Hanham,-256.1968
+raise_basic_rate_1p,E14001395,North Herefordshire,-221.47893
+raise_basic_rate_1p,E14001396,North Norfolk,-198.5329
+raise_basic_rate_1p,E14001397,North Northumberland,-186.69702
+raise_basic_rate_1p,E14001398,North Shropshire,-224.89825
+raise_basic_rate_1p,E14001399,North Somerset,-287.29492
+raise_basic_rate_1p,E14001400,North Warwickshire and Bedworth,-211.33112
+raise_basic_rate_1p,E14001401,North West Cambridgeshire,-267.58417
+raise_basic_rate_1p,E14001402,North West Essex,-316.9582
+raise_basic_rate_1p,E14001403,North West Hampshire,-307.9326
+raise_basic_rate_1p,E14001404,North West Leicestershire,-260.28104
+raise_basic_rate_1p,E14001405,North West Norfolk,-201.82677
+raise_basic_rate_1p,E14001406,Northampton North,-255.0261
+raise_basic_rate_1p,E14001407,Northampton South,-278.15176
+raise_basic_rate_1p,E14001408,Norwich North,-229.6401
+raise_basic_rate_1p,E14001409,Norwich South,-220.86166
+raise_basic_rate_1p,E14001410,Nottingham East,-135.5321
+raise_basic_rate_1p,E14001411,Nottingham North and Kimberley,-191.24355
+raise_basic_rate_1p,E14001412,Nottingham South,-156.64236
+raise_basic_rate_1p,E14001413,Nuneaton,-243.94385
+raise_basic_rate_1p,E14001414,Old Bexley and Sidcup,-295.72687
+raise_basic_rate_1p,E14001415,Oldham East and Saddleworth,-193.7133
+raise_basic_rate_1p,E14001416,"Oldham West, Chadderton and Royton",-162.9789
+raise_basic_rate_1p,E14001417,Orpington,-305.497
+raise_basic_rate_1p,E14001418,Ossett and Denby Dale,-213.74997
+raise_basic_rate_1p,E14001419,Oxford East,-262.84467
+raise_basic_rate_1p,E14001420,Oxford West and Abingdon,-300.25116
+raise_basic_rate_1p,E14001421,Peckham,-324.6406
+raise_basic_rate_1p,E14001422,Pendle and Clitheroe,-193.21638
+raise_basic_rate_1p,E14001423,Penistone and Stocksbridge,-221.58705
+raise_basic_rate_1p,E14001424,Penrith and Solway,-208.80263
+raise_basic_rate_1p,E14001425,Peterborough,-204.16132
+raise_basic_rate_1p,E14001426,Plymouth Moor View,-197.84311
+raise_basic_rate_1p,E14001427,Plymouth Sutton and Devonport,-192.04778
+raise_basic_rate_1p,E14001428,"Pontefract, Castleford and Knottingley",-232.81847
+raise_basic_rate_1p,E14001429,Poole,-250.56506
+raise_basic_rate_1p,E14001430,Poplar and Limehouse,-346.63248
+raise_basic_rate_1p,E14001431,Portsmouth North,-233.33104
+raise_basic_rate_1p,E14001432,Portsmouth South,-184.215
+raise_basic_rate_1p,E14001433,Preston,-186.8353
+raise_basic_rate_1p,E14001434,Putney,-407.94656
+raise_basic_rate_1p,E14001435,Queen's Park and Maida Vale,-288.1157
+raise_basic_rate_1p,E14001436,Rawmarsh and Conisbrough,-200.83801
+raise_basic_rate_1p,E14001437,Rayleigh and Wickford,-283.07498
+raise_basic_rate_1p,E14001438,Reading Central,-317.5348
+raise_basic_rate_1p,E14001439,Reading West and Mid Berkshire,-306.80276
+raise_basic_rate_1p,E14001440,Redcar,-184.90323
+raise_basic_rate_1p,E14001441,Redditch,-259.95563
+raise_basic_rate_1p,E14001442,Reigate,-338.16415
+raise_basic_rate_1p,E14001443,Ribble Valley,-264.3819
+raise_basic_rate_1p,E14001444,Richmond and Northallerton,-227.58492
+raise_basic_rate_1p,E14001445,Richmond Park,-374.39084
+raise_basic_rate_1p,E14001446,Rochdale,-155.71228
+raise_basic_rate_1p,E14001447,Rochester and Strood,-251.91322
+raise_basic_rate_1p,E14001448,Romford,-273.97562
+raise_basic_rate_1p,E14001449,Romsey and Southampton North,-278.23224
+raise_basic_rate_1p,E14001450,Rossendale and Darwen,-233.04193
+raise_basic_rate_1p,E14001451,Rother Valley,-218.17108
+raise_basic_rate_1p,E14001452,Rotherham,-186.27016
+raise_basic_rate_1p,E14001453,Rugby,-286.51727
+raise_basic_rate_1p,E14001454,"Ruislip, Northwood and Pinner",-324.26413
+raise_basic_rate_1p,E14001455,Runcorn and Helsby,-233.4108
+raise_basic_rate_1p,E14001456,Runnymede and Weybridge,-355.96796
+raise_basic_rate_1p,E14001457,Rushcliffe,-294.48386
+raise_basic_rate_1p,E14001458,Rutland and Stamford,-247.27887
+raise_basic_rate_1p,E14001459,Salford,-254.60393
+raise_basic_rate_1p,E14001460,Salisbury,-265.7379
+raise_basic_rate_1p,E14001461,Scarborough and Whitby,-170.9315
+raise_basic_rate_1p,E14001462,Scunthorpe,-216.68011
+raise_basic_rate_1p,E14001463,Sefton Central,-243.83736
+raise_basic_rate_1p,E14001464,Selby,-267.0655
+raise_basic_rate_1p,E14001465,Sevenoaks,-339.27127
+raise_basic_rate_1p,E14001466,Sheffield Brightside and Hillsborough,-159.629
+raise_basic_rate_1p,E14001467,Sheffield Central,-130.31485
+raise_basic_rate_1p,E14001468,Sheffield Hallam,-249.95625
+raise_basic_rate_1p,E14001469,Sheffield Heeley,-182.0604
+raise_basic_rate_1p,E14001470,Sheffield South East,-173.53975
+raise_basic_rate_1p,E14001471,Sherwood Forest,-215.29578
+raise_basic_rate_1p,E14001472,Shipley,-228.71951
+raise_basic_rate_1p,E14001473,Shrewsbury,-251.87343
+raise_basic_rate_1p,E14001474,Sittingbourne and Sheppey,-223.08089
+raise_basic_rate_1p,E14001475,Skipton and Ripon,-239.83974
+raise_basic_rate_1p,E14001476,Sleaford and North Hykeham,-244.31052
+raise_basic_rate_1p,E14001477,Slough,-255.53528
+raise_basic_rate_1p,E14001478,Smethwick,-192.45105
+raise_basic_rate_1p,E14001479,Solihull West and Shirley,-273.9985
+raise_basic_rate_1p,E14001480,South Basildon and East Thurrock,-264.8283
+raise_basic_rate_1p,E14001481,South Cambridgeshire,-337.58893
+raise_basic_rate_1p,E14001482,South Cotswolds,-270.5867
+raise_basic_rate_1p,E14001483,South Derbyshire,-252.12056
+raise_basic_rate_1p,E14001484,South Devon,-196.08849
+raise_basic_rate_1p,E14001485,South Dorset,-188.88051
+raise_basic_rate_1p,E14001486,South East Cornwall,-191.53851
+raise_basic_rate_1p,E14001487,South Holland and The Deepings,-244.11925
+raise_basic_rate_1p,E14001488,South Leicestershire,-260.6506
+raise_basic_rate_1p,E14001489,South Norfolk,-240.40334
+raise_basic_rate_1p,E14001490,South Northamptonshire,-307.7808
+raise_basic_rate_1p,E14001491,South Ribble,-232.3149
+raise_basic_rate_1p,E14001492,South Shields,-177.39713
+raise_basic_rate_1p,E14001493,South Shropshire,-220.48647
+raise_basic_rate_1p,E14001494,South Suffolk,-249.30507
+raise_basic_rate_1p,E14001495,South West Devon,-253.91379
+raise_basic_rate_1p,E14001496,South West Hertfordshire,-335.55536
+raise_basic_rate_1p,E14001497,South West Norfolk,-212.95917
+raise_basic_rate_1p,E14001498,South West Wiltshire,-255.21323
+raise_basic_rate_1p,E14001499,Southampton Itchen,-223.61868
+raise_basic_rate_1p,E14001500,Southampton Test,-219.17084
+raise_basic_rate_1p,E14001501,Southend East and Rochford,-230.14455
+raise_basic_rate_1p,E14001502,Southend West and Leigh,-264.28278
+raise_basic_rate_1p,E14001503,Southgate and Wood Green,-329.0542
+raise_basic_rate_1p,E14001504,Southport,-225.1516
+raise_basic_rate_1p,E14001505,Spelthorne,-292.57416
+raise_basic_rate_1p,E14001506,Spen Valley,-186.92621
+raise_basic_rate_1p,E14001507,St Albans,-357.23328
+raise_basic_rate_1p,E14001508,St Austell and Newquay,-198.04253
+raise_basic_rate_1p,E14001509,St Helens North,-211.06334
+raise_basic_rate_1p,E14001510,St Helens South and Whiston,-214.51762
+raise_basic_rate_1p,E14001511,St Ives,-185.53398
+raise_basic_rate_1p,E14001512,St Neots and Mid Cambridgeshire,-313.6313
+raise_basic_rate_1p,E14001513,Stafford,-237.598
+raise_basic_rate_1p,E14001514,Staffordshire Moorlands,-231.75787
+raise_basic_rate_1p,E14001515,Stalybridge and Hyde,-228.77989
+raise_basic_rate_1p,E14001516,Stevenage,-281.92517
+raise_basic_rate_1p,E14001517,Stockport,-256.16833
+raise_basic_rate_1p,E14001518,Stockton North,-204.328
+raise_basic_rate_1p,E14001519,Stockton West,-230.24078
+raise_basic_rate_1p,E14001520,Stoke-on-Trent Central,-178.33778
+raise_basic_rate_1p,E14001521,Stoke-on-Trent North,-182.39975
+raise_basic_rate_1p,E14001522,Stoke-on-Trent South,-216.71143
+raise_basic_rate_1p,E14001523,"Stone, Great Wyrley and Penkridge",-246.22134
+raise_basic_rate_1p,E14001524,Stourbridge,-210.04639
+raise_basic_rate_1p,E14001525,Stratford and Bow,-278.2529
+raise_basic_rate_1p,E14001526,Stratford-on-Avon,-276.00177
+raise_basic_rate_1p,E14001527,Streatham and Croydon North,-322.78442
+raise_basic_rate_1p,E14001528,Stretford and Urmston,-248.4993
+raise_basic_rate_1p,E14001529,Stroud,-246.0984
+raise_basic_rate_1p,E14001530,Suffolk Coastal,-222.97937
+raise_basic_rate_1p,E14001531,Sunderland Central,-183.70975
+raise_basic_rate_1p,E14001532,Surrey Heath,-313.6287
+raise_basic_rate_1p,E14001533,Sussex Weald,-252.15459
+raise_basic_rate_1p,E14001534,Sutton and Cheam,-317.22943
+raise_basic_rate_1p,E14001535,Sutton Coldfield,-288.40732
+raise_basic_rate_1p,E14001536,Swindon North,-291.33484
+raise_basic_rate_1p,E14001537,Swindon South,-277.64392
+raise_basic_rate_1p,E14001538,Tamworth,-242.72827
+raise_basic_rate_1p,E14001539,Tatton,-320.5055
+raise_basic_rate_1p,E14001540,Taunton and Wellington,-244.43745
+raise_basic_rate_1p,E14001541,Telford,-216.45036
+raise_basic_rate_1p,E14001542,Tewkesbury,-250.0487
+raise_basic_rate_1p,E14001543,The Wrekin,-234.3759
+raise_basic_rate_1p,E14001544,Thirsk and Malton,-221.7524
+raise_basic_rate_1p,E14001545,Thornbury and Yate,-280.2623
+raise_basic_rate_1p,E14001546,Thurrock,-277.00815
+raise_basic_rate_1p,E14001547,Tipton and Wednesbury,-189.75914
+raise_basic_rate_1p,E14001548,Tiverton and Minehead,-211.77094
+raise_basic_rate_1p,E14001549,Tonbridge,-317.42114
+raise_basic_rate_1p,E14001550,Tooting,-412.73917
+raise_basic_rate_1p,E14001551,Torbay,-194.19563
+raise_basic_rate_1p,E14001552,Torridge and Tavistock,-182.54538
+raise_basic_rate_1p,E14001553,Tottenham,-263.47733
+raise_basic_rate_1p,E14001554,Truro and Falmouth,-214.97195
+raise_basic_rate_1p,E14001555,Tunbridge Wells,-319.71762
+raise_basic_rate_1p,E14001556,Twickenham,-365.61777
+raise_basic_rate_1p,E14001557,Tynemouth,-258.24283
+raise_basic_rate_1p,E14001558,Uxbridge and South Ruislip,-296.66925
+raise_basic_rate_1p,E14001559,Vauxhall and Camberwell Green,-360.74655
+raise_basic_rate_1p,E14001560,Wakefield and Rothwell,-254.88516
+raise_basic_rate_1p,E14001561,Wallasey,-197.17104
+raise_basic_rate_1p,E14001562,Walsall and Bloxwich,-167.00568
+raise_basic_rate_1p,E14001563,Walthamstow,-314.04034
+raise_basic_rate_1p,E14001564,Warrington North,-241.31421
+raise_basic_rate_1p,E14001565,Warrington South,-291.327
+raise_basic_rate_1p,E14001566,Warwick and Leamington,-323.26993
+raise_basic_rate_1p,E14001567,Washington and Gateshead South,-199.70898
+raise_basic_rate_1p,E14001568,Watford,-299.9271
+raise_basic_rate_1p,E14001569,Waveney Valley,-232.72647
+raise_basic_rate_1p,E14001570,Weald of Kent,-274.7922
+raise_basic_rate_1p,E14001571,Wellingborough and Rushden,-239.57442
+raise_basic_rate_1p,E14001572,Wells and Mendip Hills,-226.4868
+raise_basic_rate_1p,E14001573,Welwyn Hatfield,-275.74936
+raise_basic_rate_1p,E14001574,West Bromwich,-187.5844
+raise_basic_rate_1p,E14001575,West Dorset,-216.82457
+raise_basic_rate_1p,E14001576,West Ham and Beckton,-246.59616
+raise_basic_rate_1p,E14001577,West Lancashire,-214.82843
+raise_basic_rate_1p,E14001578,West Suffolk,-242.4515
+raise_basic_rate_1p,E14001579,West Worcestershire,-224.14548
+raise_basic_rate_1p,E14001580,Westmorland and Lonsdale,-233.16866
+raise_basic_rate_1p,E14001581,Weston-super-Mare,-221.04259
+raise_basic_rate_1p,E14001582,Wetherby and Easingwold,-250.98459
+raise_basic_rate_1p,E14001583,Whitehaven and Workington,-220.84169
+raise_basic_rate_1p,E14001584,Widnes and Halewood,-214.16724
+raise_basic_rate_1p,E14001585,Wigan,-228.1937
+raise_basic_rate_1p,E14001586,Wimbledon,-400.02985
+raise_basic_rate_1p,E14001587,Winchester,-312.0526
+raise_basic_rate_1p,E14001588,Windsor,-344.84567
+raise_basic_rate_1p,E14001589,Wirral West,-235.54391
+raise_basic_rate_1p,E14001590,Witham,-284.5289
+raise_basic_rate_1p,E14001591,Witney,-313.86316
+raise_basic_rate_1p,E14001592,Woking,-358.37946
+raise_basic_rate_1p,E14001593,Wokingham,-336.12482
+raise_basic_rate_1p,E14001594,Wolverhampton North East,-180.32098
+raise_basic_rate_1p,E14001595,Wolverhampton South East,-175.50763
+raise_basic_rate_1p,E14001596,Wolverhampton West,-215.65753
+raise_basic_rate_1p,E14001597,Worcester,-236.70471
+raise_basic_rate_1p,E14001598,Worsley and Eccles,-253.80666
+raise_basic_rate_1p,E14001599,Worthing West,-239.95456
+raise_basic_rate_1p,E14001600,Wycombe,-304.1386
+raise_basic_rate_1p,E14001601,Wyre Forest,-212.89352
+raise_basic_rate_1p,E14001602,Wythenshawe and Sale East,-239.48204
+raise_basic_rate_1p,E14001603,Yeovil,-215.43854
+raise_basic_rate_1p,E14001604,York Central,-207.98613
+raise_basic_rate_1p,E14001605,York Outer,-250.52563
+raise_basic_rate_1p,N05000001,Belfast East,-299.12714
+raise_basic_rate_1p,N05000002,Belfast North,-209.33034
+raise_basic_rate_1p,N05000003,Belfast South and Mid Down,-288.2583
+raise_basic_rate_1p,N05000004,Belfast West,-210.46608
+raise_basic_rate_1p,N05000005,East Antrim,-223.59528
+raise_basic_rate_1p,N05000006,East Londonderry,-196.10527
+raise_basic_rate_1p,N05000007,Fermanagh and South Tyrone,-246.78825
+raise_basic_rate_1p,N05000008,Foyle,-222.3463
+raise_basic_rate_1p,N05000009,Lagan Valley,-300.99954
+raise_basic_rate_1p,N05000010,Mid Ulster,-248.95192
+raise_basic_rate_1p,N05000011,Newry and Armagh,-257.1703
+raise_basic_rate_1p,N05000012,North Antrim,-258.22177
+raise_basic_rate_1p,N05000013,North Down,-264.5109
+raise_basic_rate_1p,N05000014,South Antrim,-274.54175
+raise_basic_rate_1p,N05000015,South Down,-253.72633
+raise_basic_rate_1p,N05000016,Strangford,-225.61002
+raise_basic_rate_1p,N05000017,Upper Bann,-299.0476
+raise_basic_rate_1p,N05000018,West Tyrone,-205.45035
+raise_basic_rate_1p,S14000021,East Renfrewshire,-0.036429785
+raise_basic_rate_1p,S14000027,Na h-Eileanan an Iar,-0.03659408
+raise_basic_rate_1p,S14000045,Midlothian,-0.038744792
+raise_basic_rate_1p,S14000048,North Ayrshire and Arran,-0.03937137
+raise_basic_rate_1p,S14000051,Orkney and Shetland,-0.05249102
+raise_basic_rate_1p,S14000060,Aberdeen North,-0.036619432
+raise_basic_rate_1p,S14000061,Aberdeen South,-0.03927509
+raise_basic_rate_1p,S14000062,Aberdeenshire North and Moray East,-0.040864855
+raise_basic_rate_1p,S14000063,Airdrie and Shotts,-0.04945994
+raise_basic_rate_1p,S14000064,Alloa and Grangemouth,-0.038193595
+raise_basic_rate_1p,S14000065,Angus and Perthshire Glens,-0.032380357
+raise_basic_rate_1p,S14000066,Arbroath and Broughty Ferry,-0.027719647
+raise_basic_rate_1p,S14000067,"Argyll, Bute and South Lochaber",-0.03758579
+raise_basic_rate_1p,S14000068,Bathgate and Linlithgow,-0.032287978
+raise_basic_rate_1p,S14000069,"Caithness, Sutherland and Easter Ross",-0.046632793
+raise_basic_rate_1p,S14000070,Coatbridge and Bellshill,-0.03486574
+raise_basic_rate_1p,S14000071,Cowdenbeath and Kirkcaldy,-0.033607725
+raise_basic_rate_1p,S14000072,Cumbernauld and Kirkintilloch,-0.03885223
+raise_basic_rate_1p,S14000073,Dumfries and Galloway,-0.048605703
+raise_basic_rate_1p,S14000074,"Dumfriesshire, Clydesdale and Tweeddale",-0.025656324
+raise_basic_rate_1p,S14000075,Dundee Central,-0.03898668
+raise_basic_rate_1p,S14000076,Dunfermline and Dollar,-0.03608303
+raise_basic_rate_1p,S14000077,East Kilbride and Strathaven,-0.039780308
+raise_basic_rate_1p,S14000078,Edinburgh East and Musselburgh,-0.03539799
+raise_basic_rate_1p,S14000079,Edinburgh North and Leith,-0.03930213
+raise_basic_rate_1p,S14000080,Edinburgh South,-0.030730786
+raise_basic_rate_1p,S14000081,Edinburgh South West,-0.043502353
+raise_basic_rate_1p,S14000082,Edinburgh West,-0.04298894
+raise_basic_rate_1p,S14000083,Falkirk,-0.03250641
+raise_basic_rate_1p,S14000084,Glasgow East,-0.035794664
+raise_basic_rate_1p,S14000085,Glasgow North,-0.036769833
+raise_basic_rate_1p,S14000086,Glasgow North East,-0.03845831
+raise_basic_rate_1p,S14000087,Glasgow South,-0.03743348
+raise_basic_rate_1p,S14000088,Glasgow South West,-0.043490026
+raise_basic_rate_1p,S14000089,Glasgow West,-0.0358818
+raise_basic_rate_1p,S14000090,Glenrothes and Mid Fife,-0.02805431
+raise_basic_rate_1p,S14000091,Gordon and Buchan,-0.02811748
+raise_basic_rate_1p,S14000092,Hamilton and Clyde Valley,-0.04103866
+raise_basic_rate_1p,S14000093,Inverclyde and Renfrewshire West,-0.0387997
+raise_basic_rate_1p,S14000094,"Inverness, Skye and West Ross-shire",-0.032353736
+raise_basic_rate_1p,S14000095,Livingston,-0.03609929
+raise_basic_rate_1p,S14000096,Lothian East,-0.04207343
+raise_basic_rate_1p,S14000097,Mid Dunbartonshire,-0.037473515
+raise_basic_rate_1p,S14000098,"Moray West, Nairn and Strathspey",-0.0340342
+raise_basic_rate_1p,S14000099,"Motherwell, Wishaw and Carluke",-0.034560733
+raise_basic_rate_1p,S14000100,North East Fife,-0.037900407
+raise_basic_rate_1p,S14000101,Paisley and Renfrewshire North,-0.043990377
+raise_basic_rate_1p,S14000102,Paisley and Renfrewshire South,-0.039114766
+raise_basic_rate_1p,S14000103,Perth and Kinross-shire,-0.033411052
+raise_basic_rate_1p,S14000104,Rutherglen,-0.039797004
+raise_basic_rate_1p,S14000105,Stirling and Strathallan,-0.03446967
+raise_basic_rate_1p,S14000106,West Dunbartonshire,-0.036529027
+raise_basic_rate_1p,S14000107,"Ayr, Carrick and Cumnock",-0.038299453
+raise_basic_rate_1p,S14000108,"Berwickshire, Roxburgh and Selkirk",-0.037808146
+raise_basic_rate_1p,S14000109,Central Ayrshire,-0.046273354
+raise_basic_rate_1p,S14000110,Kilmarnock and Loudoun,-0.035821453
+raise_basic_rate_1p,S14000111,West Aberdeenshire and Kincardine,-0.037776507
+raise_basic_rate_1p,W07000081,Aberafan Maesteg,-203.79736
+raise_basic_rate_1p,W07000082,Alyn and Deeside,-234.6831
+raise_basic_rate_1p,W07000083,Bangor Aberconwy,-187.82458
+raise_basic_rate_1p,W07000084,Blaenau Gwent and Rhymney,-176.0843
+raise_basic_rate_1p,W07000085,"Brecon, Radnor and Cwm Tawe",-190.30215
+raise_basic_rate_1p,W07000086,Bridgend,-210.02959
+raise_basic_rate_1p,W07000087,Caerfyrddin,-214.85347
+raise_basic_rate_1p,W07000088,Caerphilly,-192.04588
+raise_basic_rate_1p,W07000089,Cardiff East,-186.36595
+raise_basic_rate_1p,W07000090,Cardiff North,-257.67993
+raise_basic_rate_1p,W07000091,Cardiff South and Penarth,-195.51588
+raise_basic_rate_1p,W07000092,Cardiff West,-241.47305
+raise_basic_rate_1p,W07000093,Ceredigion Preseli,-175.9009
+raise_basic_rate_1p,W07000094,Clwyd East,-205.81046
+raise_basic_rate_1p,W07000095,Clwyd North,-199.58287
+raise_basic_rate_1p,W07000096,Dwyfor Meirionnydd,-169.47086
+raise_basic_rate_1p,W07000097,Gower,-227.85124
+raise_basic_rate_1p,W07000098,Llanelli,-185.01505
+raise_basic_rate_1p,W07000099,Merthyr Tydfil and Aberdare,-186.43669
+raise_basic_rate_1p,W07000100,Mid and South Pembrokeshire,-188.54535
+raise_basic_rate_1p,W07000101,Monmouthshire,-242.99576
+raise_basic_rate_1p,W07000102,Montgomeryshire and Glyndwr,-201.2728
+raise_basic_rate_1p,W07000103,Neath and Swansea East,-187.8795
+raise_basic_rate_1p,W07000104,Newport East,-213.8165
+raise_basic_rate_1p,W07000105,Newport West and Islwyn,-202.55185
+raise_basic_rate_1p,W07000106,Pontypridd,-211.60364
+raise_basic_rate_1p,W07000107,Rhondda and Ogmore,-188.71509
+raise_basic_rate_1p,W07000108,Swansea West,-177.13507
+raise_basic_rate_1p,W07000109,Torfaen,-195.24677
+raise_basic_rate_1p,W07000110,Vale of Glamorgan,-221.21985
+raise_basic_rate_1p,W07000111,Wrexham,-218.04008
+raise_basic_rate_1p,W07000112,Ynys Môn,-190.03413
+remove_2_child_limit,E14001063,Aldershot,80.90425
+remove_2_child_limit,E14001064,Aldridge-Brownhills,90.54301
+remove_2_child_limit,E14001065,Altrincham and Sale West,84.92195
+remove_2_child_limit,E14001066,Amber Valley,80.75516
+remove_2_child_limit,E14001067,Arundel and South Downs,80.551186
+remove_2_child_limit,E14001068,Ashfield,88.85701
+remove_2_child_limit,E14001069,Ashford,86.04964
+remove_2_child_limit,E14001070,Ashton-under-Lyne,95.20494
+remove_2_child_limit,E14001071,Aylesbury,90.352684
+remove_2_child_limit,E14001072,Banbury,75.75877
+remove_2_child_limit,E14001073,Barking,144.29205
+remove_2_child_limit,E14001074,Barnsley North,80.61415
+remove_2_child_limit,E14001075,Barnsley South,87.63385
+remove_2_child_limit,E14001076,Barrow and Furness,83.631165
+remove_2_child_limit,E14001077,Basildon and Billericay,101.9065
+remove_2_child_limit,E14001078,Basingstoke,77.548096
+remove_2_child_limit,E14001079,Bassetlaw,87.58404
+remove_2_child_limit,E14001080,Bath,73.01827
+remove_2_child_limit,E14001081,Battersea,33.957275
+remove_2_child_limit,E14001082,Beaconsfield,64.513336
+remove_2_child_limit,E14001083,Beckenham and Penge,66.45026
+remove_2_child_limit,E14001084,Bedford,96.348335
+remove_2_child_limit,E14001085,Bermondsey and Old Southwark,40.10345
+remove_2_child_limit,E14001086,Bethnal Green and Stepney,71.07425
+remove_2_child_limit,E14001087,Beverley and Holderness,67.31626
+remove_2_child_limit,E14001088,Bexhill and Battle,71.86761
+remove_2_child_limit,E14001089,Bexleyheath and Crayford,89.07719
+remove_2_child_limit,E14001090,Bicester and Woodstock,71.97674
+remove_2_child_limit,E14001091,Birkenhead,103.01284
+remove_2_child_limit,E14001092,Birmingham Edgbaston,108.895805
+remove_2_child_limit,E14001093,Birmingham Erdington,106.72353
+remove_2_child_limit,E14001094,Birmingham Hall Green and Moseley,128.4023
+remove_2_child_limit,E14001095,Birmingham Hodge Hill and Solihull North,146.11847
+remove_2_child_limit,E14001096,Birmingham Ladywood,109.7259
+remove_2_child_limit,E14001097,Birmingham Northfield,112.16207
+remove_2_child_limit,E14001098,Birmingham Perry Barr,110.68578
+remove_2_child_limit,E14001099,Birmingham Selly Oak,88.380455
+remove_2_child_limit,E14001100,Birmingham Yardley,130.47552
+remove_2_child_limit,E14001101,Bishop Auckland,86.32272
+remove_2_child_limit,E14001102,Blackburn,123.47892
+remove_2_child_limit,E14001103,Blackley and Middleton South,116.29341
+remove_2_child_limit,E14001104,Blackpool North and Fleetwood,93.455086
+remove_2_child_limit,E14001105,Blackpool South,94.1909
+remove_2_child_limit,E14001106,Blaydon and Consett,85.803604
+remove_2_child_limit,E14001107,Blyth and Ashington,84.41825
+remove_2_child_limit,E14001108,Bognor Regis and Littlehampton,82.02896
+remove_2_child_limit,E14001109,Bolsover,93.372856
+remove_2_child_limit,E14001110,Bolton North East,99.020325
+remove_2_child_limit,E14001111,Bolton South and Walkden,112.47233
+remove_2_child_limit,E14001112,Bolton West,90.65045
+remove_2_child_limit,E14001113,Bootle,94.87024
+remove_2_child_limit,E14001114,Boston and Skegness,78.73495
+remove_2_child_limit,E14001115,Bournemouth East,84.81234
+remove_2_child_limit,E14001116,Bournemouth West,84.18827
+remove_2_child_limit,E14001117,Bracknell,82.84822
+remove_2_child_limit,E14001118,Bradford East,134.13408
+remove_2_child_limit,E14001119,Bradford South,116.01749
+remove_2_child_limit,E14001120,Bradford West,121.97521
+remove_2_child_limit,E14001121,Braintree,80.16967
+remove_2_child_limit,E14001122,Brent East,106.46923
+remove_2_child_limit,E14001123,Brent West,104.035255
+remove_2_child_limit,E14001124,Brentford and Isleworth,66.14012
+remove_2_child_limit,E14001125,Brentwood and Ongar,76.92264
+remove_2_child_limit,E14001126,Bridgwater,76.671936
+remove_2_child_limit,E14001127,Bridlington and The Wolds,70.19293
+remove_2_child_limit,E14001128,Brigg and Immingham,97.5582
+remove_2_child_limit,E14001129,Brighton Kemptown and Peacehaven,72.00984
+remove_2_child_limit,E14001130,Brighton Pavilion,53.829823
+remove_2_child_limit,E14001131,Bristol Central,65.95684
+remove_2_child_limit,E14001132,Bristol East,82.35554
+remove_2_child_limit,E14001133,Bristol North East,95.91718
+remove_2_child_limit,E14001134,Bristol North West,99.93243
+remove_2_child_limit,E14001135,Bristol South,101.6022
+remove_2_child_limit,E14001136,Broadland and Fakenham,74.9593
+remove_2_child_limit,E14001137,Bromley and Biggin Hill,88.026184
+remove_2_child_limit,E14001138,Bromsgrove,78.21983
+remove_2_child_limit,E14001139,Broxbourne,89.00952
+remove_2_child_limit,E14001140,Broxtowe,84.65274
+remove_2_child_limit,E14001141,Buckingham and Bletchley,81.5064
+remove_2_child_limit,E14001142,Burnley,93.13753
+remove_2_child_limit,E14001143,Burton and Uttoxeter,91.47234
+remove_2_child_limit,E14001144,Bury North,95.964165
+remove_2_child_limit,E14001145,Bury South,105.386536
+remove_2_child_limit,E14001146,Bury St Edmunds and Stowmarket,76.82181
+remove_2_child_limit,E14001147,Calder Valley,81.05144
+remove_2_child_limit,E14001148,Camborne and Redruth,81.54781
+remove_2_child_limit,E14001149,Cambridge,80.79792
+remove_2_child_limit,E14001150,Cannock Chase,82.91418
+remove_2_child_limit,E14001151,Canterbury,84.041336
+remove_2_child_limit,E14001152,Carlisle,83.75301
+remove_2_child_limit,E14001153,Carshalton and Wallington,100.64219
+remove_2_child_limit,E14001154,Castle Point,89.057686
+remove_2_child_limit,E14001155,Central Devon,85.928185
+remove_2_child_limit,E14001156,Central Suffolk and North Ipswich,82.83986
+remove_2_child_limit,E14001157,Chatham and Aylesford,105.1243
+remove_2_child_limit,E14001158,Cheadle,89.04035
+remove_2_child_limit,E14001159,Chelmsford,87.96307
+remove_2_child_limit,E14001160,Chelsea and Fulham,37.9444
+remove_2_child_limit,E14001161,Cheltenham,77.691956
+remove_2_child_limit,E14001162,Chesham and Amersham,80.80623
+remove_2_child_limit,E14001163,Chester North and Neston,90.30854
+remove_2_child_limit,E14001164,Chester South and Eddisbury,88.65681
+remove_2_child_limit,E14001165,Chesterfield,84.837524
+remove_2_child_limit,E14001166,Chichester,72.31019
+remove_2_child_limit,E14001167,Chingford and Woodford Green,78.17722
+remove_2_child_limit,E14001168,Chippenham,90.72638
+remove_2_child_limit,E14001169,Chipping Barnet,83.72523
+remove_2_child_limit,E14001170,Chorley,84.64891
+remove_2_child_limit,E14001171,Christchurch,58.465843
+remove_2_child_limit,E14001172,Cities of London and Westminster,32.33107
+remove_2_child_limit,E14001173,City of Durham,80.39017
+remove_2_child_limit,E14001174,Clacton,92.75569
+remove_2_child_limit,E14001175,Clapham and Brixton Hill,39.335304
+remove_2_child_limit,E14001176,Colchester,97.03304
+remove_2_child_limit,E14001177,Colne Valley,94.00674
+remove_2_child_limit,E14001178,Congleton,67.21506
+remove_2_child_limit,E14001179,Corby and East Northamptonshire,86.9204
+remove_2_child_limit,E14001180,Coventry East,101.997536
+remove_2_child_limit,E14001181,Coventry North West,91.319984
+remove_2_child_limit,E14001182,Coventry South,90.49339
+remove_2_child_limit,E14001183,Cramlington and Killingworth,78.66902
+remove_2_child_limit,E14001184,Crawley,102.02181
+remove_2_child_limit,E14001185,Crewe and Nantwich,91.50786
+remove_2_child_limit,E14001186,Croydon East,100.36542
+remove_2_child_limit,E14001187,Croydon South,85.386604
+remove_2_child_limit,E14001188,Croydon West,100.4365
+remove_2_child_limit,E14001189,Dagenham and Rainham,122.97401
+remove_2_child_limit,E14001190,Darlington,97.51689
+remove_2_child_limit,E14001191,Dartford,101.03291
+remove_2_child_limit,E14001192,Daventry,70.49983
+remove_2_child_limit,E14001193,Derby North,98.73157
+remove_2_child_limit,E14001194,Derby South,112.49756
+remove_2_child_limit,E14001195,Derbyshire Dales,54.61658
+remove_2_child_limit,E14001196,Dewsbury and Batley,100.07099
+remove_2_child_limit,E14001197,Didcot and Wantage,85.33204
+remove_2_child_limit,E14001198,Doncaster Central,89.13727
+remove_2_child_limit,E14001199,Doncaster East and the Isle of Axholme,98.80217
+remove_2_child_limit,E14001200,Doncaster North,99.09209
+remove_2_child_limit,E14001201,Dorking and Horley,64.527596
+remove_2_child_limit,E14001202,Dover and Deal,86.29614
+remove_2_child_limit,E14001203,Droitwich and Evesham,77.49069
+remove_2_child_limit,E14001204,Dudley,98.03949
+remove_2_child_limit,E14001205,Dulwich and West Norwood,69.30818
+remove_2_child_limit,E14001206,Dunstable and Leighton Buzzard,78.38412
+remove_2_child_limit,E14001207,Ealing Central and Acton,50.470882
+remove_2_child_limit,E14001208,Ealing North,104.024124
+remove_2_child_limit,E14001209,Ealing Southall,96.20563
+remove_2_child_limit,E14001210,Earley and Woodley,82.23483
+remove_2_child_limit,E14001211,Easington,96.54892
+remove_2_child_limit,E14001212,East Grinstead and Uckfield,73.06769
+remove_2_child_limit,E14001213,East Ham,118.67153
+remove_2_child_limit,E14001214,East Hampshire,73.412094
+remove_2_child_limit,E14001215,East Surrey,72.033195
+remove_2_child_limit,E14001216,East Thanet,94.172195
+remove_2_child_limit,E14001217,East Wiltshire,93.017136
+remove_2_child_limit,E14001218,East Worthing and Shoreham,93.44522
+remove_2_child_limit,E14001219,Eastbourne,81.82426
+remove_2_child_limit,E14001220,Eastleigh,84.47784
+remove_2_child_limit,E14001221,Edmonton and Winchmore Hill,123.15219
+remove_2_child_limit,E14001222,Ellesmere Port and Bromborough,85.353546
+remove_2_child_limit,E14001223,Eltham and Chislehurst,96.46687
+remove_2_child_limit,E14001224,Ely and East Cambridgeshire,75.22705
+remove_2_child_limit,E14001225,Enfield North,132.65892
+remove_2_child_limit,E14001226,Epping Forest,83.53339
+remove_2_child_limit,E14001227,Epsom and Ewell,81.895065
+remove_2_child_limit,E14001228,Erewash,83.65314
+remove_2_child_limit,E14001229,Erith and Thamesmead,103.667206
+remove_2_child_limit,E14001230,Esher and Walton,62.661953
+remove_2_child_limit,E14001231,Exeter,79.72128
+remove_2_child_limit,E14001232,Exmouth and Exeter East,81.01984
+remove_2_child_limit,E14001233,Fareham and Waterlooville,68.18027
+remove_2_child_limit,E14001234,Farnham and Bordon,79.27829
+remove_2_child_limit,E14001235,Faversham and Mid Kent,86.75896
+remove_2_child_limit,E14001236,Feltham and Heston,98.775055
+remove_2_child_limit,E14001237,Filton and Bradley Stoke,88.04001
+remove_2_child_limit,E14001238,Finchley and Golders Green,69.345245
+remove_2_child_limit,E14001239,Folkestone and Hythe,81.70594
+remove_2_child_limit,E14001240,Forest of Dean,77.66876
+remove_2_child_limit,E14001241,Frome and East Somerset,86.784164
+remove_2_child_limit,E14001242,Fylde,69.08383
+remove_2_child_limit,E14001243,Gainsborough,80.25705
+remove_2_child_limit,E14001244,Gateshead Central and Whickham,84.40297
+remove_2_child_limit,E14001245,Gedling,84.1081
+remove_2_child_limit,E14001246,Gillingham and Rainham,102.988434
+remove_2_child_limit,E14001247,Glastonbury and Somerton,81.67106
+remove_2_child_limit,E14001248,Gloucester,95.76886
+remove_2_child_limit,E14001249,Godalming and Ash,73.624756
+remove_2_child_limit,E14001250,Goole and Pocklington,74.27471
+remove_2_child_limit,E14001251,Gorton and Denton,101.412254
+remove_2_child_limit,E14001252,Gosport,86.904465
+remove_2_child_limit,E14001253,Grantham and Bourne,87.20235
+remove_2_child_limit,E14001254,Gravesham,97.77127
+remove_2_child_limit,E14001255,Great Grimsby and Cleethorpes,95.33703
+remove_2_child_limit,E14001256,Great Yarmouth,95.26549
+remove_2_child_limit,E14001257,Greenwich and Woolwich,63.812122
+remove_2_child_limit,E14001258,Guildford,74.51335
+remove_2_child_limit,E14001259,Hackney North and Stoke Newington,91.44182
+remove_2_child_limit,E14001260,Hackney South and Shoreditch,56.09867
+remove_2_child_limit,E14001261,Halesowen,94.89865
+remove_2_child_limit,E14001262,Halifax,100.29588
+remove_2_child_limit,E14001263,Hamble Valley,71.76242
+remove_2_child_limit,E14001264,Hammersmith and Chiswick,51.332767
+remove_2_child_limit,E14001265,Hampstead and Highgate,46.496532
+remove_2_child_limit,E14001266,"Harborough, Oadby and Wigston",88.07604
+remove_2_child_limit,E14001267,Harlow,105.45502
+remove_2_child_limit,E14001268,Harpenden and Berkhamsted,65.652145
+remove_2_child_limit,E14001269,Harrogate and Knaresborough,75.259895
+remove_2_child_limit,E14001270,Harrow East,94.880226
+remove_2_child_limit,E14001271,Harrow West,95.758766
+remove_2_child_limit,E14001272,Hartlepool,110.59569
+remove_2_child_limit,E14001273,Harwich and North Essex,80.45299
+remove_2_child_limit,E14001274,Hastings and Rye,86.10745
+remove_2_child_limit,E14001275,Havant,97.910065
+remove_2_child_limit,E14001276,Hayes and Harlington,115.016
+remove_2_child_limit,E14001277,Hazel Grove,95.090576
+remove_2_child_limit,E14001278,Hemel Hempstead,93.72549
+remove_2_child_limit,E14001279,Hendon,95.207756
+remove_2_child_limit,E14001280,Henley and Thame,60.94466
+remove_2_child_limit,E14001281,Hereford and South Herefordshire,85.3102
+remove_2_child_limit,E14001282,Herne Bay and Sandwich,90.210976
+remove_2_child_limit,E14001283,Hertford and Stortford,76.243195
+remove_2_child_limit,E14001284,Hertsmere,84.448006
+remove_2_child_limit,E14001285,Hexham,72.6762
+remove_2_child_limit,E14001286,Heywood and Middleton North,99.93121
+remove_2_child_limit,E14001287,High Peak,78.82963
+remove_2_child_limit,E14001288,Hinckley and Bosworth,85.008705
+remove_2_child_limit,E14001289,Hitchin,64.85567
+remove_2_child_limit,E14001290,Holborn and St Pancras,55.243923
+remove_2_child_limit,E14001291,Honiton and Sidmouth,84.30007
+remove_2_child_limit,E14001292,Hornchurch and Upminster,93.74753
+remove_2_child_limit,E14001293,Hornsey and Friern Barnet,52.69885
+remove_2_child_limit,E14001294,Horsham,79.44989
+remove_2_child_limit,E14001295,Houghton and Sunderland South,84.23193
+remove_2_child_limit,E14001296,Hove and Portslade,55.056637
+remove_2_child_limit,E14001297,Huddersfield,90.4719
+remove_2_child_limit,E14001298,Huntingdon,85.97156
+remove_2_child_limit,E14001299,Hyndburn,108.25695
+remove_2_child_limit,E14001300,Ilford North,103.33582
+remove_2_child_limit,E14001301,Ilford South,128.33957
+remove_2_child_limit,E14001302,Ipswich,101.99012
+remove_2_child_limit,E14001303,Isle of Wight East,58.9515
+remove_2_child_limit,E14001304,Isle of Wight West,58.43907
+remove_2_child_limit,E14001305,Islington North,55.94086
+remove_2_child_limit,E14001306,Islington South and Finsbury,42.059242
+remove_2_child_limit,E14001307,Jarrow and Gateshead East,88.16917
+remove_2_child_limit,E14001308,Keighley and Ilkley,103.46174
+remove_2_child_limit,E14001309,Kenilworth and Southam,68.46041
+remove_2_child_limit,E14001310,Kensington and Bayswater,41.92224
+remove_2_child_limit,E14001311,Kettering,95.97862
+remove_2_child_limit,E14001312,Kingston and Surbiton,70.37942
+remove_2_child_limit,E14001313,Kingston upon Hull East,91.29551
+remove_2_child_limit,E14001314,Kingston upon Hull North and Cottingham,94.249886
+remove_2_child_limit,E14001315,Kingston upon Hull West and Haltemprice,88.87778
+remove_2_child_limit,E14001316,Kingswinford and South Staffordshire,82.56424
+remove_2_child_limit,E14001317,Knowsley,104.55332
+remove_2_child_limit,E14001318,Lancaster and Wyre,79.041504
+remove_2_child_limit,E14001319,Leeds Central and Headingley,99.669075
+remove_2_child_limit,E14001320,Leeds East,125.67626
+remove_2_child_limit,E14001321,Leeds North East,102.99681
+remove_2_child_limit,E14001322,Leeds North West,90.923294
+remove_2_child_limit,E14001323,Leeds South,104.67451
+remove_2_child_limit,E14001324,Leeds South West and Morley,76.59001
+remove_2_child_limit,E14001325,Leeds West and Pudsey,89.42042
+remove_2_child_limit,E14001326,Leicester East,100.615204
+remove_2_child_limit,E14001327,Leicester South,99.51076
+remove_2_child_limit,E14001328,Leicester West,118.92026
+remove_2_child_limit,E14001329,Leigh and Atherton,81.19652
+remove_2_child_limit,E14001330,Lewes,87.58739
+remove_2_child_limit,E14001331,Lewisham East,79.695274
+remove_2_child_limit,E14001332,Lewisham North,55.10897
+remove_2_child_limit,E14001333,Lewisham West and East Dulwich,73.11356
+remove_2_child_limit,E14001334,Leyton and Wanstead,71.28568
+remove_2_child_limit,E14001335,Lichfield,72.07635
+remove_2_child_limit,E14001336,Lincoln,92.39811
+remove_2_child_limit,E14001337,Liverpool Garston,100.91242
+remove_2_child_limit,E14001338,Liverpool Riverside,68.34747
+remove_2_child_limit,E14001339,Liverpool Walton,92.99231
+remove_2_child_limit,E14001340,Liverpool Wavertree,72.81458
+remove_2_child_limit,E14001341,Liverpool West Derby,105.71755
+remove_2_child_limit,E14001342,Loughborough,85.996605
+remove_2_child_limit,E14001343,Louth and Horncastle,87.14361
+remove_2_child_limit,E14001344,Lowestoft,85.39791
+remove_2_child_limit,E14001345,Luton North,126.13244
+remove_2_child_limit,E14001346,Luton South and South Bedfordshire,129.46474
+remove_2_child_limit,E14001347,Macclesfield,64.36234
+remove_2_child_limit,E14001348,Maidenhead,72.78836
+remove_2_child_limit,E14001349,Maidstone and Malling,92.8417
+remove_2_child_limit,E14001350,Makerfield,82.988976
+remove_2_child_limit,E14001351,Maldon,60.593334
+remove_2_child_limit,E14001352,Manchester Central,91.23363
+remove_2_child_limit,E14001353,Manchester Rusholme,93.22216
+remove_2_child_limit,E14001354,Manchester Withington,75.57026
+remove_2_child_limit,E14001355,Mansfield,88.424255
+remove_2_child_limit,E14001356,Melksham and Devizes,103.767845
+remove_2_child_limit,E14001357,Melton and Syston,85.02706
+remove_2_child_limit,E14001358,Meriden and Solihull East,109.62499
+remove_2_child_limit,E14001359,Mid Bedfordshire,71.38091
+remove_2_child_limit,E14001360,Mid Buckinghamshire,79.73879
+remove_2_child_limit,E14001361,Mid Cheshire,82.46824
+remove_2_child_limit,E14001362,Mid Derbyshire,71.41587
+remove_2_child_limit,E14001363,Mid Dorset and North Poole,85.67712
+remove_2_child_limit,E14001364,Mid Leicestershire,77.399055
+remove_2_child_limit,E14001365,Mid Norfolk,81.37305
+remove_2_child_limit,E14001366,Mid Sussex,74.98639
+remove_2_child_limit,E14001367,Middlesbrough and Thornaby East,105.084145
+remove_2_child_limit,E14001368,Middlesbrough South and East Cleveland,97.099686
+remove_2_child_limit,E14001369,Milton Keynes Central,88.03695
+remove_2_child_limit,E14001370,Milton Keynes North,93.01879
+remove_2_child_limit,E14001371,Mitcham and Morden,81.19102
+remove_2_child_limit,E14001372,Morecambe and Lunesdale,93.02375
+remove_2_child_limit,E14001373,New Forest East,80.85113
+remove_2_child_limit,E14001374,New Forest West,50.322247
+remove_2_child_limit,E14001375,Newark,74.762825
+remove_2_child_limit,E14001376,Newbury,84.25717
+remove_2_child_limit,E14001377,Newcastle upon Tyne Central and West,102.11842
+remove_2_child_limit,E14001378,Newcastle upon Tyne East and Wallsend,71.220055
+remove_2_child_limit,E14001379,Newcastle upon Tyne North,88.54595
+remove_2_child_limit,E14001380,Newcastle-under-Lyme,81.434784
+remove_2_child_limit,E14001381,Newton Abbot,73.18565
+remove_2_child_limit,E14001382,Newton Aycliffe and Spennymoor,89.79338
+remove_2_child_limit,E14001383,Normanton and Hemsworth,101.621086
+remove_2_child_limit,E14001384,North Bedfordshire,71.86558
+remove_2_child_limit,E14001385,North Cornwall,83.13709
+remove_2_child_limit,E14001386,North Cotswolds,79.65162
+remove_2_child_limit,E14001387,North Devon,87.13856
+remove_2_child_limit,E14001388,North Dorset,73.41466
+remove_2_child_limit,E14001389,North Durham,92.97014
+remove_2_child_limit,E14001390,North East Cambridgeshire,80.50609
+remove_2_child_limit,E14001391,North East Derbyshire,82.239624
+remove_2_child_limit,E14001392,North East Hampshire,69.191765
+remove_2_child_limit,E14001393,North East Hertfordshire,66.82561
+remove_2_child_limit,E14001394,North East Somerset and Hanham,89.8851
+remove_2_child_limit,E14001395,North Herefordshire,69.65276
+remove_2_child_limit,E14001396,North Norfolk,48.540607
+remove_2_child_limit,E14001397,North Northumberland,61.44002
+remove_2_child_limit,E14001398,North Shropshire,77.36627
+remove_2_child_limit,E14001399,North Somerset,61.866474
+remove_2_child_limit,E14001400,North Warwickshire and Bedworth,94.46056
+remove_2_child_limit,E14001401,North West Cambridgeshire,98.146355
+remove_2_child_limit,E14001402,North West Essex,84.76396
+remove_2_child_limit,E14001403,North West Hampshire,78.418915
+remove_2_child_limit,E14001404,North West Leicestershire,81.71775
+remove_2_child_limit,E14001405,North West Norfolk,85.3921
+remove_2_child_limit,E14001406,Northampton North,93.79727
+remove_2_child_limit,E14001407,Northampton South,85.91917
+remove_2_child_limit,E14001408,Norwich North,81.51662
+remove_2_child_limit,E14001409,Norwich South,81.39981
+remove_2_child_limit,E14001410,Nottingham East,86.03874
+remove_2_child_limit,E14001411,Nottingham North and Kimberley,105.9801
+remove_2_child_limit,E14001412,Nottingham South,109.83781
+remove_2_child_limit,E14001413,Nuneaton,96.688675
+remove_2_child_limit,E14001414,Old Bexley and Sidcup,81.642075
+remove_2_child_limit,E14001415,Oldham East and Saddleworth,110.093025
+remove_2_child_limit,E14001416,"Oldham West, Chadderton and Royton",114.1566
+remove_2_child_limit,E14001417,Orpington,91.04836
+remove_2_child_limit,E14001418,Ossett and Denby Dale,100.05393
+remove_2_child_limit,E14001419,Oxford East,112.49468
+remove_2_child_limit,E14001420,Oxford West and Abingdon,78.26895
+remove_2_child_limit,E14001421,Peckham,65.18191
+remove_2_child_limit,E14001422,Pendle and Clitheroe,94.6025
+remove_2_child_limit,E14001423,Penistone and Stocksbridge,84.91692
+remove_2_child_limit,E14001424,Penrith and Solway,80.49903
+remove_2_child_limit,E14001425,Peterborough,113.89469
+remove_2_child_limit,E14001426,Plymouth Moor View,107.64596
+remove_2_child_limit,E14001427,Plymouth Sutton and Devonport,79.8763
+remove_2_child_limit,E14001428,"Pontefract, Castleford and Knottingley",84.31889
+remove_2_child_limit,E14001429,Poole,80.36962
+remove_2_child_limit,E14001430,Poplar and Limehouse,70.03508
+remove_2_child_limit,E14001431,Portsmouth North,101.45324
+remove_2_child_limit,E14001432,Portsmouth South,88.68239
+remove_2_child_limit,E14001433,Preston,98.79483
+remove_2_child_limit,E14001434,Putney,45.356876
+remove_2_child_limit,E14001435,Queen's Park and Maida Vale,63.0127
+remove_2_child_limit,E14001436,Rawmarsh and Conisbrough,98.26408
+remove_2_child_limit,E14001437,Rayleigh and Wickford,64.06534
+remove_2_child_limit,E14001438,Reading Central,83.42436
+remove_2_child_limit,E14001439,Reading West and Mid Berkshire,89.04932
+remove_2_child_limit,E14001440,Redcar,98.401
+remove_2_child_limit,E14001441,Redditch,78.303
+remove_2_child_limit,E14001442,Reigate,69.92427
+remove_2_child_limit,E14001443,Ribble Valley,74.885345
+remove_2_child_limit,E14001444,Richmond and Northallerton,76.88592
+remove_2_child_limit,E14001445,Richmond Park,57.76166
+remove_2_child_limit,E14001446,Rochdale,116.2116
+remove_2_child_limit,E14001447,Rochester and Strood,87.29367
+remove_2_child_limit,E14001448,Romford,92.647514
+remove_2_child_limit,E14001449,Romsey and Southampton North,77.06857
+remove_2_child_limit,E14001450,Rossendale and Darwen,88.44855
+remove_2_child_limit,E14001451,Rother Valley,99.42688
+remove_2_child_limit,E14001452,Rotherham,95.42903
+remove_2_child_limit,E14001453,Rugby,84.474556
+remove_2_child_limit,E14001454,"Ruislip, Northwood and Pinner",75.78476
+remove_2_child_limit,E14001455,Runcorn and Helsby,99.75747
+remove_2_child_limit,E14001456,Runnymede and Weybridge,73.02868
+remove_2_child_limit,E14001457,Rushcliffe,70.26478
+remove_2_child_limit,E14001458,Rutland and Stamford,75.2193
+remove_2_child_limit,E14001459,Salford,78.54447
+remove_2_child_limit,E14001460,Salisbury,74.51598
+remove_2_child_limit,E14001461,Scarborough and Whitby,89.7646
+remove_2_child_limit,E14001462,Scunthorpe,91.83103
+remove_2_child_limit,E14001463,Sefton Central,71.90016
+remove_2_child_limit,E14001464,Selby,80.4833
+remove_2_child_limit,E14001465,Sevenoaks,86.56664
+remove_2_child_limit,E14001466,Sheffield Brightside and Hillsborough,112.18634
+remove_2_child_limit,E14001467,Sheffield Central,57.838142
+remove_2_child_limit,E14001468,Sheffield Hallam,90.13589
+remove_2_child_limit,E14001469,Sheffield Heeley,89.29394
+remove_2_child_limit,E14001470,Sheffield South East,94.61009
+remove_2_child_limit,E14001471,Sherwood Forest,88.54661
+remove_2_child_limit,E14001472,Shipley,94.50429
+remove_2_child_limit,E14001473,Shrewsbury,71.871864
+remove_2_child_limit,E14001474,Sittingbourne and Sheppey,104.247665
+remove_2_child_limit,E14001475,Skipton and Ripon,70.724205
+remove_2_child_limit,E14001476,Sleaford and North Hykeham,72.25887
+remove_2_child_limit,E14001477,Slough,132.08139
+remove_2_child_limit,E14001478,Smethwick,110.36176
+remove_2_child_limit,E14001479,Solihull West and Shirley,85.11561
+remove_2_child_limit,E14001480,South Basildon and East Thurrock,94.33154
+remove_2_child_limit,E14001481,South Cambridgeshire,71.8475
+remove_2_child_limit,E14001482,South Cotswolds,70.38059
+remove_2_child_limit,E14001483,South Derbyshire,86.9789
+remove_2_child_limit,E14001484,South Devon,66.01574
+remove_2_child_limit,E14001485,South Dorset,75.76655
+remove_2_child_limit,E14001486,South East Cornwall,79.49997
+remove_2_child_limit,E14001487,South Holland and The Deepings,73.099335
+remove_2_child_limit,E14001488,South Leicestershire,80.60342
+remove_2_child_limit,E14001489,South Norfolk,85.65468
+remove_2_child_limit,E14001490,South Northamptonshire,78.42214
+remove_2_child_limit,E14001491,South Ribble,85.80054
+remove_2_child_limit,E14001492,South Shields,94.253555
+remove_2_child_limit,E14001493,South Shropshire,54.672756
+remove_2_child_limit,E14001494,South Suffolk,75.93713
+remove_2_child_limit,E14001495,South West Devon,74.82965
+remove_2_child_limit,E14001496,South West Hertfordshire,80.496994
+remove_2_child_limit,E14001497,South West Norfolk,88.06669
+remove_2_child_limit,E14001498,South West Wiltshire,78.96567
+remove_2_child_limit,E14001499,Southampton Itchen,97.7466
+remove_2_child_limit,E14001500,Southampton Test,94.52156
+remove_2_child_limit,E14001501,Southend East and Rochford,96.91606
+remove_2_child_limit,E14001502,Southend West and Leigh,80.0974
+remove_2_child_limit,E14001503,Southgate and Wood Green,57.581997
+remove_2_child_limit,E14001504,Southport,79.38142
+remove_2_child_limit,E14001505,Spelthorne,85.07613
+remove_2_child_limit,E14001506,Spen Valley,105.62548
+remove_2_child_limit,E14001507,St Albans,67.65524
+remove_2_child_limit,E14001508,St Austell and Newquay,91.21596
+remove_2_child_limit,E14001509,St Helens North,94.052765
+remove_2_child_limit,E14001510,St Helens South and Whiston,86.014114
+remove_2_child_limit,E14001511,St Ives,70.073814
+remove_2_child_limit,E14001512,St Neots and Mid Cambridgeshire,67.64591
+remove_2_child_limit,E14001513,Stafford,72.60736
+remove_2_child_limit,E14001514,Staffordshire Moorlands,61.95292
+remove_2_child_limit,E14001515,Stalybridge and Hyde,95.68878
+remove_2_child_limit,E14001516,Stevenage,82.12927
+remove_2_child_limit,E14001517,Stockport,89.45921
+remove_2_child_limit,E14001518,Stockton North,99.27065
+remove_2_child_limit,E14001519,Stockton West,99.083244
+remove_2_child_limit,E14001520,Stoke-on-Trent Central,95.836075
+remove_2_child_limit,E14001521,Stoke-on-Trent North,95.398415
+remove_2_child_limit,E14001522,Stoke-on-Trent South,93.779755
+remove_2_child_limit,E14001523,"Stone, Great Wyrley and Penkridge",75.5253
+remove_2_child_limit,E14001524,Stourbridge,95.0294
+remove_2_child_limit,E14001525,Stratford and Bow,76.058624
+remove_2_child_limit,E14001526,Stratford-on-Avon,58.37872
+remove_2_child_limit,E14001527,Streatham and Croydon North,71.79848
+remove_2_child_limit,E14001528,Stretford and Urmston,92.38402
+remove_2_child_limit,E14001529,Stroud,76.32959
+remove_2_child_limit,E14001530,Suffolk Coastal,68.1658
+remove_2_child_limit,E14001531,Sunderland Central,87.85711
+remove_2_child_limit,E14001532,Surrey Heath,78.49182
+remove_2_child_limit,E14001533,Sussex Weald,73.190056
+remove_2_child_limit,E14001534,Sutton and Cheam,72.72765
+remove_2_child_limit,E14001535,Sutton Coldfield,83.62289
+remove_2_child_limit,E14001536,Swindon North,82.928665
+remove_2_child_limit,E14001537,Swindon South,83.068596
+remove_2_child_limit,E14001538,Tamworth,87.81465
+remove_2_child_limit,E14001539,Tatton,57.059486
+remove_2_child_limit,E14001540,Taunton and Wellington,81.517555
+remove_2_child_limit,E14001541,Telford,94.06333
+remove_2_child_limit,E14001542,Tewkesbury,80.23332
+remove_2_child_limit,E14001543,The Wrekin,90.95482
+remove_2_child_limit,E14001544,Thirsk and Malton,69.98172
+remove_2_child_limit,E14001545,Thornbury and Yate,75.95819
+remove_2_child_limit,E14001546,Thurrock,114.727844
+remove_2_child_limit,E14001547,Tipton and Wednesbury,103.48928
+remove_2_child_limit,E14001548,Tiverton and Minehead,80.93537
+remove_2_child_limit,E14001549,Tonbridge,89.42517
+remove_2_child_limit,E14001550,Tooting,43.682087
+remove_2_child_limit,E14001551,Torbay,82.57339
+remove_2_child_limit,E14001552,Torridge and Tavistock,70.028656
+remove_2_child_limit,E14001553,Tottenham,86.22859
+remove_2_child_limit,E14001554,Truro and Falmouth,78.28425
+remove_2_child_limit,E14001555,Tunbridge Wells,71.20541
+remove_2_child_limit,E14001556,Twickenham,60.52574
+remove_2_child_limit,E14001557,Tynemouth,79.58623
+remove_2_child_limit,E14001558,Uxbridge and South Ruislip,92.35035
+remove_2_child_limit,E14001559,Vauxhall and Camberwell Green,36.70887
+remove_2_child_limit,E14001560,Wakefield and Rothwell,86.88595
+remove_2_child_limit,E14001561,Wallasey,88.015945
+remove_2_child_limit,E14001562,Walsall and Bloxwich,105.48218
+remove_2_child_limit,E14001563,Walthamstow,82.2796
+remove_2_child_limit,E14001564,Warrington North,87.65771
+remove_2_child_limit,E14001565,Warrington South,76.34762
+remove_2_child_limit,E14001566,Warwick and Leamington,70.46078
+remove_2_child_limit,E14001567,Washington and Gateshead South,92.25174
+remove_2_child_limit,E14001568,Watford,91.045944
+remove_2_child_limit,E14001569,Waveney Valley,85.078735
+remove_2_child_limit,E14001570,Weald of Kent,94.70573
+remove_2_child_limit,E14001571,Wellingborough and Rushden,88.46998
+remove_2_child_limit,E14001572,Wells and Mendip Hills,82.60345
+remove_2_child_limit,E14001573,Welwyn Hatfield,99.32507
+remove_2_child_limit,E14001574,West Bromwich,95.99134
+remove_2_child_limit,E14001575,West Dorset,65.01606
+remove_2_child_limit,E14001576,West Ham and Beckton,88.991165
+remove_2_child_limit,E14001577,West Lancashire,99.697235
+remove_2_child_limit,E14001578,West Suffolk,97.835236
+remove_2_child_limit,E14001579,West Worcestershire,70.88308
+remove_2_child_limit,E14001580,Westmorland and Lonsdale,44.927643
+remove_2_child_limit,E14001581,Weston-super-Mare,90.62817
+remove_2_child_limit,E14001582,Wetherby and Easingwold,79.80682
+remove_2_child_limit,E14001583,Whitehaven and Workington,86.66402
+remove_2_child_limit,E14001584,Widnes and Halewood,104.0809
+remove_2_child_limit,E14001585,Wigan,81.61988
+remove_2_child_limit,E14001586,Wimbledon,45.709866
+remove_2_child_limit,E14001587,Winchester,84.344
+remove_2_child_limit,E14001588,Windsor,77.20257
+remove_2_child_limit,E14001589,Wirral West,90.64151
+remove_2_child_limit,E14001590,Witham,85.785904
+remove_2_child_limit,E14001591,Witney,71.501434
+remove_2_child_limit,E14001592,Woking,63.575222
+remove_2_child_limit,E14001593,Wokingham,77.1627
+remove_2_child_limit,E14001594,Wolverhampton North East,103.497925
+remove_2_child_limit,E14001595,Wolverhampton South East,117.24461
+remove_2_child_limit,E14001596,Wolverhampton West,101.87706
+remove_2_child_limit,E14001597,Worcester,84.364876
+remove_2_child_limit,E14001598,Worsley and Eccles,94.71378
+remove_2_child_limit,E14001599,Worthing West,71.88827
+remove_2_child_limit,E14001600,Wycombe,94.03525
+remove_2_child_limit,E14001601,Wyre Forest,85.865326
+remove_2_child_limit,E14001602,Wythenshawe and Sale East,105.003944
+remove_2_child_limit,E14001603,Yeovil,82.86386
+remove_2_child_limit,E14001604,York Central,67.87701
+remove_2_child_limit,E14001605,York Outer,87.56024
+remove_2_child_limit,N05000001,Belfast East,39.997078
+remove_2_child_limit,N05000002,Belfast North,49.70912
+remove_2_child_limit,N05000003,Belfast South and Mid Down,38.6843
+remove_2_child_limit,N05000004,Belfast West,53.173725
+remove_2_child_limit,N05000005,East Antrim,52.657192
+remove_2_child_limit,N05000006,East Londonderry,47.688053
+remove_2_child_limit,N05000007,Fermanagh and South Tyrone,26.96948
+remove_2_child_limit,N05000008,Foyle,41.711277
+remove_2_child_limit,N05000009,Lagan Valley,26.129599
+remove_2_child_limit,N05000010,Mid Ulster,29.050386
+remove_2_child_limit,N05000011,Newry and Armagh,29.965742
+remove_2_child_limit,N05000012,North Antrim,29.146074
+remove_2_child_limit,N05000013,North Down,41.98348
+remove_2_child_limit,N05000014,South Antrim,30.05496
+remove_2_child_limit,N05000015,South Down,25.592901
+remove_2_child_limit,N05000016,Strangford,46.09357
+remove_2_child_limit,N05000017,Upper Bann,23.156454
+remove_2_child_limit,N05000018,West Tyrone,33.895218
+remove_2_child_limit,S14000021,East Renfrewshire,29.44689
+remove_2_child_limit,S14000027,Na h-Eileanan an Iar,37.713974
+remove_2_child_limit,S14000045,Midlothian,32.472275
+remove_2_child_limit,S14000048,North Ayrshire and Arran,23.524427
+remove_2_child_limit,S14000051,Orkney and Shetland,25.54136
+remove_2_child_limit,S14000060,Aberdeen North,29.486748
+remove_2_child_limit,S14000061,Aberdeen South,22.033154
+remove_2_child_limit,S14000062,Aberdeenshire North and Moray East,34.88661
+remove_2_child_limit,S14000063,Airdrie and Shotts,20.682045
+remove_2_child_limit,S14000064,Alloa and Grangemouth,23.828238
+remove_2_child_limit,S14000065,Angus and Perthshire Glens,38.726517
+remove_2_child_limit,S14000066,Arbroath and Broughty Ferry,32.27405
+remove_2_child_limit,S14000067,"Argyll, Bute and South Lochaber",29.402445
+remove_2_child_limit,S14000068,Bathgate and Linlithgow,35.09628
+remove_2_child_limit,S14000069,"Caithness, Sutherland and Easter Ross",17.786263
+remove_2_child_limit,S14000070,Coatbridge and Bellshill,34.61402
+remove_2_child_limit,S14000071,Cowdenbeath and Kirkcaldy,42.058365
+remove_2_child_limit,S14000072,Cumbernauld and Kirkintilloch,34.715115
+remove_2_child_limit,S14000073,Dumfries and Galloway,14.603632
+remove_2_child_limit,S14000074,"Dumfriesshire, Clydesdale and Tweeddale",55.060978
+remove_2_child_limit,S14000075,Dundee Central,29.670462
+remove_2_child_limit,S14000076,Dunfermline and Dollar,28.960083
+remove_2_child_limit,S14000077,East Kilbride and Strathaven,28.35346
+remove_2_child_limit,S14000078,Edinburgh East and Musselburgh,33.00484
+remove_2_child_limit,S14000079,Edinburgh North and Leith,36.964497
+remove_2_child_limit,S14000080,Edinburgh South,37.517384
+remove_2_child_limit,S14000081,Edinburgh South West,25.93579
+remove_2_child_limit,S14000082,Edinburgh West,21.906126
+remove_2_child_limit,S14000083,Falkirk,32.726147
+remove_2_child_limit,S14000084,Glasgow East,14.627262
+remove_2_child_limit,S14000085,Glasgow North,27.007227
+remove_2_child_limit,S14000086,Glasgow North East,24.354084
+remove_2_child_limit,S14000087,Glasgow South,20.323248
+remove_2_child_limit,S14000088,Glasgow South West,18.561123
+remove_2_child_limit,S14000089,Glasgow West,31.112654
+remove_2_child_limit,S14000090,Glenrothes and Mid Fife,49.571472
+remove_2_child_limit,S14000091,Gordon and Buchan,40.361626
+remove_2_child_limit,S14000092,Hamilton and Clyde Valley,27.22105
+remove_2_child_limit,S14000093,Inverclyde and Renfrewshire West,37.189926
+remove_2_child_limit,S14000094,"Inverness, Skye and West Ross-shire",36.96164
+remove_2_child_limit,S14000095,Livingston,43.146267
+remove_2_child_limit,S14000096,Lothian East,19.959543
+remove_2_child_limit,S14000097,Mid Dunbartonshire,21.736467
+remove_2_child_limit,S14000098,"Moray West, Nairn and Strathspey",35.872005
+remove_2_child_limit,S14000099,"Motherwell, Wishaw and Carluke",31.107664
+remove_2_child_limit,S14000100,North East Fife,19.63698
+remove_2_child_limit,S14000101,Paisley and Renfrewshire North,20.18954
+remove_2_child_limit,S14000102,Paisley and Renfrewshire South,25.031803
+remove_2_child_limit,S14000103,Perth and Kinross-shire,31.714966
+remove_2_child_limit,S14000104,Rutherglen,28.809996
+remove_2_child_limit,S14000105,Stirling and Strathallan,43.548405
+remove_2_child_limit,S14000106,West Dunbartonshire,25.562494
+remove_2_child_limit,S14000107,"Ayr, Carrick and Cumnock",31.761948
+remove_2_child_limit,S14000108,"Berwickshire, Roxburgh and Selkirk",22.722527
+remove_2_child_limit,S14000109,Central Ayrshire,19.774363
+remove_2_child_limit,S14000110,Kilmarnock and Loudoun,29.561653
+remove_2_child_limit,S14000111,West Aberdeenshire and Kincardine,29.386356
+remove_2_child_limit,W07000081,Aberafan Maesteg,86.91283
+remove_2_child_limit,W07000082,Alyn and Deeside,81.570045
+remove_2_child_limit,W07000083,Bangor Aberconwy,75.87257
+remove_2_child_limit,W07000084,Blaenau Gwent and Rhymney,92.28159
+remove_2_child_limit,W07000085,"Brecon, Radnor and Cwm Tawe",73.96859
+remove_2_child_limit,W07000086,Bridgend,81.51477
+remove_2_child_limit,W07000087,Caerfyrddin,61.180153
+remove_2_child_limit,W07000088,Caerphilly,93.338135
+remove_2_child_limit,W07000089,Cardiff East,87.73909
+remove_2_child_limit,W07000090,Cardiff North,74.20072
+remove_2_child_limit,W07000091,Cardiff South and Penarth,97.50911
+remove_2_child_limit,W07000092,Cardiff West,88.43229
+remove_2_child_limit,W07000093,Ceredigion Preseli,74.527695
+remove_2_child_limit,W07000094,Clwyd East,79.8113
+remove_2_child_limit,W07000095,Clwyd North,82.56096
+remove_2_child_limit,W07000096,Dwyfor Meirionnydd,81.98544
+remove_2_child_limit,W07000097,Gower,70.86807
+remove_2_child_limit,W07000098,Llanelli,97.51343
+remove_2_child_limit,W07000099,Merthyr Tydfil and Aberdare,106.05855
+remove_2_child_limit,W07000100,Mid and South Pembrokeshire,79.56667
+remove_2_child_limit,W07000101,Monmouthshire,64.793816
+remove_2_child_limit,W07000102,Montgomeryshire and Glyndwr,73.93286
+remove_2_child_limit,W07000103,Neath and Swansea East,86.611305
+remove_2_child_limit,W07000104,Newport East,103.91737
+remove_2_child_limit,W07000105,Newport West and Islwyn,89.50023
+remove_2_child_limit,W07000106,Pontypridd,89.25282
+remove_2_child_limit,W07000107,Rhondda and Ogmore,86.04604
+remove_2_child_limit,W07000108,Swansea West,87.03711
+remove_2_child_limit,W07000109,Torfaen,90.576385
+remove_2_child_limit,W07000110,Vale of Glamorgan,80.64815
+remove_2_child_limit,W07000111,Wrexham,87.9469
+remove_2_child_limit,W07000112,Ynys Môn,75.45335
+raise_higher_rate_1p,E14001063,Aldershot,-72.101395
+raise_higher_rate_1p,E14001064,Aldridge-Brownhills,-42.202236
+raise_higher_rate_1p,E14001065,Altrincham and Sale West,-176.61916
+raise_higher_rate_1p,E14001066,Amber Valley,-32.50215
+raise_higher_rate_1p,E14001067,Arundel and South Downs,-88.92654
+raise_higher_rate_1p,E14001068,Ashfield,-29.372747
+raise_higher_rate_1p,E14001069,Ashford,-59.925762
+raise_higher_rate_1p,E14001070,Ashton-under-Lyne,-28.282785
+raise_higher_rate_1p,E14001071,Aylesbury,-94.33779
+raise_higher_rate_1p,E14001072,Banbury,-83.72353
+raise_higher_rate_1p,E14001073,Barking,-36.245594
+raise_higher_rate_1p,E14001074,Barnsley North,-30.746727
+raise_higher_rate_1p,E14001075,Barnsley South,-34.22966
+raise_higher_rate_1p,E14001076,Barrow and Furness,-43.415024
+raise_higher_rate_1p,E14001077,Basildon and Billericay,-76.99423
+raise_higher_rate_1p,E14001078,Basingstoke,-91.58676
+raise_higher_rate_1p,E14001079,Bassetlaw,-40.752975
+raise_higher_rate_1p,E14001080,Bath,-67.609726
+raise_higher_rate_1p,E14001081,Battersea,-352.60205
+raise_higher_rate_1p,E14001082,Beaconsfield,-227.50432
+raise_higher_rate_1p,E14001083,Beckenham and Penge,-152.55078
+raise_higher_rate_1p,E14001084,Bedford,-53.319904
+raise_higher_rate_1p,E14001085,Bermondsey and Old Southwark,-170.04382
+raise_higher_rate_1p,E14001086,Bethnal Green and Stepney,-127.896904
+raise_higher_rate_1p,E14001087,Beverley and Holderness,-42.183468
+raise_higher_rate_1p,E14001088,Bexhill and Battle,-51.338486
+raise_higher_rate_1p,E14001089,Bexleyheath and Crayford,-70.89454
+raise_higher_rate_1p,E14001090,Bicester and Woodstock,-94.544914
+raise_higher_rate_1p,E14001091,Birkenhead,-35.339283
+raise_higher_rate_1p,E14001092,Birmingham Edgbaston,-45.669044
+raise_higher_rate_1p,E14001093,Birmingham Erdington,-21.209166
+raise_higher_rate_1p,E14001094,Birmingham Hall Green and Moseley,-28.531582
+raise_higher_rate_1p,E14001095,Birmingham Hodge Hill and Solihull North,-25.535797
+raise_higher_rate_1p,E14001096,Birmingham Ladywood,-19.182621
+raise_higher_rate_1p,E14001097,Birmingham Northfield,-33.96607
+raise_higher_rate_1p,E14001098,Birmingham Perry Barr,-20.667885
+raise_higher_rate_1p,E14001099,Birmingham Selly Oak,-28.595457
+raise_higher_rate_1p,E14001100,Birmingham Yardley,-21.513449
+raise_higher_rate_1p,E14001101,Bishop Auckland,-31.082956
+raise_higher_rate_1p,E14001102,Blackburn,-23.523254
+raise_higher_rate_1p,E14001103,Blackley and Middleton South,-24.440662
+raise_higher_rate_1p,E14001104,Blackpool North and Fleetwood,-30.96058
+raise_higher_rate_1p,E14001105,Blackpool South,-21.298933
+raise_higher_rate_1p,E14001106,Blaydon and Consett,-38.883408
+raise_higher_rate_1p,E14001107,Blyth and Ashington,-35.592937
+raise_higher_rate_1p,E14001108,Bognor Regis and Littlehampton,-36.356922
+raise_higher_rate_1p,E14001109,Bolsover,-30.162275
+raise_higher_rate_1p,E14001110,Bolton North East,-28.805399
+raise_higher_rate_1p,E14001111,Bolton South and Walkden,-29.078749
+raise_higher_rate_1p,E14001112,Bolton West,-40.475357
+raise_higher_rate_1p,E14001113,Bootle,-30.417837
+raise_higher_rate_1p,E14001114,Boston and Skegness,-29.482605
+raise_higher_rate_1p,E14001115,Bournemouth East,-42.310375
+raise_higher_rate_1p,E14001116,Bournemouth West,-31.45305
+raise_higher_rate_1p,E14001117,Bracknell,-109.07787
+raise_higher_rate_1p,E14001118,Bradford East,-19.818062
+raise_higher_rate_1p,E14001119,Bradford South,-24.319485
+raise_higher_rate_1p,E14001120,Bradford West,-17.621998
+raise_higher_rate_1p,E14001121,Braintree,-79.73841
+raise_higher_rate_1p,E14001122,Brent East,-95.44408
+raise_higher_rate_1p,E14001123,Brent West,-63.385963
+raise_higher_rate_1p,E14001124,Brentford and Isleworth,-185.74034
+raise_higher_rate_1p,E14001125,Brentwood and Ongar,-154.10904
+raise_higher_rate_1p,E14001126,Bridgwater,-36.108463
+raise_higher_rate_1p,E14001127,Bridlington and The Wolds,-41.16766
+raise_higher_rate_1p,E14001128,Brigg and Immingham,-38.364395
+raise_higher_rate_1p,E14001129,Brighton Kemptown and Peacehaven,-41.377193
+raise_higher_rate_1p,E14001130,Brighton Pavilion,-52.71588
+raise_higher_rate_1p,E14001131,Bristol Central,-54.089684
+raise_higher_rate_1p,E14001132,Bristol East,-41.744774
+raise_higher_rate_1p,E14001133,Bristol North East,-44.558014
+raise_higher_rate_1p,E14001134,Bristol North West,-66.0864
+raise_higher_rate_1p,E14001135,Bristol South,-34.768616
+raise_higher_rate_1p,E14001136,Broadland and Fakenham,-41.514427
+raise_higher_rate_1p,E14001137,Bromley and Biggin Hill,-171.11446
+raise_higher_rate_1p,E14001138,Bromsgrove,-85.69695
+raise_higher_rate_1p,E14001139,Broxbourne,-86.312996
+raise_higher_rate_1p,E14001140,Broxtowe,-45.211864
+raise_higher_rate_1p,E14001141,Buckingham and Bletchley,-120.98958
+raise_higher_rate_1p,E14001142,Burnley,-26.501848
+raise_higher_rate_1p,E14001143,Burton and Uttoxeter,-44.487076
+raise_higher_rate_1p,E14001144,Bury North,-43.045364
+raise_higher_rate_1p,E14001145,Bury South,-44.363506
+raise_higher_rate_1p,E14001146,Bury St Edmunds and Stowmarket,-55.949226
+raise_higher_rate_1p,E14001147,Calder Valley,-48.79215
+raise_higher_rate_1p,E14001148,Camborne and Redruth,-30.271019
+raise_higher_rate_1p,E14001149,Cambridge,-130.83437
+raise_higher_rate_1p,E14001150,Cannock Chase,-32.382523
+raise_higher_rate_1p,E14001151,Canterbury,-49.770927
+raise_higher_rate_1p,E14001152,Carlisle,-34.234734
+raise_higher_rate_1p,E14001153,Carshalton and Wallington,-85.82948
+raise_higher_rate_1p,E14001154,Castle Point,-53.49497
+raise_higher_rate_1p,E14001155,Central Devon,-39.16258
+raise_higher_rate_1p,E14001156,Central Suffolk and North Ipswich,-56.380165
+raise_higher_rate_1p,E14001157,Chatham and Aylesford,-53.525894
+raise_higher_rate_1p,E14001158,Cheadle,-87.62499
+raise_higher_rate_1p,E14001159,Chelmsford,-96.85605
+raise_higher_rate_1p,E14001160,Chelsea and Fulham,-465.9416
+raise_higher_rate_1p,E14001161,Cheltenham,-67.176895
+raise_higher_rate_1p,E14001162,Chesham and Amersham,-213.15872
+raise_higher_rate_1p,E14001163,Chester North and Neston,-51.241142
+raise_higher_rate_1p,E14001164,Chester South and Eddisbury,-63.79404
+raise_higher_rate_1p,E14001165,Chesterfield,-32.591354
+raise_higher_rate_1p,E14001166,Chichester,-81.15377
+raise_higher_rate_1p,E14001167,Chingford and Woodford Green,-119.32487
+raise_higher_rate_1p,E14001168,Chippenham,-70.33123
+raise_higher_rate_1p,E14001169,Chipping Barnet,-141.61348
+raise_higher_rate_1p,E14001170,Chorley,-47.096066
+raise_higher_rate_1p,E14001171,Christchurch,-47.789886
+raise_higher_rate_1p,E14001172,Cities of London and Westminster,-378.18768
+raise_higher_rate_1p,E14001173,City of Durham,-34.987183
+raise_higher_rate_1p,E14001174,Clacton,-33.274727
+raise_higher_rate_1p,E14001175,Clapham and Brixton Hill,-187.15063
+raise_higher_rate_1p,E14001176,Colchester,-58.793556
+raise_higher_rate_1p,E14001177,Colne Valley,-51.395706
+raise_higher_rate_1p,E14001178,Congleton,-126.00883
+raise_higher_rate_1p,E14001179,Corby and East Northamptonshire,-61.24576
+raise_higher_rate_1p,E14001180,Coventry East,-25.504793
+raise_higher_rate_1p,E14001181,Coventry North West,-28.860447
+raise_higher_rate_1p,E14001182,Coventry South,-25.156584
+raise_higher_rate_1p,E14001183,Cramlington and Killingworth,-34.607742
+raise_higher_rate_1p,E14001184,Crawley,-52.768673
+raise_higher_rate_1p,E14001185,Crewe and Nantwich,-47.178234
+raise_higher_rate_1p,E14001186,Croydon East,-77.04486
+raise_higher_rate_1p,E14001187,Croydon South,-124.242905
+raise_higher_rate_1p,E14001188,Croydon West,-63.228245
+raise_higher_rate_1p,E14001189,Dagenham and Rainham,-47.300392
+raise_higher_rate_1p,E14001190,Darlington,-31.534565
+raise_higher_rate_1p,E14001191,Dartford,-77.908676
+raise_higher_rate_1p,E14001192,Daventry,-87.83401
+raise_higher_rate_1p,E14001193,Derby North,-39.9488
+raise_higher_rate_1p,E14001194,Derby South,-25.73658
+raise_higher_rate_1p,E14001195,Derbyshire Dales,-57.463192
+raise_higher_rate_1p,E14001196,Dewsbury and Batley,-32.698654
+raise_higher_rate_1p,E14001197,Didcot and Wantage,-122.54224
+raise_higher_rate_1p,E14001198,Doncaster Central,-30.995844
+raise_higher_rate_1p,E14001199,Doncaster East and the Isle of Axholme,-34.344257
+raise_higher_rate_1p,E14001200,Doncaster North,-30.816969
+raise_higher_rate_1p,E14001201,Dorking and Horley,-179.61714
+raise_higher_rate_1p,E14001202,Dover and Deal,-35.750217
+raise_higher_rate_1p,E14001203,Droitwich and Evesham,-60.60533
+raise_higher_rate_1p,E14001204,Dudley,-27.590698
+raise_higher_rate_1p,E14001205,Dulwich and West Norwood,-219.67485
+raise_higher_rate_1p,E14001206,Dunstable and Leighton Buzzard,-67.955795
+raise_higher_rate_1p,E14001207,Ealing Central and Acton,-227.60857
+raise_higher_rate_1p,E14001208,Ealing North,-68.02187
+raise_higher_rate_1p,E14001209,Ealing Southall,-89.06855
+raise_higher_rate_1p,E14001210,Earley and Woodley,-134.61482
+raise_higher_rate_1p,E14001211,Easington,-27.171877
+raise_higher_rate_1p,E14001212,East Grinstead and Uckfield,-97.21321
+raise_higher_rate_1p,E14001213,East Ham,-43.782154
+raise_higher_rate_1p,E14001214,East Hampshire,-99.82418
+raise_higher_rate_1p,E14001215,East Surrey,-162.0545
+raise_higher_rate_1p,E14001216,East Thanet,-39.461594
+raise_higher_rate_1p,E14001217,East Wiltshire,-64.519554
+raise_higher_rate_1p,E14001218,East Worthing and Shoreham,-55.42957
+raise_higher_rate_1p,E14001219,Eastbourne,-29.911963
+raise_higher_rate_1p,E14001220,Eastleigh,-81.78337
+raise_higher_rate_1p,E14001221,Edmonton and Winchmore Hill,-52.078278
+raise_higher_rate_1p,E14001222,Ellesmere Port and Bromborough,-52.018032
+raise_higher_rate_1p,E14001223,Eltham and Chislehurst,-122.86216
+raise_higher_rate_1p,E14001224,Ely and East Cambridgeshire,-97.362656
+raise_higher_rate_1p,E14001225,Enfield North,-50.940617
+raise_higher_rate_1p,E14001226,Epping Forest,-140.54445
+raise_higher_rate_1p,E14001227,Epsom and Ewell,-161.83679
+raise_higher_rate_1p,E14001228,Erewash,-35.30355
+raise_higher_rate_1p,E14001229,Erith and Thamesmead,-66.37546
+raise_higher_rate_1p,E14001230,Esher and Walton,-367.47833
+raise_higher_rate_1p,E14001231,Exeter,-33.099113
+raise_higher_rate_1p,E14001232,Exmouth and Exeter East,-44.980633
+raise_higher_rate_1p,E14001233,Fareham and Waterlooville,-72.53728
+raise_higher_rate_1p,E14001234,Farnham and Bordon,-185.59366
+raise_higher_rate_1p,E14001235,Faversham and Mid Kent,-70.62621
+raise_higher_rate_1p,E14001236,Feltham and Heston,-41.927925
+raise_higher_rate_1p,E14001237,Filton and Bradley Stoke,-55.634136
+raise_higher_rate_1p,E14001238,Finchley and Golders Green,-192.42729
+raise_higher_rate_1p,E14001239,Folkestone and Hythe,-45.652534
+raise_higher_rate_1p,E14001240,Forest of Dean,-38.16143
+raise_higher_rate_1p,E14001241,Frome and East Somerset,-55.500866
+raise_higher_rate_1p,E14001242,Fylde,-60.627644
+raise_higher_rate_1p,E14001243,Gainsborough,-48.376812
+raise_higher_rate_1p,E14001244,Gateshead Central and Whickham,-30.329681
+raise_higher_rate_1p,E14001245,Gedling,-35.087894
+raise_higher_rate_1p,E14001246,Gillingham and Rainham,-49.667957
+raise_higher_rate_1p,E14001247,Glastonbury and Somerton,-48.74662
+raise_higher_rate_1p,E14001248,Gloucester,-35.46005
+raise_higher_rate_1p,E14001249,Godalming and Ash,-176.82559
+raise_higher_rate_1p,E14001250,Goole and Pocklington,-51.24239
+raise_higher_rate_1p,E14001251,Gorton and Denton,-25.449371
+raise_higher_rate_1p,E14001252,Gosport,-41.336227
+raise_higher_rate_1p,E14001253,Grantham and Bourne,-53.92076
+raise_higher_rate_1p,E14001254,Gravesham,-62.61546
+raise_higher_rate_1p,E14001255,Great Grimsby and Cleethorpes,-30.637722
+raise_higher_rate_1p,E14001256,Great Yarmouth,-29.305729
+raise_higher_rate_1p,E14001257,Greenwich and Woolwich,-189.85614
+raise_higher_rate_1p,E14001258,Guildford,-168.36359
+raise_higher_rate_1p,E14001259,Hackney North and Stoke Newington,-104.72963
+raise_higher_rate_1p,E14001260,Hackney South and Shoreditch,-127.91299
+raise_higher_rate_1p,E14001261,Halesowen,-33.434834
+raise_higher_rate_1p,E14001262,Halifax,-23.661867
+raise_higher_rate_1p,E14001263,Hamble Valley,-66.201645
+raise_higher_rate_1p,E14001264,Hammersmith and Chiswick,-218.2111
+raise_higher_rate_1p,E14001265,Hampstead and Highgate,-303.0461
+raise_higher_rate_1p,E14001266,"Harborough, Oadby and Wigston",-64.66614
+raise_higher_rate_1p,E14001267,Harlow,-58.6119
+raise_higher_rate_1p,E14001268,Harpenden and Berkhamsted,-201.78241
+raise_higher_rate_1p,E14001269,Harrogate and Knaresborough,-81.84223
+raise_higher_rate_1p,E14001270,Harrow East,-84.36837
+raise_higher_rate_1p,E14001271,Harrow West,-89.594086
+raise_higher_rate_1p,E14001272,Hartlepool,-31.446053
+raise_higher_rate_1p,E14001273,Harwich and North Essex,-64.747154
+raise_higher_rate_1p,E14001274,Hastings and Rye,-33.058052
+raise_higher_rate_1p,E14001275,Havant,-40.115883
+raise_higher_rate_1p,E14001276,Hayes and Harlington,-41.610855
+raise_higher_rate_1p,E14001277,Hazel Grove,-59.70515
+raise_higher_rate_1p,E14001278,Hemel Hempstead,-94.503265
+raise_higher_rate_1p,E14001279,Hendon,-103.34335
+raise_higher_rate_1p,E14001280,Henley and Thame,-183.52498
+raise_higher_rate_1p,E14001281,Hereford and South Herefordshire,-30.713493
+raise_higher_rate_1p,E14001282,Herne Bay and Sandwich,-37.693737
+raise_higher_rate_1p,E14001283,Hertford and Stortford,-153.35837
+raise_higher_rate_1p,E14001284,Hertsmere,-131.26282
+raise_higher_rate_1p,E14001285,Hexham,-66.55258
+raise_higher_rate_1p,E14001286,Heywood and Middleton North,-34.96472
+raise_higher_rate_1p,E14001287,High Peak,-42.310444
+raise_higher_rate_1p,E14001288,Hinckley and Bosworth,-53.587597
+raise_higher_rate_1p,E14001289,Hitchin,-182.64864
+raise_higher_rate_1p,E14001290,Holborn and St Pancras,-181.66614
+raise_higher_rate_1p,E14001291,Honiton and Sidmouth,-48.895687
+raise_higher_rate_1p,E14001292,Hornchurch and Upminster,-108.406815
+raise_higher_rate_1p,E14001293,Hornsey and Friern Barnet,-218.87042
+raise_higher_rate_1p,E14001294,Horsham,-110.73059
+raise_higher_rate_1p,E14001295,Houghton and Sunderland South,-29.568975
+raise_higher_rate_1p,E14001296,Hove and Portslade,-81.08113
+raise_higher_rate_1p,E14001297,Huddersfield,-29.339342
+raise_higher_rate_1p,E14001298,Huntingdon,-73.53783
+raise_higher_rate_1p,E14001299,Hyndburn,-27.07612
+raise_higher_rate_1p,E14001300,Ilford North,-66.755455
+raise_higher_rate_1p,E14001301,Ilford South,-45.43885
+raise_higher_rate_1p,E14001302,Ipswich,-42.04814
+raise_higher_rate_1p,E14001303,Isle of Wight East,-35.11808
+raise_higher_rate_1p,E14001304,Isle of Wight West,-34.408894
+raise_higher_rate_1p,E14001305,Islington North,-181.36061
+raise_higher_rate_1p,E14001306,Islington South and Finsbury,-239.1289
+raise_higher_rate_1p,E14001307,Jarrow and Gateshead East,-33.33447
+raise_higher_rate_1p,E14001308,Keighley and Ilkley,-47.300095
+raise_higher_rate_1p,E14001309,Kenilworth and Southam,-104.746796
+raise_higher_rate_1p,E14001310,Kensington and Bayswater,-458.9104
+raise_higher_rate_1p,E14001311,Kettering,-59.327698
+raise_higher_rate_1p,E14001312,Kingston and Surbiton,-139.36554
+raise_higher_rate_1p,E14001313,Kingston upon Hull East,-22.915716
+raise_higher_rate_1p,E14001314,Kingston upon Hull North and Cottingham,-28.490765
+raise_higher_rate_1p,E14001315,Kingston upon Hull West and Haltemprice,-32.11088
+raise_higher_rate_1p,E14001316,Kingswinford and South Staffordshire,-43.84904
+raise_higher_rate_1p,E14001317,Knowsley,-29.630611
+raise_higher_rate_1p,E14001318,Lancaster and Wyre,-35.11873
+raise_higher_rate_1p,E14001319,Leeds Central and Headingley,-32.71874
+raise_higher_rate_1p,E14001320,Leeds East,-38.385597
+raise_higher_rate_1p,E14001321,Leeds North East,-74.65097
+raise_higher_rate_1p,E14001322,Leeds North West,-61.749043
+raise_higher_rate_1p,E14001323,Leeds South,-23.15947
+raise_higher_rate_1p,E14001324,Leeds South West and Morley,-47.23844
+raise_higher_rate_1p,E14001325,Leeds West and Pudsey,-46.26946
+raise_higher_rate_1p,E14001326,Leicester East,-20.683548
+raise_higher_rate_1p,E14001327,Leicester South,-19.953854
+raise_higher_rate_1p,E14001328,Leicester West,-23.112593
+raise_higher_rate_1p,E14001329,Leigh and Atherton,-41.02181
+raise_higher_rate_1p,E14001330,Lewes,-54.89872
+raise_higher_rate_1p,E14001331,Lewisham East,-107.253784
+raise_higher_rate_1p,E14001332,Lewisham North,-100.61636
+raise_higher_rate_1p,E14001333,Lewisham West and East Dulwich,-120.95465
+raise_higher_rate_1p,E14001334,Leyton and Wanstead,-95.567
+raise_higher_rate_1p,E14001335,Lichfield,-67.35517
+raise_higher_rate_1p,E14001336,Lincoln,-28.13188
+raise_higher_rate_1p,E14001337,Liverpool Garston,-37.781048
+raise_higher_rate_1p,E14001338,Liverpool Riverside,-22.833265
+raise_higher_rate_1p,E14001339,Liverpool Walton,-26.656334
+raise_higher_rate_1p,E14001340,Liverpool Wavertree,-24.780846
+raise_higher_rate_1p,E14001341,Liverpool West Derby,-28.037434
+raise_higher_rate_1p,E14001342,Loughborough,-33.99332
+raise_higher_rate_1p,E14001343,Louth and Horncastle,-33.747063
+raise_higher_rate_1p,E14001344,Lowestoft,-28.593649
+raise_higher_rate_1p,E14001345,Luton North,-35.461433
+raise_higher_rate_1p,E14001346,Luton South and South Bedfordshire,-33.500698
+raise_higher_rate_1p,E14001347,Macclesfield,-87.9077
+raise_higher_rate_1p,E14001348,Maidenhead,-209.15355
+raise_higher_rate_1p,E14001349,Maidstone and Malling,-95.20814
+raise_higher_rate_1p,E14001350,Makerfield,-41.23793
+raise_higher_rate_1p,E14001351,Maldon,-101.310036
+raise_higher_rate_1p,E14001352,Manchester Central,-24.500664
+raise_higher_rate_1p,E14001353,Manchester Rusholme,-23.208067
+raise_higher_rate_1p,E14001354,Manchester Withington,-50.72081
+raise_higher_rate_1p,E14001355,Mansfield,-30.022678
+raise_higher_rate_1p,E14001356,Melksham and Devizes,-63.022137
+raise_higher_rate_1p,E14001357,Melton and Syston,-59.26896
+raise_higher_rate_1p,E14001358,Meriden and Solihull East,-76.79786
+raise_higher_rate_1p,E14001359,Mid Bedfordshire,-102.30946
+raise_higher_rate_1p,E14001360,Mid Buckinghamshire,-127.6555
+raise_higher_rate_1p,E14001361,Mid Cheshire,-80.92614
+raise_higher_rate_1p,E14001362,Mid Derbyshire,-57.6496
+raise_higher_rate_1p,E14001363,Mid Dorset and North Poole,-50.805756
+raise_higher_rate_1p,E14001364,Mid Leicestershire,-54.852863
+raise_higher_rate_1p,E14001365,Mid Norfolk,-46.578327
+raise_higher_rate_1p,E14001366,Mid Sussex,-109.8172
+raise_higher_rate_1p,E14001367,Middlesbrough and Thornaby East,-26.293821
+raise_higher_rate_1p,E14001368,Middlesbrough South and East Cleveland,-36.81322
+raise_higher_rate_1p,E14001369,Milton Keynes Central,-82.02471
+raise_higher_rate_1p,E14001370,Milton Keynes North,-69.15682
+raise_higher_rate_1p,E14001371,Mitcham and Morden,-94.07381
+raise_higher_rate_1p,E14001372,Morecambe and Lunesdale,-34.964928
+raise_higher_rate_1p,E14001373,New Forest East,-60.78365
+raise_higher_rate_1p,E14001374,New Forest West,-64.298965
+raise_higher_rate_1p,E14001375,Newark,-60.921467
+raise_higher_rate_1p,E14001376,Newbury,-117.078606
+raise_higher_rate_1p,E14001377,Newcastle upon Tyne Central and West,-32.90511
+raise_higher_rate_1p,E14001378,Newcastle upon Tyne East and Wallsend,-29.23031
+raise_higher_rate_1p,E14001379,Newcastle upon Tyne North,-36.344982
+raise_higher_rate_1p,E14001380,Newcastle-under-Lyme,-34.52475
+raise_higher_rate_1p,E14001381,Newton Abbot,-37.557632
+raise_higher_rate_1p,E14001382,Newton Aycliffe and Spennymoor,-33.30558
+raise_higher_rate_1p,E14001383,Normanton and Hemsworth,-36.122826
+raise_higher_rate_1p,E14001384,North Bedfordshire,-105.101585
+raise_higher_rate_1p,E14001385,North Cornwall,-30.909197
+raise_higher_rate_1p,E14001386,North Cotswolds,-73.81099
+raise_higher_rate_1p,E14001387,North Devon,-30.870829
+raise_higher_rate_1p,E14001388,North Dorset,-54.36666
+raise_higher_rate_1p,E14001389,North Durham,-33.897717
+raise_higher_rate_1p,E14001390,North East Cambridgeshire,-43.738182
+raise_higher_rate_1p,E14001391,North East Derbyshire,-44.94875
+raise_higher_rate_1p,E14001392,North East Hampshire,-179.09373
+raise_higher_rate_1p,E14001393,North East Hertfordshire,-116.59717
+raise_higher_rate_1p,E14001394,North East Somerset and Hanham,-57.670055
+raise_higher_rate_1p,E14001395,North Herefordshire,-43.10732
+raise_higher_rate_1p,E14001396,North Norfolk,-41.541622
+raise_higher_rate_1p,E14001397,North Northumberland,-32.90176
+raise_higher_rate_1p,E14001398,North Shropshire,-40.7704
+raise_higher_rate_1p,E14001399,North Somerset,-87.647545
+raise_higher_rate_1p,E14001400,North Warwickshire and Bedworth,-36.27613
+raise_higher_rate_1p,E14001401,North West Cambridgeshire,-64.625725
+raise_higher_rate_1p,E14001402,North West Essex,-142.19086
+raise_higher_rate_1p,E14001403,North West Hampshire,-109.55727
+raise_higher_rate_1p,E14001404,North West Leicestershire,-57.487022
+raise_higher_rate_1p,E14001405,North West Norfolk,-37.597565
+raise_higher_rate_1p,E14001406,Northampton North,-42.80792
+raise_higher_rate_1p,E14001407,Northampton South,-59.111336
+raise_higher_rate_1p,E14001408,Norwich North,-38.73677
+raise_higher_rate_1p,E14001409,Norwich South,-36.58421
+raise_higher_rate_1p,E14001410,Nottingham East,-17.118605
+raise_higher_rate_1p,E14001411,Nottingham North and Kimberley,-26.508991
+raise_higher_rate_1p,E14001412,Nottingham South,-23.35021
+raise_higher_rate_1p,E14001413,Nuneaton,-44.01214
+raise_higher_rate_1p,E14001414,Old Bexley and Sidcup,-100.29684
+raise_higher_rate_1p,E14001415,Oldham East and Saddleworth,-34.018806
+raise_higher_rate_1p,E14001416,"Oldham West, Chadderton and Royton",-22.925734
+raise_higher_rate_1p,E14001417,Orpington,-147.99947
+raise_higher_rate_1p,E14001418,Ossett and Denby Dale,-36.47775
+raise_higher_rate_1p,E14001419,Oxford East,-56.71193
+raise_higher_rate_1p,E14001420,Oxford West and Abingdon,-106.54666
+raise_higher_rate_1p,E14001421,Peckham,-115.23631
+raise_higher_rate_1p,E14001422,Pendle and Clitheroe,-29.108583
+raise_higher_rate_1p,E14001423,Penistone and Stocksbridge,-44.950783
+raise_higher_rate_1p,E14001424,Penrith and Solway,-38.391815
+raise_higher_rate_1p,E14001425,Peterborough,-29.373339
+raise_higher_rate_1p,E14001426,Plymouth Moor View,-30.364857
+raise_higher_rate_1p,E14001427,Plymouth Sutton and Devonport,-26.128977
+raise_higher_rate_1p,E14001428,"Pontefract, Castleford and Knottingley",-37.525696
+raise_higher_rate_1p,E14001429,Poole,-56.309128
+raise_higher_rate_1p,E14001430,Poplar and Limehouse,-194.0097
+raise_higher_rate_1p,E14001431,Portsmouth North,-38.409653
+raise_higher_rate_1p,E14001432,Portsmouth South,-27.873499
+raise_higher_rate_1p,E14001433,Preston,-24.126415
+raise_higher_rate_1p,E14001434,Putney,-331.09857
+raise_higher_rate_1p,E14001435,Queen's Park and Maida Vale,-278.76947
+raise_higher_rate_1p,E14001436,Rawmarsh and Conisbrough,-32.849274
+raise_higher_rate_1p,E14001437,Rayleigh and Wickford,-85.34249
+raise_higher_rate_1p,E14001438,Reading Central,-99.22722
+raise_higher_rate_1p,E14001439,Reading West and Mid Berkshire,-98.41583
+raise_higher_rate_1p,E14001440,Redcar,-29.525818
+raise_higher_rate_1p,E14001441,Redditch,-49.894997
+raise_higher_rate_1p,E14001442,Reigate,-182.7046
+raise_higher_rate_1p,E14001443,Ribble Valley,-59.385292
+raise_higher_rate_1p,E14001444,Richmond and Northallerton,-43.986748
+raise_higher_rate_1p,E14001445,Richmond Park,-365.5034
+raise_higher_rate_1p,E14001446,Rochdale,-23.146828
+raise_higher_rate_1p,E14001447,Rochester and Strood,-59.571083
+raise_higher_rate_1p,E14001448,Romford,-73.03098
+raise_higher_rate_1p,E14001449,Romsey and Southampton North,-94.00183
+raise_higher_rate_1p,E14001450,Rossendale and Darwen,-42.381496
+raise_higher_rate_1p,E14001451,Rother Valley,-41.52412
+raise_higher_rate_1p,E14001452,Rotherham,-27.698433
+raise_higher_rate_1p,E14001453,Rugby,-66.81454
+raise_higher_rate_1p,E14001454,"Ruislip, Northwood and Pinner",-152.27962
+raise_higher_rate_1p,E14001455,Runcorn and Helsby,-48.345
+raise_higher_rate_1p,E14001456,Runnymede and Weybridge,-246.93228
+raise_higher_rate_1p,E14001457,Rushcliffe,-108.40707
+raise_higher_rate_1p,E14001458,Rutland and Stamford,-59.514545
+raise_higher_rate_1p,E14001459,Salford,-42.9638
+raise_higher_rate_1p,E14001460,Salisbury,-70.513626
+raise_higher_rate_1p,E14001461,Scarborough and Whitby,-28.71726
+raise_higher_rate_1p,E14001462,Scunthorpe,-33.397694
+raise_higher_rate_1p,E14001463,Sefton Central,-70.15822
+raise_higher_rate_1p,E14001464,Selby,-71.29696
+raise_higher_rate_1p,E14001465,Sevenoaks,-208.78017
+raise_higher_rate_1p,E14001466,Sheffield Brightside and Hillsborough,-21.017502
+raise_higher_rate_1p,E14001467,Sheffield Central,-21.418293
+raise_higher_rate_1p,E14001468,Sheffield Hallam,-68.04909
+raise_higher_rate_1p,E14001469,Sheffield Heeley,-24.414322
+raise_higher_rate_1p,E14001470,Sheffield South East,-25.813175
+raise_higher_rate_1p,E14001471,Sherwood Forest,-40.066593
+raise_higher_rate_1p,E14001472,Shipley,-45.651844
+raise_higher_rate_1p,E14001473,Shrewsbury,-48.46628
+raise_higher_rate_1p,E14001474,Sittingbourne and Sheppey,-43.399174
+raise_higher_rate_1p,E14001475,Skipton and Ripon,-59.789513
+raise_higher_rate_1p,E14001476,Sleaford and North Hykeham,-55.62846
+raise_higher_rate_1p,E14001477,Slough,-50.641182
+raise_higher_rate_1p,E14001478,Smethwick,-26.988348
+raise_higher_rate_1p,E14001479,Solihull West and Shirley,-80.46243
+raise_higher_rate_1p,E14001480,South Basildon and East Thurrock,-59.602425
+raise_higher_rate_1p,E14001481,South Cambridgeshire,-144.30879
+raise_higher_rate_1p,E14001482,South Cotswolds,-90.86303
+raise_higher_rate_1p,E14001483,South Derbyshire,-53.885357
+raise_higher_rate_1p,E14001484,South Devon,-39.058647
+raise_higher_rate_1p,E14001485,South Dorset,-32.573822
+raise_higher_rate_1p,E14001486,South East Cornwall,-34.395473
+raise_higher_rate_1p,E14001487,South Holland and The Deepings,-47.311573
+raise_higher_rate_1p,E14001488,South Leicestershire,-59.775105
+raise_higher_rate_1p,E14001489,South Norfolk,-55.610447
+raise_higher_rate_1p,E14001490,South Northamptonshire,-105.327034
+raise_higher_rate_1p,E14001491,South Ribble,-47.229683
+raise_higher_rate_1p,E14001492,South Shields,-28.119461
+raise_higher_rate_1p,E14001493,South Shropshire,-47.200806
+raise_higher_rate_1p,E14001494,South Suffolk,-64.53392
+raise_higher_rate_1p,E14001495,South West Devon,-52.57084
+raise_higher_rate_1p,E14001496,South West Hertfordshire,-165.53856
+raise_higher_rate_1p,E14001497,South West Norfolk,-39.763046
+raise_higher_rate_1p,E14001498,South West Wiltshire,-51.775272
+raise_higher_rate_1p,E14001499,Southampton Itchen,-32.995815
+raise_higher_rate_1p,E14001500,Southampton Test,-32.189335
+raise_higher_rate_1p,E14001501,Southend East and Rochford,-52.00362
+raise_higher_rate_1p,E14001502,Southend West and Leigh,-83.90237
+raise_higher_rate_1p,E14001503,Southgate and Wood Green,-184.31483
+raise_higher_rate_1p,E14001504,Southport,-39.777637
+raise_higher_rate_1p,E14001505,Spelthorne,-91.33626
+raise_higher_rate_1p,E14001506,Spen Valley,-28.66974
+raise_higher_rate_1p,E14001507,St Albans,-203.3587
+raise_higher_rate_1p,E14001508,St Austell and Newquay,-29.77602
+raise_higher_rate_1p,E14001509,St Helens North,-34.408146
+raise_higher_rate_1p,E14001510,St Helens South and Whiston,-34.22346
+raise_higher_rate_1p,E14001511,St Ives,-31.328299
+raise_higher_rate_1p,E14001512,St Neots and Mid Cambridgeshire,-113.56542
+raise_higher_rate_1p,E14001513,Stafford,-48.871536
+raise_higher_rate_1p,E14001514,Staffordshire Moorlands,-44.47087
+raise_higher_rate_1p,E14001515,Stalybridge and Hyde,-39.6553
+raise_higher_rate_1p,E14001516,Stevenage,-73.80583
+raise_higher_rate_1p,E14001517,Stockport,-45.780407
+raise_higher_rate_1p,E14001518,Stockton North,-33.348484
+raise_higher_rate_1p,E14001519,Stockton West,-47.006912
+raise_higher_rate_1p,E14001520,Stoke-on-Trent Central,-23.996796
+raise_higher_rate_1p,E14001521,Stoke-on-Trent North,-24.011127
+raise_higher_rate_1p,E14001522,Stoke-on-Trent South,-39.56806
+raise_higher_rate_1p,E14001523,"Stone, Great Wyrley and Penkridge",-55.76975
+raise_higher_rate_1p,E14001524,Stourbridge,-35.046238
+raise_higher_rate_1p,E14001525,Stratford and Bow,-81.41379
+raise_higher_rate_1p,E14001526,Stratford-on-Avon,-107.388054
+raise_higher_rate_1p,E14001527,Streatham and Croydon North,-119.43244
+raise_higher_rate_1p,E14001528,Stretford and Urmston,-44.43517
+raise_higher_rate_1p,E14001529,Stroud,-61.452854
+raise_higher_rate_1p,E14001530,Suffolk Coastal,-57.879665
+raise_higher_rate_1p,E14001531,Sunderland Central,-25.559109
+raise_higher_rate_1p,E14001532,Surrey Heath,-137.33972
+raise_higher_rate_1p,E14001533,Sussex Weald,-82.76408
+raise_higher_rate_1p,E14001534,Sutton and Cheam,-132.30481
+raise_higher_rate_1p,E14001535,Sutton Coldfield,-92.40132
+raise_higher_rate_1p,E14001536,Swindon North,-69.07856
+raise_higher_rate_1p,E14001537,Swindon South,-60.043648
+raise_higher_rate_1p,E14001538,Tamworth,-49.73861
+raise_higher_rate_1p,E14001539,Tatton,-158.9254
+raise_higher_rate_1p,E14001540,Taunton and Wellington,-45.59547
+raise_higher_rate_1p,E14001541,Telford,-33.693657
+raise_higher_rate_1p,E14001542,Tewkesbury,-52.80679
+raise_higher_rate_1p,E14001543,The Wrekin,-42.92216
+raise_higher_rate_1p,E14001544,Thirsk and Malton,-46.121708
+raise_higher_rate_1p,E14001545,Thornbury and Yate,-68.59329
+raise_higher_rate_1p,E14001546,Thurrock,-61.486156
+raise_higher_rate_1p,E14001547,Tipton and Wednesbury,-25.863634
+raise_higher_rate_1p,E14001548,Tiverton and Minehead,-38.984978
+raise_higher_rate_1p,E14001549,Tonbridge,-146.04585
+raise_higher_rate_1p,E14001550,Tooting,-293.02948
+raise_higher_rate_1p,E14001551,Torbay,-32.260353
+raise_higher_rate_1p,E14001552,Torridge and Tavistock,-31.887335
+raise_higher_rate_1p,E14001553,Tottenham,-54.78898
+raise_higher_rate_1p,E14001554,Truro and Falmouth,-37.65701
+raise_higher_rate_1p,E14001555,Tunbridge Wells,-152.12915
+raise_higher_rate_1p,E14001556,Twickenham,-258.24274
+raise_higher_rate_1p,E14001557,Tynemouth,-52.362946
+raise_higher_rate_1p,E14001558,Uxbridge and South Ruislip,-95.20425
+raise_higher_rate_1p,E14001559,Vauxhall and Camberwell Green,-168.76677
+raise_higher_rate_1p,E14001560,Wakefield and Rothwell,-52.249172
+raise_higher_rate_1p,E14001561,Wallasey,-29.601002
+raise_higher_rate_1p,E14001562,Walsall and Bloxwich,-24.568335
+raise_higher_rate_1p,E14001563,Walthamstow,-85.84304
+raise_higher_rate_1p,E14001564,Warrington North,-44.795124
+raise_higher_rate_1p,E14001565,Warrington South,-79.50479
+raise_higher_rate_1p,E14001566,Warwick and Leamington,-104.693146
+raise_higher_rate_1p,E14001567,Washington and Gateshead South,-31.797424
+raise_higher_rate_1p,E14001568,Watford,-94.561005
+raise_higher_rate_1p,E14001569,Waveney Valley,-52.70419
+raise_higher_rate_1p,E14001570,Weald of Kent,-73.23644
+raise_higher_rate_1p,E14001571,Wellingborough and Rushden,-42.60075
+raise_higher_rate_1p,E14001572,Wells and Mendip Hills,-43.123188
+raise_higher_rate_1p,E14001573,Welwyn Hatfield,-88.84301
+raise_higher_rate_1p,E14001574,West Bromwich,-25.372276
+raise_higher_rate_1p,E14001575,West Dorset,-47.443626
+raise_higher_rate_1p,E14001576,West Ham and Beckton,-50.151596
+raise_higher_rate_1p,E14001577,West Lancashire,-44.67245
+raise_higher_rate_1p,E14001578,West Suffolk,-51.11976
+raise_higher_rate_1p,E14001579,West Worcestershire,-57.723816
+raise_higher_rate_1p,E14001580,Westmorland and Lonsdale,-44.05757
+raise_higher_rate_1p,E14001581,Weston-super-Mare,-38.553604
+raise_higher_rate_1p,E14001582,Wetherby and Easingwold,-67.46865
+raise_higher_rate_1p,E14001583,Whitehaven and Workington,-45.923782
+raise_higher_rate_1p,E14001584,Widnes and Halewood,-36.89811
+raise_higher_rate_1p,E14001585,Wigan,-36.76322
+raise_higher_rate_1p,E14001586,Wimbledon,-349.14896
+raise_higher_rate_1p,E14001587,Winchester,-147.96394
+raise_higher_rate_1p,E14001588,Windsor,-194.90672
+raise_higher_rate_1p,E14001589,Wirral West,-59.205193
+raise_higher_rate_1p,E14001590,Witham,-88.31816
+raise_higher_rate_1p,E14001591,Witney,-104.72137
+raise_higher_rate_1p,E14001592,Woking,-187.33566
+raise_higher_rate_1p,E14001593,Wokingham,-162.06421
+raise_higher_rate_1p,E14001594,Wolverhampton North East,-25.593365
+raise_higher_rate_1p,E14001595,Wolverhampton South East,-24.8324
+raise_higher_rate_1p,E14001596,Wolverhampton West,-35.743958
+raise_higher_rate_1p,E14001597,Worcester,-41.229443
+raise_higher_rate_1p,E14001598,Worsley and Eccles,-45.85399
+raise_higher_rate_1p,E14001599,Worthing West,-54.799362
+raise_higher_rate_1p,E14001600,Wycombe,-97.500984
+raise_higher_rate_1p,E14001601,Wyre Forest,-37.637585
+raise_higher_rate_1p,E14001602,Wythenshawe and Sale East,-45.183865
+raise_higher_rate_1p,E14001603,Yeovil,-38.503883
+raise_higher_rate_1p,E14001604,York Central,-35.57674
+raise_higher_rate_1p,E14001605,York Outer,-61.670506
+raise_higher_rate_1p,N05000001,Belfast East,-40.30601
+raise_higher_rate_1p,N05000002,Belfast North,-16.66241
+raise_higher_rate_1p,N05000003,Belfast South and Mid Down,-59.76657
+raise_higher_rate_1p,N05000004,Belfast West,-16.459455
+raise_higher_rate_1p,N05000005,East Antrim,-21.333363
+raise_higher_rate_1p,N05000006,East Londonderry,-17.211115
+raise_higher_rate_1p,N05000007,Fermanagh and South Tyrone,-20.442116
+raise_higher_rate_1p,N05000008,Foyle,-19.22564
+raise_higher_rate_1p,N05000009,Lagan Valley,-50.362568
+raise_higher_rate_1p,N05000010,Mid Ulster,-21.667551
+raise_higher_rate_1p,N05000011,Newry and Armagh,-23.474895
+raise_higher_rate_1p,N05000012,North Antrim,-24.822334
+raise_higher_rate_1p,N05000013,North Down,-28.937687
+raise_higher_rate_1p,N05000014,South Antrim,-28.677599
+raise_higher_rate_1p,N05000015,South Down,-22.023964
+raise_higher_rate_1p,N05000016,Strangford,-18.902197
+raise_higher_rate_1p,N05000017,Upper Bann,-31.344858
+raise_higher_rate_1p,N05000018,West Tyrone,-15.824452
+raise_higher_rate_1p,S14000021,East Renfrewshire,-0.075668015
+raise_higher_rate_1p,S14000027,Na h-Eileanan an Iar,-0.06868884
+raise_higher_rate_1p,S14000045,Midlothian,-0.082257256
+raise_higher_rate_1p,S14000048,North Ayrshire and Arran,-0.118946806
+raise_higher_rate_1p,S14000051,Orkney and Shetland,-0.12222305
+raise_higher_rate_1p,S14000060,Aberdeen North,-0.07904551
+raise_higher_rate_1p,S14000061,Aberdeen South,-0.11572143
+raise_higher_rate_1p,S14000062,Aberdeenshire North and Moray East,-0.07656477
+raise_higher_rate_1p,S14000063,Airdrie and Shotts,-0.10073503
+raise_higher_rate_1p,S14000064,Alloa and Grangemouth,-0.13679078
+raise_higher_rate_1p,S14000065,Angus and Perthshire Glens,-0.08896693
+raise_higher_rate_1p,S14000066,Arbroath and Broughty Ferry,-0.10143085
+raise_higher_rate_1p,S14000067,"Argyll, Bute and South Lochaber",-0.07836765
+raise_higher_rate_1p,S14000068,Bathgate and Linlithgow,-0.06564149
+raise_higher_rate_1p,S14000069,"Caithness, Sutherland and Easter Ross",-0.17238629
+raise_higher_rate_1p,S14000070,Coatbridge and Bellshill,-0.07737081
+raise_higher_rate_1p,S14000071,Cowdenbeath and Kirkcaldy,-0.07193903
+raise_higher_rate_1p,S14000072,Cumbernauld and Kirkintilloch,-0.080090165
+raise_higher_rate_1p,S14000073,Dumfries and Galloway,-0.19486047
+raise_higher_rate_1p,S14000074,"Dumfriesshire, Clydesdale and Tweeddale",-0.054140564
+raise_higher_rate_1p,S14000075,Dundee Central,-0.087772004
+raise_higher_rate_1p,S14000076,Dunfermline and Dollar,-0.07651218
+raise_higher_rate_1p,S14000077,East Kilbride and Strathaven,-0.08938464
+raise_higher_rate_1p,S14000078,Edinburgh East and Musselburgh,-0.06393033
+raise_higher_rate_1p,S14000079,Edinburgh North and Leith,-0.082938306
+raise_higher_rate_1p,S14000080,Edinburgh South,-0.05880278
+raise_higher_rate_1p,S14000081,Edinburgh South West,-0.10836927
+raise_higher_rate_1p,S14000082,Edinburgh West,-0.10234619
+raise_higher_rate_1p,S14000083,Falkirk,-0.090519994
+raise_higher_rate_1p,S14000084,Glasgow East,-0.15442117
+raise_higher_rate_1p,S14000085,Glasgow North,-0.1279813
+raise_higher_rate_1p,S14000086,Glasgow North East,-0.113920175
+raise_higher_rate_1p,S14000087,Glasgow South,-0.1310553
+raise_higher_rate_1p,S14000088,Glasgow South West,-0.13881363
+raise_higher_rate_1p,S14000089,Glasgow West,-0.07893704
+raise_higher_rate_1p,S14000090,Glenrothes and Mid Fife,-0.067273006
+raise_higher_rate_1p,S14000091,Gordon and Buchan,-0.059133556
+raise_higher_rate_1p,S14000092,Hamilton and Clyde Valley,-0.09875897
+raise_higher_rate_1p,S14000093,Inverclyde and Renfrewshire West,-0.07222325
+raise_higher_rate_1p,S14000094,"Inverness, Skye and West Ross-shire",-0.07343612
+raise_higher_rate_1p,S14000095,Livingston,-0.06346776
+raise_higher_rate_1p,S14000096,Lothian East,-0.19544257
+raise_higher_rate_1p,S14000097,Mid Dunbartonshire,-0.099621944
+raise_higher_rate_1p,S14000098,"Moray West, Nairn and Strathspey",-0.076245435
+raise_higher_rate_1p,S14000099,"Motherwell, Wishaw and Carluke",-0.07034864
+raise_higher_rate_1p,S14000100,North East Fife,-0.13763298
+raise_higher_rate_1p,S14000101,Paisley and Renfrewshire North,-0.15475664
+raise_higher_rate_1p,S14000102,Paisley and Renfrewshire South,-0.119746484
+raise_higher_rate_1p,S14000103,Perth and Kinross-shire,-0.07464755
+raise_higher_rate_1p,S14000104,Rutherglen,-0.086833455
+raise_higher_rate_1p,S14000105,Stirling and Strathallan,-0.07437589
+raise_higher_rate_1p,S14000106,West Dunbartonshire,-0.09953466
+raise_higher_rate_1p,S14000107,"Ayr, Carrick and Cumnock",-0.080233775
+raise_higher_rate_1p,S14000108,"Berwickshire, Roxburgh and Selkirk",-0.099205405
+raise_higher_rate_1p,S14000109,Central Ayrshire,-0.13162187
+raise_higher_rate_1p,S14000110,Kilmarnock and Loudoun,-0.10803846
+raise_higher_rate_1p,S14000111,West Aberdeenshire and Kincardine,-0.07874741
+raise_higher_rate_1p,W07000081,Aberafan Maesteg,-26.707794
+raise_higher_rate_1p,W07000082,Alyn and Deeside,-36.50733
+raise_higher_rate_1p,W07000083,Bangor Aberconwy,-22.863565
+raise_higher_rate_1p,W07000084,Blaenau Gwent and Rhymney,-19.217533
+raise_higher_rate_1p,W07000085,"Brecon, Radnor and Cwm Tawe",-24.34054
+raise_higher_rate_1p,W07000086,Bridgend,-31.055262
+raise_higher_rate_1p,W07000087,Caerfyrddin,-26.48975
+raise_higher_rate_1p,W07000088,Caerphilly,-24.958323
+raise_higher_rate_1p,W07000089,Cardiff East,-27.795834
+raise_higher_rate_1p,W07000090,Cardiff North,-58.38784
+raise_higher_rate_1p,W07000091,Cardiff South and Penarth,-31.158825
+raise_higher_rate_1p,W07000092,Cardiff West,-43.81257
+raise_higher_rate_1p,W07000093,Ceredigion Preseli,-18.221323
+raise_higher_rate_1p,W07000094,Clwyd East,-27.87328
+raise_higher_rate_1p,W07000095,Clwyd North,-24.858175
+raise_higher_rate_1p,W07000096,Dwyfor Meirionnydd,-18.130482
+raise_higher_rate_1p,W07000097,Gower,-37.450527
+raise_higher_rate_1p,W07000098,Llanelli,-20.827322
+raise_higher_rate_1p,W07000099,Merthyr Tydfil and Aberdare,-21.58202
+raise_higher_rate_1p,W07000100,Mid and South Pembrokeshire,-22.116116
+raise_higher_rate_1p,W07000101,Monmouthshire,-47.398567
+raise_higher_rate_1p,W07000102,Montgomeryshire and Glyndwr,-21.820631
+raise_higher_rate_1p,W07000103,Neath and Swansea East,-21.370712
+raise_higher_rate_1p,W07000104,Newport East,-31.58157
+raise_higher_rate_1p,W07000105,Newport West and Islwyn,-26.12447
+raise_higher_rate_1p,W07000106,Pontypridd,-28.227612
+raise_higher_rate_1p,W07000107,Rhondda and Ogmore,-21.964596
+raise_higher_rate_1p,W07000108,Swansea West,-22.0218
+raise_higher_rate_1p,W07000109,Torfaen,-23.16701
+raise_higher_rate_1p,W07000110,Vale of Glamorgan,-36.43776
+raise_higher_rate_1p,W07000111,Wrexham,-31.368517
+raise_higher_rate_1p,W07000112,Ynys Môn,-20.425219

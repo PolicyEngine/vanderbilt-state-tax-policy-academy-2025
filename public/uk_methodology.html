@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PolicyEngine UK Data Methodology</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #ffffff;
+            padding: 0;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 100%;
+            margin: 0;
+            background: none;
+            padding: 0;
+        }
+
+        h1 {
+            color: #2c5282;
+            margin-bottom: 10px;
+            font-size: 2.5em;
+        }
+
+        h2 {
+            color: #2c5282;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            border-bottom: 2px solid #e2e8f0;
+            padding-bottom: 10px;
+        }
+
+        h3 {
+            color: #4a5568;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        p {
+            margin-bottom: 15px;
+            color: #4a5568;
+        }
+
+        ul, ol {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+
+        li {
+            margin-bottom: 8px;
+            color: #4a5568;
+        }
+
+        .mermaid {
+            background: linear-gradient(to bottom, #f8fafc 0%, #f1f5f9 100%);
+            padding: 40px 30px 120px 30px;
+            border-radius: 0;
+            margin: 0;
+            text-align: center;
+            overflow-x: auto;
+            overflow-y: visible;
+            box-shadow: none;
+            border: none;
+            min-height: 800px;
+        }
+
+        .mermaid svg {
+            max-width: 100%;
+            height: auto !important;
+            overflow: visible !important;
+        }
+
+        .mermaid > div {
+            overflow: visible !important;
+        }
+
+        /* Additional styling for Mermaid nodes */
+        .mermaid .node rect,
+        .mermaid .node polygon {
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.15));
+            rx: 10px;
+            ry: 10px;
+        }
+
+        .mermaid .node rect {
+            min-width: 260px;
+            min-height: 90px;
+        }
+
+        /* Larger boxes for source datasets */
+        .mermaid .cluster rect {
+            rx: 12px;
+            ry: 12px;
+            stroke-width: 2.5px;
+        }
+
+        /* Hover effects for nodes */
+        .mermaid .node {
+            transition: all 0.3s ease;
+        }
+
+        .mermaid .node:hover rect,
+        .mermaid .node:hover polygon {
+            filter: drop-shadow(0 6px 12px rgba(0,0,0,0.2));
+            transform: translateY(-2px);
+        }
+
+        /* Edge styling */
+        .mermaid .edgePath path {
+            stroke-width: 2px;
+            transition: stroke-width 0.3s ease;
+        }
+
+        .mermaid .edgePath:hover path {
+            stroke-width: 3px;
+        }
+
+        .mermaid .edgePath .path {
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        /* Cleaner arrow markers */
+        .mermaid marker path {
+            fill: #374151 !important;
+        }
+
+        .mermaid .marker {
+            fill: #374151 !important;
+        }
+
+        /* Merge point styling */
+        .mermaid .merge rect,
+        .mermaid g.node.merge rect {
+            fill: #f8fafc !important;
+            stroke: #94a3b8 !important;
+            stroke-width: 1px !important;
+            rx: 4px !important;
+        }
+
+        .mermaid .merge text,
+        .mermaid .merge tspan,
+        .mermaid g.node.merge text,
+        .mermaid g.node.merge tspan {
+            fill: #000000 !important;
+            color: #000000 !important;
+            font-size: 22px !important;
+            font-weight: 700 !important;
+            font-style: normal !important;
+        }
+
+        /* Force white text color in all node boxes (except merge) */
+        .mermaid g.node:not(.cluster):not(.merge) text,
+        .mermaid g.node:not(.cluster):not(.merge) tspan,
+        .mermaid g.node:not(.cluster):not(.merge) .nodeLabel,
+        .mermaid g.node:not(.cluster):not(.merge) foreignObject,
+        .mermaid g.node:not(.cluster):not(.merge) foreignObject div,
+        .mermaid g.node:not(.cluster):not(.merge) foreignObject span,
+        .mermaid g.node:not(.cluster):not(.merge) foreignObject p,
+        .mermaid .label text,
+        .mermaid .label tspan {
+            fill: #ffffff !important;
+            color: #ffffff !important;
+            font-weight: 600 !important;
+            font-size: 23px !important;
+            line-height: 1.4 !important;
+        }
+
+        /* Ensure cluster/subgraph text stays readable */
+        .mermaid .cluster rect,
+        .mermaid .cluster polygon {
+            fill: #e0e7ff !important;
+        }
+
+        .mermaid .cluster text,
+        .mermaid .cluster tspan {
+            fill: #312e81 !important;
+            color: #312e81 !important;
+            font-weight: 700 !important;
+            font-size: 25px !important;
+            letter-spacing: 0.5px !important;
+        }
+
+        /* Edge labels on white background */
+        .mermaid .edgeLabel rect {
+            fill: #ffffff !important;
+        }
+
+        .mermaid .edgeLabel text,
+        .mermaid .edgeLabel tspan {
+            fill: #1e3a8a !important;
+            color: #1e3a8a !important;
+        }
+
+        .highlight {
+            background: #fef5e7;
+            padding: 15px;
+            border-left: 4px solid #f39c12;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .stat-card {
+            background: #edf2f7;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #4299e1;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #2c5282;
+        }
+
+        .stat-label {
+            color: #718096;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+
+        .code-block {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 20px;
+            border-radius: 6px;
+            overflow-x: auto;
+            margin: 20px 0;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <div class="mermaid">
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e3a8a','primaryTextColor':'#fff','primaryBorderColor':'#1e40af','lineColor':'#374151','secondaryColor':'#059669','tertiaryColor':'#7c3aed','fontSize':'24px','fontFamily':'system-ui, -apple-system, sans-serif'}}}%%
+graph TD
+    subgraph src["SOURCE DATASETS"]
+        direction LR
+        FRS["Family Resources Survey<br/>2023-24"]:::data
+        SPI["Survey of Personal Incomes<br/>2020-21"]:::data
+        WAS["Wealth and Assets Survey<br/>2006-20"]:::data
+        LCFS["Living Costs and Food Survey<br/>2021-22"]:::data
+        ETB["Effects of Taxes and Benefits<br/>1977-2021"]:::data
+        UC["Administrative Targets"]:::data
+    end
+
+    FRSCopy1["FRS Copy 1:<br/>with Impute High Income"]:::data
+    FRSCopy2["FRS Copy 2:<br/>without Impute High Income"]:::data
+
+    MergePoint["Stacking"]:::merge
+
+    subgraph imp["IMPUTATIONS"]
+        direction LR
+        ImpConsumption("Impute Consumption"):::process
+        ImpWealth("Impute Wealth"):::process
+        ImpVAT("Impute VAT"):::process
+        ImpServices("Impute Public Services"):::process
+        ImpConsumption ~~~ ImpWealth ~~~ ImpVAT ~~~ ImpServices
+    end
+
+    ImputedFRS["FRS with Imputed Variables"]:::data
+
+    Uprate("Uprate to 2025"):::process
+
+    Calibrate("Calibration & Reweighting<br/>(PyTorch Optimization)"):::process
+
+    CalibratedFRS["Calibrated FRS 2025"]:::data
+
+    FRS --> FRSCopy1
+    FRS --> FRSCopy2
+    SPI -.-> FRSCopy1
+
+    FRSCopy1 --> MergePoint
+    FRSCopy2 --> MergePoint
+    MergePoint --> imp
+
+    LCFS -.-> imp
+    WAS -.-> imp
+    ETB -.-> imp
+
+    imp --> ImputedFRS
+
+    ImputedFRS --> Uprate
+    Uprate --> Calibrate
+    UC --> Calibrate
+
+    Calibrate --> CalibratedFRS
+
+    classDef data fill:#1e3a8a,stroke:#1e40af,stroke-width:3px,color:#ffffff,font-size:24px,padding:20px,rx:8,ry:8
+    classDef process fill:#059669,stroke:#047857,stroke-width:3px,color:#ffffff,font-size:24px,padding:20px,rx:8,ry:8
+    classDef output fill:#7c3aed,stroke:#6d28d9,stroke-width:4px,color:#ffffff,font-size:26px,padding:25px,rx:10,ry:10
+    classDef merge fill:#f8fafc,stroke:#94a3b8,stroke-width:1px,color:#000000,font-size:20px
+
+    linkStyle default stroke:#374151,stroke-width:2px
+        </div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'base',
+            themeVariables: {
+                primaryColor: '#1e3a8a',
+                primaryTextColor: '#ffffff',
+                secondaryTextColor: '#ffffff',
+                tertiaryTextColor: '#ffffff',
+                primaryBorderColor: '#1e40af',
+                lineColor: '#64748b',
+                secondaryColor: '#059669',
+                tertiaryColor: '#7c3aed',
+                fontSize: '24px',
+                fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+                clusterBkg: '#eef2ff',
+                clusterBorder: '#4f46e5',
+                edgeLabelBackground: '#ffffff',
+                edgeLabelColor: '#1e3a8a',
+                nodeTextColor: '#ffffff',
+                textColor: '#ffffff',
+                mainBkg: '#ffffff',
+                nodeBorder: '#1e40af'
+            },
+            flowchart: {
+                nodeSpacing: 80,
+                rankSpacing: 80,
+                curve: 'linear',
+                padding: 50,
+                useMaxWidth: true,
+                htmlLabels: true,
+                diagramPadding: 50
+            }
+        });
+
+        // Force white text after Mermaid renders
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(function() {
+                // Target all text elements in nodes (not clusters)
+                const nodes = document.querySelectorAll('.mermaid g.node:not(.cluster)');
+                nodes.forEach(node => {
+                    const textElements = node.querySelectorAll('text, tspan');
+                    textElements.forEach(text => {
+                        text.style.fill = '#ffffff';
+                        text.setAttribute('fill', '#ffffff');
+                    });
+                });
+
+                // Keep cluster text dark
+                const clusters = document.querySelectorAll('.mermaid .cluster');
+                clusters.forEach(cluster => {
+                    const textElements = cluster.querySelectorAll('text, tspan');
+                    textElements.forEach(text => {
+                        text.style.fill = '#1e3a8a';
+                        text.setAttribute('fill', '#1e3a8a');
+                    });
+                });
+            }, 500);
+        });
+    </script>
+</body>
+</html>

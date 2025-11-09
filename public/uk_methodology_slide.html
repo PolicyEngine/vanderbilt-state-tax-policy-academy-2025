@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PolicyEngine UK Data Methodology</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background-color: #ffffff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .mermaid {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(to bottom, #f8fafc 0%, #f1f5f9 100%);
+        }
+
+        .mermaid svg {
+            max-width: 95% !important;
+            max-height: 95% !important;
+            width: auto !important;
+            height: auto !important;
+        }
+
+        /* Node styling */
+        .mermaid .node rect,
+        .mermaid .node polygon {
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.15));
+            rx: 10px;
+            ry: 10px;
+        }
+
+        .mermaid .node rect {
+            min-width: 200px;
+            min-height: 70px;
+        }
+
+        /* Cluster styling */
+        .mermaid .cluster rect {
+            rx: 12px;
+            ry: 12px;
+            stroke-width: 2.5px;
+        }
+
+        /* Edge styling */
+        .mermaid .edgePath path {
+            stroke-width: 2px;
+        }
+
+        .mermaid marker path {
+            fill: #374151 !important;
+        }
+
+        /* Merge point styling */
+        .mermaid .merge rect,
+        .mermaid g.node.merge rect {
+            fill: #f8fafc !important;
+            stroke: #94a3b8 !important;
+            stroke-width: 1px !important;
+            rx: 4px !important;
+        }
+
+        .mermaid .merge text,
+        .mermaid .merge tspan,
+        .mermaid g.node.merge text,
+        .mermaid g.node.merge tspan {
+            fill: #000000 !important;
+            color: #000000 !important;
+            font-size: 18px !important;
+            font-weight: 700 !important;
+        }
+
+        /* White text in all node boxes (except merge) */
+        .mermaid g.node:not(.cluster):not(.merge) text,
+        .mermaid g.node:not(.cluster):not(.merge) tspan {
+            fill: #ffffff !important;
+            color: #ffffff !important;
+            font-weight: 600 !important;
+            font-size: 18px !important;
+            line-height: 1.3 !important;
+        }
+
+        /* Cluster text */
+        .mermaid .cluster rect,
+        .mermaid .cluster polygon {
+            fill: #e0e7ff !important;
+        }
+
+        .mermaid .cluster text,
+        .mermaid .cluster tspan {
+            fill: #312e81 !important;
+            color: #312e81 !important;
+            font-weight: 700 !important;
+            font-size: 20px !important;
+        }
+
+        /* Edge labels */
+        .mermaid .edgeLabel rect {
+            fill: #ffffff !important;
+        }
+
+        .mermaid .edgeLabel text,
+        .mermaid .edgeLabel tspan {
+            fill: #1e3a8a !important;
+            color: #1e3a8a !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="mermaid">
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e3a8a','primaryTextColor':'#fff','primaryBorderColor':'#1e40af','lineColor':'#374151','secondaryColor':'#059669','tertiaryColor':'#7c3aed','fontSize':'18px','fontFamily':'system-ui, -apple-system, sans-serif'}}}%%
+graph TD
+    subgraph src["SOURCE DATASETS"]
+        direction LR
+        FRS["Family Resources Survey<br/>2023-24"]:::data
+        SPI["Survey of Personal Incomes<br/>2020-21"]:::data
+        WAS["Wealth and Assets Survey<br/>2006-20"]:::data
+        LCFS["Living Costs and Food Survey<br/>2021-22"]:::data
+        ETB["Effects of Taxes and Benefits<br/>1977-2021"]:::data
+        UC["Administrative Targets"]:::data
+    end
+
+    FRSCopy1["FRS Copy 1:<br/>with Impute High Income"]:::data
+    FRSCopy2["FRS Copy 2:<br/>without Impute High Income"]:::data
+
+    MergePoint["Stacking"]:::merge
+
+    subgraph imp["IMPUTATIONS"]
+        direction LR
+        ImpConsumption("Impute Consumption"):::process
+        ImpWealth("Impute Wealth"):::process
+        ImpVAT("Impute VAT"):::process
+        ImpServices("Impute Public Services"):::process
+        ImpConsumption ~~~ ImpWealth ~~~ ImpVAT ~~~ ImpServices
+    end
+
+    ImputedFRS["FRS with Imputed Variables"]:::data
+
+    Uprate("Uprate to 2025"):::process
+
+    Calibrate("Calibration & Reweighting<br/>(PyTorch Optimization)"):::process
+
+    CalibratedFRS["Calibrated FRS 2025"]:::data
+
+    FRS --> FRSCopy1
+    FRS --> FRSCopy2
+    SPI -.-> FRSCopy1
+
+    FRSCopy1 --> MergePoint
+    FRSCopy2 --> MergePoint
+    MergePoint --> imp
+
+    LCFS -.-> imp
+    WAS -.-> imp
+    ETB -.-> imp
+
+    imp --> ImputedFRS
+
+    ImputedFRS --> Uprate
+    Uprate --> Calibrate
+    UC --> Calibrate
+
+    Calibrate --> CalibratedFRS
+
+    classDef data fill:#1e3a8a,stroke:#1e40af,stroke-width:3px,color:#ffffff,font-size:18px,padding:15px,rx:8,ry:8
+    classDef process fill:#059669,stroke:#047857,stroke-width:3px,color:#ffffff,font-size:18px,padding:15px,rx:8,ry:8
+    classDef output fill:#7c3aed,stroke:#6d28d9,stroke-width:4px,color:#ffffff,font-size:20px,padding:20px,rx:10,ry:10
+    classDef merge fill:#f8fafc,stroke:#94a3b8,stroke-width:1px,color:#000000,font-size:16px
+
+    linkStyle default stroke:#374151,stroke-width:2px
+        </div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'base',
+            themeVariables: {
+                primaryColor: '#1e3a8a',
+                primaryTextColor: '#ffffff',
+                secondaryTextColor: '#ffffff',
+                tertiaryTextColor: '#ffffff',
+                primaryBorderColor: '#1e40af',
+                lineColor: '#64748b',
+                secondaryColor: '#059669',
+                tertiaryColor: '#7c3aed',
+                fontSize: '18px',
+                fontFamily: 'system-ui, -apple-system, sans-serif',
+                clusterBkg: '#eef2ff',
+                clusterBorder: '#4f46e5',
+                edgeLabelBackground: '#ffffff',
+                edgeLabelColor: '#1e3a8a',
+                nodeTextColor: '#ffffff',
+                textColor: '#ffffff',
+                mainBkg: '#ffffff',
+                nodeBorder: '#1e40af'
+            },
+            flowchart: {
+                nodeSpacing: 60,
+                rankSpacing: 60,
+                curve: 'linear',
+                padding: 30,
+                useMaxWidth: false,
+                htmlLabels: true,
+                diagramPadding: 30
+            }
+        });
+
+        function applyTextColors() {
+            // Target all text elements in nodes (not clusters or merge)
+            const nodes = document.querySelectorAll('.mermaid g.node:not(.cluster):not(.merge)');
+            nodes.forEach(node => {
+                const textElements = node.querySelectorAll('text, tspan');
+                textElements.forEach(text => {
+                    text.style.fill = '#ffffff';
+                    text.setAttribute('fill', '#ffffff');
+                });
+            });
+
+            // Keep cluster text dark
+            const clusters = document.querySelectorAll('.mermaid .cluster');
+            clusters.forEach(cluster => {
+                const textElements = cluster.querySelectorAll('text, tspan');
+                textElements.forEach(text => {
+                    text.style.fill = '#312e81';
+                    text.setAttribute('fill', '#312e81');
+                });
+            });
+
+            // Force merge point text to black
+            const mergeNodes = document.querySelectorAll('.mermaid g.node.merge');
+            mergeNodes.forEach(node => {
+                const textElements = node.querySelectorAll('text, tspan');
+                textElements.forEach(text => {
+                    text.style.fill = '#000000';
+                    text.setAttribute('fill', '#000000');
+                });
+            });
+        }
+
+        function adjustDiagramSize() {
+            const svg = document.querySelector('.mermaid svg');
+            if (svg) {
+                const container = document.querySelector('.container');
+                const containerWidth = container.clientWidth;
+                const containerHeight = container.clientHeight;
+
+                // Get natural SVG dimensions
+                const viewBox = svg.getAttribute('viewBox');
+                if (viewBox) {
+                    const [, , width, height] = viewBox.split(' ').map(Number);
+                    const scale = Math.min(
+                        (containerWidth * 0.95) / width,
+                        (containerHeight * 0.95) / height
+                    );
+
+                    svg.style.width = `${width * scale}px`;
+                    svg.style.height = `${height * scale}px`;
+                }
+            }
+        }
+
+        // Initial setup
+        setTimeout(function() {
+            applyTextColors();
+            adjustDiagramSize();
+        }, 500);
+
+        // Handle window resize and tab visibility changes
+        let resizeTimeout;
+        window.addEventListener('resize', function() {
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(function() {
+                adjustDiagramSize();
+                applyTextColors();
+            }, 100);
+        });
+
+        // Handle tab visibility changes
+        document.addEventListener('visibilitychange', function() {
+            if (!document.hidden) {
+                setTimeout(function() {
+                    adjustDiagramSize();
+                    applyTextColors();
+                }, 200);
+            }
+        });
+
+        // Handle iframe load in parent
+        window.addEventListener('load', function() {
+            setTimeout(function() {
+                adjustDiagramSize();
+                applyTextColors();
+            }, 300);
+        });
+    </script>
+</body>
+</html>
