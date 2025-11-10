@@ -9,10 +9,17 @@ export default function UsersSlide() {
   const organizations = [
     { name: 'Niskanen Center', logo: '/logos/organizations/niskanen-center.png' },
     { name: 'Prenatal-to-3 Policy Impact Center', logo: '/logos/organizations/pn3policy.png' },
+    { name: 'Joint Economic Committee', logo: '/logos/organizations/jec.png' },
     { name: 'Colorado Fiscal Institute', logo: '/logos/organizations/cfi.png' },
     { name: 'Mothers Outreach Network', logo: '/logos/organizations/mothers-outreach-network.png' },
+    { name: 'NBER', logo: '/logos/organizations/nber.png' },
+    { name: 'Atlanta Fed', logo: '/logos/organizations/atlanta-fed.png' },
     { name: 'American Enterprise Institute', logo: '/logos/organizations/aei.png' },
     { name: 'UBI Center', logo: '/logos/organizations/ubicenter.png' },
+    { name: 'Georgetown University', logo: '/logos/organizations/georgetown.png' },
+    { name: 'University of Michigan', logo: '/logos/organizations/umich.png' },
+    { name: 'UHERO', logo: '/logos/organizations/uhero.png' },
+    { name: 'USC', logo: '/logos/organizations/usc.png' },
     { name: 'Gary Community Ventures', logo: '/logos/organizations/gary-community-ventures.png' },
     { name: 'MyFriendBen', logo: '/logos/organizations/myfriendben.png' },
     { name: 'Center for Growth and Opportunity', logo: '/logos/organizations/cgo.jpg' },
@@ -26,13 +33,13 @@ export default function UsersSlide() {
       </SlideHeader>
 
       <div className="w-full mt-8">
-        <div className="grid grid-cols-3 gap-x-12 gap-y-16 w-full px-12">
+        <div className="grid grid-cols-4 gap-x-8 gap-y-12 w-full px-12">
           {organizations.map((org, idx) => (
             <div
               key={idx}
               className={`
                 flex items-center justify-center
-                ${org.isUN ? 'col-span-3' : ''}
+                ${org.isUN ? 'col-span-4' : ''}
               `}
               style={{
                 height: org.isUN ? '80px' : '80px'
