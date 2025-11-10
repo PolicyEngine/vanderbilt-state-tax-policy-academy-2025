@@ -75,3 +75,4 @@ See `CLAUDE.md` for detailed instructions on creating and editing slides with Cl
 ## Deployment
 
 The slides are automatically deployed to GitHub Pages when changes are pushed to the main branch.
+
