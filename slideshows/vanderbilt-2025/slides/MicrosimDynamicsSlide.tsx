@@ -21,14 +21,14 @@ export default function MicrosimDynamicsSlide() {
             <table className="text-xl border-collapse">
               <thead>
                 <tr className="border-b-2 border-gray-400">
-                  <th className="px-6 py-3 text-left">Gross income</th>
-                  <th className="px-6 py-3 text-left"># kids</th>
-                  <th className="px-6 py-3 text-left bg-blue-100">Taxes</th>
-                  <th className="px-6 py-3 text-left bg-green-100">Taxes Static</th>
-                  <th className="px-6 py-3 text-left bg-yellow-100">Δ earnings</th>
-                  <th className="px-6 py-3 text-left bg-green-100">Tax w/ behavior</th>
-                  <th className="px-6 py-3 text-left bg-purple-100">Δ tax</th>
-                  <th className="px-6 py-3 text-left bg-gray-200 opacity-0">Weight</th>
+                  <th className="px-6 py-3 text-left w-32">Gross income</th>
+                  <th className="px-6 py-3 text-left w-24"># kids</th>
+                  <th className="px-6 py-3 text-left bg-blue-100 w-28">Taxes</th>
+                  <th className="px-6 py-3 text-left bg-green-100 w-32">Taxes Static</th>
+                  <th className="px-6 py-3 text-left bg-yellow-100 w-32">Δ earnings</th>
+                  <th className="px-6 py-3 text-left bg-green-100 w-36">Tax w/ behavior</th>
+                  <th className="px-6 py-3 text-left bg-purple-100 w-24">Δ tax</th>
+                  <th className="px-6 py-3 text-left bg-gray-200 opacity-0 w-24">Weight</th>
                 </tr>
               </thead>
               <tbody>

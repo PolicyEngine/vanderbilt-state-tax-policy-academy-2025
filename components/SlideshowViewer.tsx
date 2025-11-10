@@ -95,7 +95,7 @@ function SlideshowViewerClient({ slideCount, children, slideshowId }: SlideshowV
         e.preventDefault();
         if (currentSlide === slideCount - 1 && nextPresentation) {
           setIsNavigating(true);
-          router.push(`/${nextPresentation}`);
+          router.push(assetPath(`/${nextPresentation}`));
         } else {
           setCurrentSlide((prev) => Math.min(prev + 1, slideCount - 1));
         }
@@ -104,7 +104,7 @@ function SlideshowViewerClient({ slideCount, children, slideshowId }: SlideshowV
         if (currentSlide === 0 && previousPresentation) {
           setIsNavigating(true);
           // Go to last slide of previous presentation
-          router.push(`/${previousPresentation}?slide=999`); // Will clamp to last slide
+          router.push(assetPath(`/${previousPresentation}?slide=999`)); // Will clamp to last slide
         } else {
           setCurrentSlide((prev) => Math.max(prev - 1, 0));
         }
@@ -141,7 +141,7 @@ function SlideshowViewerClient({ slideCount, children, slideshowId }: SlideshowV
     // If on last slide and there's a next presentation, go to it
     if (isLastSlide && nextPresentation) {
       setIsNavigating(true);
-      router.push(`/${nextPresentation}`);
+      router.push(assetPath(`/${nextPresentation}`));
     } else {
       setCurrentSlide((prev) => Math.min(prev + 1, slideCount - 1));
     }
@@ -150,7 +150,7 @@ function SlideshowViewerClient({ slideCount, children, slideshowId }: SlideshowV
   const handleNext = () => {
     if (isLastSlide && nextPresentation) {
       setIsNavigating(true);
-      router.push(`/${nextPresentation}`);
+      router.push(assetPath(`/${nextPresentation}`));
     } else {
       setCurrentSlide((prev) => Math.min(prev + 1, slideCount - 1));
     }
@@ -191,7 +191,7 @@ function SlideshowViewerClient({ slideCount, children, slideshowId }: SlideshowV
             onClick={() => {
               if (isFirstSlide && previousPresentation) {
                 setIsNavigating(true);
-                router.push(`/${previousPresentation}?slide=999`);
+                router.push(assetPath(`/${previousPresentation}?slide=999`));
               } else {
                 setCurrentSlide((prev) => Math.max(prev - 1, 0));
               }
