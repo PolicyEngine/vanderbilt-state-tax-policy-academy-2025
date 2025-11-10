@@ -21,6 +21,12 @@ export default function WhatsComingSlide() {
             </div>
 
             <div>
+              <p className="font-semibold text-pe-dark mb-3">Child poverty dashboard (preview)</p>
+              <p className="ml-6">Child poverty focused dashboard for simulating tax credit reforms</p>
+              <p className="ml-6 text-pe-teal text-2xl">policyengine.org/us/rhode-island-ctc-calculator</p>
+            </div>
+
+            <div>
               <p className="font-semibold text-pe-dark mb-3">AI-powered policy analysis</p>
               <ul className="list-disc list-inside ml-6 space-y-2">
                 <li>Natural language policy design and analysis</li>
