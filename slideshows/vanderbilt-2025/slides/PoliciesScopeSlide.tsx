@@ -24,11 +24,6 @@ export default function PoliciesScopeSlide() {
 
           <div className="flex items-start gap-4 text-2xl">
             <span className="flex-shrink-0" style={{ lineHeight: '1.5' }}>•</span>
-            <p style={{ lineHeight: '1.5' }}><strong>Child and dependent care tax credits</strong> at both federal and state levels, including refundable and non-refundable variants</p>
-          </div>
-
-          <div className="flex items-start gap-4 text-2xl">
-            <span className="flex-shrink-0" style={{ lineHeight: '1.5' }}>•</span>
             <p style={{ lineHeight: '1.5' }}><strong>Federal benefits</strong> including SNAP, SSI, TANF, WIC, and housing assistance</p>
           </div>
 

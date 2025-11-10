@@ -16,7 +16,7 @@ export default function IntroSlide() {
           <ul className="list-disc list-inside space-y-4 text-left">
             <li>Introduction to PolicyEngine</li>
             <li>State tax policy modeling capabilities</li>
-            <li>Analyzing state EITCs, CTCs, and dependent care credits</li>
+            <li>Analyzing state EITCs and CTCs</li>
             <li>Measuring impacts on households, budgets, poverty, and inequality</li>
             <li>Hands-on demonstration of the web app</li>
           </ul>

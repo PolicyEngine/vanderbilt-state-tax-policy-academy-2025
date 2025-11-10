@@ -15,7 +15,7 @@ export default function MicrofoundedDemoSlide() {
         <SlideContent size="lg">
           <div className="space-y-6 text-left">
             <p className="font-semibold text-pe-dark">
-              See how microsimulation works at the household level
+              Household by household impacts of One Big Beautiful Bill Act
             </p>
 
             <ul className="list-disc list-inside space-y-4 ml-6">
