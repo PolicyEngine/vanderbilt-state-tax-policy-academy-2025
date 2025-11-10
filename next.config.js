@@ -6,8 +6,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: isProd ? '/policyengine-uk-event-2025' : '',
-  assetPrefix: isProd ? '/policyengine-uk-event-2025' : '',
+  basePath: isProd ? '/vanderbilt-state-tax-policy-academy-2025' : '',
+  assetPrefix: isProd ? '/vanderbilt-state-tax-policy-academy-2025' : '',
 }
 
 module.exports = nextConfig
