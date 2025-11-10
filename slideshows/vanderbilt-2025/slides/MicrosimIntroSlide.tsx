@@ -12,7 +12,13 @@ export default function MicrosimIntroSlide() {
         </SlideHeader>
 
         <div className="flex justify-center items-center mt-16">
-          <table className="text-xl border-collapse">
+          <div className="space-y-8">
+            <div className="flex gap-12 items-center text-2xl h-8">
+              <div className="font-semibold opacity-0">Baseline</div>
+              <div className="font-semibold text-green-600 opacity-0">Reform</div>
+            </div>
+
+            <table className="text-xl border-collapse">
             <thead>
               <tr className="border-b-2 border-gray-400">
                 <th className="px-6 py-3 text-left w-32">Gross income</th>
@@ -37,7 +43,8 @@ export default function MicrosimIntroSlide() {
                 <td className="px-6 py-3 bg-gray-200 opacity-0">500k</td>
               </tr>
             </tbody>
-          </table>
+            </table>
+          </div>
         </div>
       </div>
     </Slide>

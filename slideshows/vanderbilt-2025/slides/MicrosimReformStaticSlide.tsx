@@ -13,9 +13,9 @@ export default function MicrosimReformStaticSlide() {
 
         <div className="flex justify-center items-center mt-12">
           <div className="space-y-8">
-            <div className="flex gap-12 items-center">
-              <div className="text-2xl font-semibold">Baseline</div>
-              <div className="text-2xl font-semibold text-green-600">Reform</div>
+            <div className="flex gap-12 items-center text-2xl h-8">
+              <div className="font-semibold">Baseline</div>
+              <div className="font-semibold text-green-600">Reform</div>
             </div>
 
             <table className="text-xl border-collapse">

@@ -12,8 +12,8 @@ export default function MicrosimAggregateSlide() {
         </SlideHeader>
 
         <div className="flex justify-center items-center mt-4">
-          <div className="space-y-3">
-            <div className="flex gap-12 items-center text-base">
+          <div className="space-y-8">
+            <div className="flex gap-12 items-center text-2xl h-8">
               <div className="font-semibold">Baseline</div>
               <div className="font-semibold text-green-600">Reform</div>
             </div>

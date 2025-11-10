@@ -12,8 +12,8 @@ export default function MicrosimWeightsSlide() {
         </SlideHeader>
 
         <div className="flex justify-center items-center mt-6">
-          <div className="space-y-4">
-            <div className="flex gap-12 items-center text-lg">
+          <div className="space-y-8">
+            <div className="flex gap-12 items-center text-2xl h-8">
               <div className="font-semibold">Baseline</div>
               <div className="font-semibold text-green-600">Reform</div>
             </div>
