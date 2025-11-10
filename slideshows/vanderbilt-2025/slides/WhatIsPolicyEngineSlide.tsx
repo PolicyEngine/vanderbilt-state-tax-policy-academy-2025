@@ -26,7 +26,7 @@ export default function WhatIsPolicyEngineSlide() {
             </ul>
 
             <p className="text-pe-teal font-semibold pt-4">
-              Available for the US, UK, Canada, and more
+              Available in US and UK (Canada coming soon)
             </p>
           </div>
         </SlideContent>
