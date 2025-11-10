@@ -4,29 +4,28 @@ import SlideHeader from '@/components/SlideHeader';
 import SlideTitle from '@/components/SlideTitle';
 import SlideContent from '@/components/SlideContent';
 
-export default function HouseholdDemoSlide() {
+export default function MicrofoundedDemoSlide() {
   return (
     <Slide>
       <div className="max-w-7xl">
         <SlideHeader>
-          <SlideTitle>Demo 2: Montana family of four</SlideTitle>
+          <SlideTitle>Demo 1: Household-by-household impacts</SlideTitle>
         </SlideHeader>
 
         <SlideContent size="lg">
           <div className="space-y-6 text-left">
             <p className="font-semibold text-pe-dark">
-              Create a Montana family of four and calculate their taxes and benefits
+              See how microsimulation works at the household level
             </p>
 
             <ul className="list-disc list-inside space-y-4 ml-6">
-              <li>Enter household characteristics: family of four in Montana</li>
-              <li>Set income and other relevant details</li>
-              <li>View current tax liabilities and benefit eligibility</li>
-              <li>See breakdown by program and net household income</li>
+              <li>Explore individual household impacts across the income distribution</li>
+              <li>See variation in outcomes by income, family size, and location</li>
+              <li>Understand how aggregate results emerge from individual households</li>
             </ul>
 
             <p className="text-pe-teal font-semibold pt-2">
-              policyengine.org
+              policyengine.org/us/obbba-household-by-household
             </p>
           </div>
         </SlideContent>

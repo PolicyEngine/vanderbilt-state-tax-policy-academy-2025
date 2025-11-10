@@ -49,7 +49,7 @@ export default function MicrosimDynamicsSlide() {
 
             <div className="flex justify-center gap-8">
               <div className="px-6 py-3 bg-blue-500 text-white font-semibold rounded-lg">
-                Rules
+                Policies
               </div>
               <div className="px-6 py-3 bg-yellow-500 text-white font-semibold rounded-lg">
                 Dynamics

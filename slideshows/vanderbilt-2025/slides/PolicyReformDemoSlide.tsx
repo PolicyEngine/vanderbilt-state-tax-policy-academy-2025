@@ -9,29 +9,29 @@ export default function PolicyReformDemoSlide() {
     <Slide>
       <div className="max-w-7xl">
         <SlideHeader>
-          <SlideTitle>Demo 2: State policy reform analysis</SlideTitle>
+          <SlideTitle>Demo 4: Statewide impact analysis</SlideTitle>
         </SlideHeader>
 
         <SlideContent size="lg">
           <div className="space-y-6 text-left">
             <p className="font-semibold text-pe-dark">
-              Example: Expanding a state EITC from 10% to 20% of federal
+              Analyze the statewide impact of the new CTC in Montana
             </p>
 
             <div className="space-y-4 ml-6">
               <p><strong>Population impacts:</strong></p>
               <ul className="list-disc list-inside space-y-2 ml-4">
                 <li>Poverty and deep poverty rate changes</li>
-                <li>Gini coefficient (income inequality)</li>
+                <li>Income inequality (Gini coefficient)</li>
                 <li>Net income by income decile</li>
                 <li>Winners, losers, and unaffected households</li>
               </ul>
 
-              <p className="pt-2"><strong>Budget impact:</strong> Revenue cost to state</p>
+              <p className="pt-2"><strong>Budget impact:</strong> Cost to Montana</p>
             </div>
 
             <p className="text-pe-teal font-semibold pt-2">
-              policyengine.org/us/policy
+              policyengine.org
             </p>
           </div>
         </SlideContent>

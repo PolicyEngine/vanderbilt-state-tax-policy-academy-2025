@@ -13,7 +13,9 @@ import MicrosimWeightsSlide from './slides/MicrosimWeightsSlide';
 import MicrosimAggregateSlide from './slides/MicrosimAggregateSlide';
 import OurApproachSlide from './slides/OurApproachSlide';
 import DemoIntroSlide from './slides/DemoIntroSlide';
+import MicrofoundedDemoSlide from './slides/MicrofoundedDemoSlide';
 import HouseholdDemoSlide from './slides/HouseholdDemoSlide';
+import CTCDemoSlide from './slides/CTCDemoSlide';
 import PolicyReformDemoSlide from './slides/PolicyReformDemoSlide';
 import WhatsComingSlide from './slides/WhatsComingSlide';
 import EndSlide from './slides/EndSlide';
@@ -39,7 +41,9 @@ export const vanderbilt2025Config: SlideshowConfig = {
     MicrosimAggregateSlide,
     OurApproachSlide,
     DemoIntroSlide,
+    MicrofoundedDemoSlide,
     HouseholdDemoSlide,
+    CTCDemoSlide,
     PolicyReformDemoSlide,
     WhatsComingSlide,
     EndSlide,

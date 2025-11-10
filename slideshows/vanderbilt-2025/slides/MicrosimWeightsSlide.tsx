@@ -68,13 +68,13 @@ export default function MicrosimWeightsSlide() {
 
             <div className="flex justify-center gap-8 text-base">
               <div className="px-5 py-2 bg-blue-500 text-white font-semibold rounded-lg">
-                Rules
+                Policies
               </div>
               <div className="px-5 py-2 bg-yellow-500 text-white font-semibold rounded-lg">
                 Dynamics
               </div>
               <div className="px-5 py-2 bg-red-500 text-white font-semibold rounded-lg">
-                Data
+                Households
               </div>
             </div>
           </div>

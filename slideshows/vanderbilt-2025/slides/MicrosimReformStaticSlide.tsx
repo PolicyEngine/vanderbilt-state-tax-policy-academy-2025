@@ -49,7 +49,7 @@ export default function MicrosimReformStaticSlide() {
 
             <div className="flex justify-center">
               <div className="px-6 py-3 bg-blue-500 text-white font-semibold rounded-lg text-xl">
-                Rules
+                Policies
               </div>
             </div>
           </div>

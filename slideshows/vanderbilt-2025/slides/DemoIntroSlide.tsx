@@ -15,15 +15,15 @@ export default function DemoIntroSlide() {
         <SlideContent size="lg">
           <div className="space-y-6 text-left">
             <p className="text-3xl font-semibold text-pe-teal">
-              Let's explore PolicyEngine.org
+              Demo sequence
             </p>
 
-            <ul className="list-disc list-inside space-y-4 ml-6">
-              <li>Calculate household impacts of tax policy changes</li>
-              <li>Model a state EITC expansion</li>
-              <li>Analyze population-wide poverty and inequality effects</li>
-              <li>Compare different policy design choices</li>
-            </ul>
+            <ol className="list-decimal list-inside space-y-4 ml-6 text-2xl">
+              <li>Explore household-by-household impacts to see the microfounded nature</li>
+              <li>Create a Montana family of four to calculate taxes and benefits</li>
+              <li>Simulate a new hypothetical Child Tax Credit for the family</li>
+              <li>Analyze the statewide impact of the new CTC</li>
+            </ol>
           </div>
         </SlideContent>
       </div>
