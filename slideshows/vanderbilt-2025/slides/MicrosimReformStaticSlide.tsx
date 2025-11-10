@@ -15,6 +15,7 @@ export default function MicrosimReformStaticSlide() {
           <div className="space-y-2">
 
             <table className="text-xl border-collapse">
+              <thead>
                 <tr>
                   <th className="px-6 py-1"></th>
                   <th className="px-6 py-1"></th>

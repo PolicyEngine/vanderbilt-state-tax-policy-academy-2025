@@ -14,6 +14,7 @@ export default function MicrosimBaselineSlide() {
         <div className="flex justify-center items-center mt-12">
           <div className="space-y-2">
             <table className="text-xl border-collapse">
+              <thead>
                 <tr>
                   <th className="px-6 py-1"></th>
                   <th className="px-6 py-1"></th>
