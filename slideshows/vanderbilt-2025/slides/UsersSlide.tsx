@@ -16,7 +16,14 @@ export default function UsersSlide() {
     { name: 'Federal Reserve Bank of Atlanta', logo: '/logos/organizations/atlanta-fed.svg' },
     { name: 'American Enterprise Institute', logo: '/logos/organizations/aei.png' },
     { name: 'UBI Center', logo: '/logos/organizations/ubicenter.png' },
-    { name: 'UN Digital Public Goods Alliance', logo: '/logos/organizations/dpga-new.png', isUN: true },
+    { name: 'Georgetown University', logo: '/logos/organizations/georgetown.png' },
+    { name: 'University of Michigan', logo: '/logos/organizations/umich.png' },
+    { name: 'UHERO', logo: '/logos/organizations/uhero.png' },
+    { name: 'USC', logo: '/logos/organizations/usc.png' },
+    { name: 'Gary Community Ventures', logo: '/logos/organizations/gary-community-ventures.png' },
+    { name: 'MyFriendBen', logo: '/logos/organizations/myfriendben.png' },
+    { name: 'Center for Growth and Opportunity', logo: '/logos/organizations/cgo.jpg' },
+    { name: 'UN Digital Public Goods Alliance', logo: '/logos/organizations/dpga.png', isUN: true },
   ];
 
   return (
@@ -26,13 +33,13 @@ export default function UsersSlide() {
       </SlideHeader>
 
       <div className="w-full mt-8">
-        <div className="grid grid-cols-3 gap-x-12 gap-y-16 w-full px-12">
+        <div className="grid grid-cols-4 gap-x-8 gap-y-12 w-full px-12">
           {organizations.map((org, idx) => (
             <div
               key={idx}
               className={`
                 flex items-center justify-center
-                ${org.isUN ? 'col-span-3' : ''}
+                ${org.isUN ? 'col-span-4' : ''}
               `}
               style={{
                 height: org.isUN ? '80px' : '80px'
