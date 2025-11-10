@@ -35,24 +35,24 @@ export default function UsersSlide() {
         <SlideTitle>Who uses PolicyEngine?</SlideTitle>
       </SlideHeader>
 
-      <div className="w-full mt-8">
-        <div className="grid grid-cols-4 gap-x-8 gap-y-12 w-full px-12">
+      <div className="w-full mt-4">
+        <div className="grid grid-cols-5 gap-x-6 gap-y-8 w-full px-8">
           {organizations.map((org, idx) => (
             <div
               key={idx}
               className={`
                 flex items-center justify-center
-                ${org.isUN ? 'col-span-4' : ''}
+                ${org.isUN ? 'col-span-5' : ''}
               `}
               style={{
-                height: org.isUN ? '80px' : '80px'
+                height: org.isUN ? '70px' : '70px'
               }}
             >
               <Image
                 src={assetPath(org.logo)}
                 alt={org.name}
-                width={org.isUN ? 320 : (org as any).smaller ? 100 : 160}
-                height={80}
+                width={org.isUN ? 280 : (org as any).smaller ? 80 : 120}
+                height={70}
                 className="object-contain"
               />
             </div>
