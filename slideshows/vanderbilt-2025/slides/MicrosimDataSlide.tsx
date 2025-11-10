@@ -28,6 +28,7 @@ export default function MicrosimDataSlide() {
                   <th className="px-5 py-2 text-left bg-yellow-100">Δ earnings</th>
                   <th className="px-5 py-2 text-left bg-green-100">Tax w/ behavior</th>
                   <th className="px-5 py-2 text-left bg-purple-100">Δ tax</th>
+                  <th className="px-5 py-2 text-left bg-gray-200 opacity-0">Weight</th>
                 </tr>
               </thead>
               <tbody>
@@ -39,6 +40,7 @@ export default function MicrosimDataSlide() {
                   <td className="px-5 py-2 bg-yellow-100">+$700</td>
                   <td className="px-5 py-2 bg-green-100">$20,150</td>
                   <td className="px-5 py-2 bg-purple-100">-$850</td>
+                  <td className="px-5 py-2 bg-gray-200 opacity-0">500k</td>
                 </tr>
                 <tr className="border-t border-gray-300">
                   <td className="px-5 py-2">$100,000</td>
@@ -48,6 +50,7 @@ export default function MicrosimDataSlide() {
                   <td className="px-5 py-2 bg-yellow-100">+$1,000</td>
                   <td className="px-5 py-2 bg-green-100">$10,300</td>
                   <td className="px-5 py-2 bg-purple-100">-$1,700</td>
+                  <td className="px-5 py-2 bg-gray-200 opacity-0">700k</td>
                 </tr>
                 <tr className="border-t border-gray-300">
                   <td className="px-5 py-2">$25,000</td>
@@ -57,6 +60,7 @@ export default function MicrosimDataSlide() {
                   <td className="px-5 py-2 bg-yellow-100">$0</td>
                   <td className="px-5 py-2 bg-green-100">-$3,000</td>
                   <td className="px-5 py-2 bg-purple-100">$0</td>
+                  <td className="px-5 py-2 bg-gray-200 opacity-0">100k</td>
                 </tr>
               </tbody>
             </table>

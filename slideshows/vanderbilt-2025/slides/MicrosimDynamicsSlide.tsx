@@ -28,6 +28,7 @@ export default function MicrosimDynamicsSlide() {
                   <th className="px-6 py-3 text-left bg-yellow-100">Δ earnings</th>
                   <th className="px-6 py-3 text-left bg-green-100">Tax w/ behavior</th>
                   <th className="px-6 py-3 text-left bg-purple-100">Δ tax</th>
+                  <th className="px-6 py-3 text-left bg-gray-200 opacity-0">Weight</th>
                 </tr>
               </thead>
               <tbody>
@@ -39,6 +40,7 @@ export default function MicrosimDynamicsSlide() {
                   <td className="px-6 py-3 bg-yellow-100">+$700</td>
                   <td className="px-6 py-3 bg-green-100">$20,150</td>
                   <td className="px-6 py-3 bg-purple-100">-$850</td>
+                  <td className="px-6 py-3 bg-gray-200 opacity-0">500k</td>
                 </tr>
               </tbody>
             </table>
