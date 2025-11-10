@@ -66,7 +66,7 @@ export default function Slide({
             className="opacity-90"
           />
           <div className="text-white text-sm opacity-90 font-medium">
-            Modeling State Tax Policy with PolicyEngine • 10 November 2025
+            Prenatal-to-3 Policy Impact Center State Policy Academy
           </div>
         </div>
       )}
