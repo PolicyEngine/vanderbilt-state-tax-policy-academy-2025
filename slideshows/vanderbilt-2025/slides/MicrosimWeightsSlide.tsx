@@ -23,44 +23,44 @@ export default function MicrosimWeightsSlide() {
                 <tr className="border-b-2 border-gray-400">
                   <th className="px-6 py-3 text-left w-32">Gross income</th>
                   <th className="px-6 py-3 text-left w-24"># kids</th>
-                  <th className="px-6 py-3 text-left bg-blue-100 w-28">Taxes</th>
-                  <th className="px-6 py-3 text-left bg-green-100 w-32">Taxes Static</th>
-                  <th className="px-6 py-3 text-left bg-yellow-100 w-32">Δ earnings</th>
-                  <th className="px-6 py-3 text-left bg-green-100 w-36">Tax w/ behavior</th>
-                  <th className="px-6 py-3 text-left bg-purple-100 w-24">Δ tax</th>
-                  <th className="px-6 py-3 text-left bg-gray-200 w-24">Weight</th>
+                  <th className="px-6 py-3 text-left bg-blue-50 w-28">Taxes</th>
+                  <th className="px-6 py-3 text-left bg-green-50 w-32">Taxes Static</th>
+                  <th className="px-6 py-3 text-left bg-yellow-50 w-32">Δ earnings</th>
+                  <th className="px-6 py-3 text-left bg-green-50 w-36">Tax w/ behavior</th>
+                  <th className="px-6 py-3 text-left bg-purple-50 w-24">Δ tax</th>
+                  <th className="px-6 py-3 text-left bg-gray-100 w-24">Weight</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td className="px-6 py-3">$100,000</td>
                   <td className="px-6 py-3">0</td>
-                  <td className="px-6 py-3 bg-blue-100">$21,000</td>
-                  <td className="px-6 py-3 bg-green-100">$20,000</td>
-                  <td className="px-6 py-3 bg-yellow-100">+$700</td>
-                  <td className="px-6 py-3 bg-green-100">$20,150</td>
-                  <td className="px-6 py-3 bg-purple-100">-$850</td>
-                  <td className="px-6 py-3 bg-gray-200">500k</td>
+                  <td className="px-6 py-3 bg-blue-50">$21,000</td>
+                  <td className="px-6 py-3 bg-green-50">$20,000</td>
+                  <td className="px-6 py-3 bg-yellow-50">+$700</td>
+                  <td className="px-6 py-3 bg-green-50">$20,150</td>
+                  <td className="px-6 py-3 bg-purple-50">-$850</td>
+                  <td className="px-6 py-3 bg-gray-100">500k</td>
                 </tr>
                 <tr className="border-t border-gray-300">
                   <td className="px-6 py-3">$100,000</td>
                   <td className="px-6 py-3">2</td>
-                  <td className="px-6 py-3 bg-blue-100">$12,000</td>
-                  <td className="px-6 py-3 bg-green-100">$10,000</td>
-                  <td className="px-6 py-3 bg-yellow-100">+$1,000</td>
-                  <td className="px-6 py-3 bg-green-100">$10,300</td>
-                  <td className="px-6 py-3 bg-purple-100">-$1,700</td>
-                  <td className="px-6 py-3 bg-gray-200">700k</td>
+                  <td className="px-6 py-3 bg-blue-50">$12,000</td>
+                  <td className="px-6 py-3 bg-green-50">$10,000</td>
+                  <td className="px-6 py-3 bg-yellow-50">+$1,000</td>
+                  <td className="px-6 py-3 bg-green-50">$10,300</td>
+                  <td className="px-6 py-3 bg-purple-50">-$1,700</td>
+                  <td className="px-6 py-3 bg-gray-100">700k</td>
                 </tr>
                 <tr className="border-t border-gray-300">
                   <td className="px-6 py-3">$25,000</td>
                   <td className="px-6 py-3">1</td>
-                  <td className="px-6 py-3 bg-blue-100">-$3,000</td>
-                  <td className="px-6 py-3 bg-green-100">-$3,000</td>
-                  <td className="px-6 py-3 bg-yellow-100">$0</td>
-                  <td className="px-6 py-3 bg-green-100">-$3,000</td>
-                  <td className="px-6 py-3 bg-purple-100">$0</td>
-                  <td className="px-6 py-3 bg-gray-200">100k</td>
+                  <td className="px-6 py-3 bg-blue-50">-$3,000</td>
+                  <td className="px-6 py-3 bg-green-50">-$3,000</td>
+                  <td className="px-6 py-3 bg-yellow-50">$0</td>
+                  <td className="px-6 py-3 bg-green-50">-$3,000</td>
+                  <td className="px-6 py-3 bg-purple-50">$0</td>
+                  <td className="px-6 py-3 bg-gray-100">100k</td>
                 </tr>
               </tbody>
             </table>
