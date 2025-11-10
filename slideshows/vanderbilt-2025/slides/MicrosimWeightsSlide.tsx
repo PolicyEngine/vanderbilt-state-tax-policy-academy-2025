@@ -12,14 +12,15 @@ export default function MicrosimWeightsSlide() {
         </SlideHeader>
 
         <div className="flex justify-center items-center mt-12">
-          <div className="space-y-8">
-            <div className="flex gap-12 items-center text-2xl h-8">
-              <div className="font-semibold">Baseline</div>
-              <div className="font-semibold text-green-600">Reform</div>
-            </div>
-
+          <div className="space-y-2">
             <table className="text-xl border-collapse">
               <thead>
+                <tr>
+                  <th className="px-6 py-1"></th>
+                  <th className="px-6 py-1"></th>
+                  <th className="px-6 py-1 text-center font-bold text-xl">Baseline</th>
+                  <th className="px-6 py-1 text-center font-bold text-xl text-green-600" colSpan={5}>Reform</th>
+                </tr>
                 <tr className="border-b-2 border-gray-400">
                   <th className="px-6 py-3 text-left w-32">Gross income</th>
                   <th className="px-6 py-3 text-left w-24"># kids</th>
