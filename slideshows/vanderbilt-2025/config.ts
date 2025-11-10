@@ -15,6 +15,7 @@ import ImpactMetricsSlide from './slides/ImpactMetricsSlide';
 import DemoIntroSlide from './slides/DemoIntroSlide';
 import HouseholdDemoSlide from './slides/HouseholdDemoSlide';
 import PolicyReformDemoSlide from './slides/PolicyReformDemoSlide';
+import WhatsComingSlide from './slides/WhatsComingSlide';
 import EndSlide from './slides/EndSlide';
 
 export const vanderbilt2025Config: SlideshowConfig = {
@@ -40,6 +41,7 @@ export const vanderbilt2025Config: SlideshowConfig = {
     DemoIntroSlide,
     HouseholdDemoSlide,
     PolicyReformDemoSlide,
+    WhatsComingSlide,
     EndSlide,
   ],
 };
