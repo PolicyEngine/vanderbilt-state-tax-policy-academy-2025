@@ -66,7 +66,7 @@ export default function Slide({
             className="opacity-90"
           />
           <div className="text-white text-sm opacity-90 font-medium">
-            PolicyEngine 2.0 and the Future of Public Policy Analysis • 3 November 2025
+            Modeling State Tax Policy with PolicyEngine • 10 November 2025
           </div>
         </div>
       )}
