@@ -51,7 +51,7 @@ export default function UsersSlide() {
               <Image
                 src={assetPath(org.logo)}
                 alt={org.name}
-                width={org.isUN ? 280 : (org as any).smaller ? 80 : 120}
+                width={org.isUN ? 200 : (org as any).smaller ? 80 : 120}
                 height={70}
                 className="object-contain"
               />

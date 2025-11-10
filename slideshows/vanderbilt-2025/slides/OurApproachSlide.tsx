@@ -15,7 +15,7 @@ export default function OurApproachSlide() {
           <div className="grid grid-cols-3 gap-8">
             {/* Policies Column */}
             <div>
-              <div className="bg-[#6B9B9B] text-white text-center py-6 rounded-t-lg mb-6">
+              <div className="bg-[#319795] text-white text-center py-6 rounded-t-lg mb-6">
                 <h2 className="text-4xl font-bold">Policies</h2>
               </div>
               <ul className="space-y-3 text-xl text-[#2C7A7B]">
@@ -34,22 +34,9 @@ export default function OurApproachSlide() {
               </ul>
             </div>
 
-            {/* Dynamics Column */}
-            <div>
-              <div className="bg-[#5A8A8A] text-white text-center py-6 rounded-t-lg mb-6">
-                <h2 className="text-4xl font-bold">Dynamics</h2>
-              </div>
-              <ul className="space-y-3 text-xl text-[#2C7A7B]">
-                <li className="flex items-start gap-2">
-                  <span className="mt-1">•</span>
-                  <span>Labor supply elasticities</span>
-                </li>
-              </ul>
-            </div>
-
             {/* Households Column */}
             <div>
-              <div className="bg-[#4A7979] text-white text-center py-6 rounded-t-lg mb-6">
+              <div className="bg-[#2C7A7B] text-white text-center py-6 rounded-t-lg mb-6">
                 <h2 className="text-4xl font-bold">Households</h2>
               </div>
               <ul className="space-y-3 text-xl text-[#2C7A7B]">
@@ -68,6 +55,19 @@ export default function OurApproachSlide() {
                 <li className="flex items-start gap-2">
                   <span className="mt-1">•</span>
                   <span>CBO-based ageing</span>
+                </li>
+              </ul>
+            </div>
+
+            {/* Dynamics Column */}
+            <div>
+              <div className="bg-[#234E52] text-white text-center py-6 rounded-t-lg mb-6">
+                <h2 className="text-4xl font-bold">Dynamics</h2>
+              </div>
+              <ul className="space-y-3 text-xl text-[#2C7A7B]">
+                <li className="flex items-start gap-2">
+                  <span className="mt-1">•</span>
+                  <span>Labor supply elasticities</span>
                 </li>
               </ul>
             </div>
