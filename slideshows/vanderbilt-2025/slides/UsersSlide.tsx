@@ -9,21 +9,14 @@ export default function UsersSlide() {
   const organizations = [
     { name: 'Niskanen Center', logo: '/logos/organizations/niskanen-center.png' },
     { name: 'Prenatal-to-3 Policy Impact Center', logo: '/logos/organizations/pn3policy.png' },
-    { name: 'Joint Economic Committee', logo: '/logos/organizations/jec.png' },
     { name: 'Colorado Fiscal Institute', logo: '/logos/organizations/cfi.png' },
     { name: 'Mothers Outreach Network', logo: '/logos/organizations/mothers-outreach-network.png' },
-    { name: 'NBER', logo: '/logos/organizations/nber.png' },
-    { name: 'Atlanta Fed', logo: '/logos/organizations/atlanta-fed.png' },
     { name: 'American Enterprise Institute', logo: '/logos/organizations/aei.png' },
     { name: 'UBI Center', logo: '/logos/organizations/ubicenter.png' },
-    { name: 'Georgetown University', logo: '/logos/organizations/georgetown.png' },
-    { name: 'University of Michigan', logo: '/logos/organizations/umich.png' },
-    { name: 'UHERO', logo: '/logos/organizations/uhero.png' },
-    { name: 'USC', logo: '/logos/organizations/usc.png' },
     { name: 'Gary Community Ventures', logo: '/logos/organizations/gary-community-ventures.png' },
     { name: 'MyFriendBen', logo: '/logos/organizations/myfriendben.png' },
     { name: 'Center for Growth and Opportunity', logo: '/logos/organizations/cgo.jpg' },
-    { name: 'UN Digital Public Goods Alliance', logo: '/logos/organizations/dpga.png', isUN: true },
+    { name: 'UN Digital Public Goods Alliance', logo: '/logos/organizations/dpga-medium.png', isUN: true },
   ];
 
   return (
