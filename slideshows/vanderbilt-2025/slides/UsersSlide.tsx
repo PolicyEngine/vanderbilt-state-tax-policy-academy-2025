@@ -19,9 +19,12 @@ export default function UsersSlide() {
     { name: 'Georgetown University', logo: '/logos/organizations/georgetown.png' },
     { name: 'University of Michigan', logo: '/logos/organizations/umich.png' },
     { name: 'UHERO', logo: '/logos/organizations/uhero.png' },
-    { name: 'USC', logo: '/logos/organizations/usc.png' },
+    { name: 'USC', logo: '/logos/organizations/usc.png', smaller: true },
     { name: 'Gary Community Ventures', logo: '/logos/organizations/gary-community-ventures.png' },
+    // Benefit access API users
     { name: 'MyFriendBen', logo: '/logos/organizations/myfriendben.png' },
+    { name: 'Amplifi', logo: '/logos/organizations/amplifi.png' },
+    { name: 'Mirza', logo: '/logos/organizations/mirza.png' },
     { name: 'Center for Growth and Opportunity', logo: '/logos/organizations/cgo.jpg' },
     { name: 'UN Digital Public Goods Alliance', logo: '/logos/organizations/dpga-official.png', isUN: true },
   ];
@@ -29,7 +32,7 @@ export default function UsersSlide() {
   return (
     <Slide>
       <SlideHeader>
-        <SlideTitle>PolicyEngine users</SlideTitle>
+        <SlideTitle>Who uses PolicyEngine?</SlideTitle>
       </SlideHeader>
 
       <div className="w-full mt-8">
@@ -48,7 +51,7 @@ export default function UsersSlide() {
               <Image
                 src={assetPath(org.logo)}
                 alt={org.name}
-                width={org.isUN ? 320 : 160}
+                width={org.isUN ? 320 : (org as any).smaller ? 100 : 160}
                 height={80}
                 className="object-contain"
               />
