@@ -13,11 +13,8 @@ export default function MicrosimIntroSlide() {
 
         <div className="flex justify-center items-center mt-12">
           <div className="space-y-2">
-              <div className="font-semibold text-green-600 opacity-0">Reform</div>
-            </div>
 
             <table className="text-xl border-collapse">
-              <thead>
                 <tr>
                   <th className="px-6 py-1"></th>
                   <th className="px-6 py-1"></th>
