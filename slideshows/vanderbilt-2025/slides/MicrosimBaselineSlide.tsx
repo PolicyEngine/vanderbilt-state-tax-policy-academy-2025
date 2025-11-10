@@ -13,9 +13,6 @@ export default function MicrosimBaselineSlide() {
 
         <div className="flex justify-center items-center mt-12">
           <div className="space-y-2">
-              <div className="font-semibold text-green-600 opacity-0">Reform</div>
-            </div>
-
             <table className="text-xl border-collapse">
               <thead>
                 <tr>
@@ -24,7 +21,6 @@ export default function MicrosimBaselineSlide() {
                   <th className="px-6 py-1 text-center font-bold text-xl">Baseline</th>
                   <th className="px-6 py-1 text-center font-bold text-xl text-green-600" colSpan={5}>Reform</th>
                 </tr>
-              <thead>
                 <tr className="border-b-2 border-gray-400">
                   <th className="px-6 py-3 text-left w-32">Gross income</th>
                   <th className="px-6 py-3 text-left w-24"># kids</th>
