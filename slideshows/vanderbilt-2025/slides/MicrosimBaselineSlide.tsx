@@ -8,7 +8,7 @@ export default function MicrosimBaselineSlide() {
     <Slide>
       <div className="">
         <SlideHeader>
-          <SlideTitle>Microsimulation</SlideTitle>
+          <SlideTitle>Let's see a microsimulation example</SlideTitle>
         </SlideHeader>
 
         <div className="flex justify-center items-center mt-12">
