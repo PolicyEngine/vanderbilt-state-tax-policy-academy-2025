@@ -22,6 +22,7 @@ export default function MicrosimReformStaticSlide() {
                   <th className="px-6 py-1 text-center font-bold text-xl">Baseline</th>
                   <th className="px-6 py-1 text-center font-bold text-xl text-green-600" colSpan={5}>Reform</th>
                 </tr>
+                </tr>
                 <tr className="border-b-2 border-gray-400">
                   <th className="px-6 py-3 text-left w-32">Gross income</th>
                   <th className="px-6 py-3 text-left w-24"># kids</th>
