@@ -23,7 +23,7 @@ export default function UsersSlide() {
     { name: 'Gary Community Ventures', logo: '/logos/organizations/gary-community-ventures.png' },
     { name: 'MyFriendBen', logo: '/logos/organizations/myfriendben.png' },
     { name: 'Center for Growth and Opportunity', logo: '/logos/organizations/cgo.jpg' },
-    { name: 'UN Digital Public Goods Alliance', logo: '/logos/organizations/dpga-medium.png', isUN: true },
+    { name: 'UN Digital Public Goods Alliance', logo: '/logos/organizations/dpga-official.png', isUN: true },
   ];
 
   return (
