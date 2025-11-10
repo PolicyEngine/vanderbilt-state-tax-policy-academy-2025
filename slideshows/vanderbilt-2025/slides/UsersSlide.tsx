@@ -7,8 +7,8 @@ import { assetPath } from '@/lib/assetPath';
 
 export default function UsersSlide() {
   const organizations = [
-    { name: 'Niskanen Center', logo: '/logos/organizations/niskanen-center.png' },
     { name: 'Prenatal-to-3 Policy Impact Center', logo: '/logos/organizations/pn3policy.png' },
+    { name: 'Niskanen Center', logo: '/logos/organizations/niskanen-center.png' },
     { name: 'Joint Economic Committee', logo: '/logos/organizations/jec.png' },
     { name: 'Colorado Fiscal Institute', logo: '/logos/organizations/cfi.png' },
     { name: 'Mothers Outreach Network', logo: '/logos/organizations/mothers-outreach-network.png' },
