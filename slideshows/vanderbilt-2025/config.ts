@@ -2,6 +2,7 @@ import { SlideshowConfig } from '@/lib/types';
 import CoverSlide from './slides/CoverSlide';
 import IntroSlide from './slides/IntroSlide';
 import WhatIsPolicyEngineSlide from './slides/WhatIsPolicyEngineSlide';
+import UsersSlide from './slides/UsersSlide';
 import MicrosimIntroSlide from './slides/MicrosimIntroSlide';
 import MicrosimBaselineSlide from './slides/MicrosimBaselineSlide';
 import MicrosimReformStaticSlide from './slides/MicrosimReformStaticSlide';
@@ -26,6 +27,7 @@ export const vanderbilt2025Config: SlideshowConfig = {
     CoverSlide,
     IntroSlide,
     WhatIsPolicyEngineSlide,
+    UsersSlide,
     MicrosimIntroSlide,
     MicrosimBaselineSlide,
     MicrosimReformStaticSlide,
