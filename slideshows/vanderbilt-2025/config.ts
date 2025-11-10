@@ -2,11 +2,14 @@ import { SlideshowConfig } from '@/lib/types';
 import CoverSlide from './slides/CoverSlide';
 import IntroSlide from './slides/IntroSlide';
 import WhatIsPolicyEngineSlide from './slides/WhatIsPolicyEngineSlide';
-import ThreeIngredientsSlide from './slides/ThreeIngredientsSlide';
-import PoliciesScopeSlide from './slides/PoliciesScopeSlide';
+import MicrosimIntroSlide from './slides/MicrosimIntroSlide';
+import MicrosimBaselineSlide from './slides/MicrosimBaselineSlide';
+import MicrosimReformStaticSlide from './slides/MicrosimReformStaticSlide';
+import MicrosimDynamicsSlide from './slides/MicrosimDynamicsSlide';
+import MicrosimDataSlide from './slides/MicrosimDataSlide';
+import MicrosimWeightsSlide from './slides/MicrosimWeightsSlide';
+import MicrosimAggregateSlide from './slides/MicrosimAggregateSlide';
 import StateEITCSlide from './slides/StateEITCSlide';
-import HouseholdsSlide from './slides/HouseholdsSlide';
-import DynamicsSlide from './slides/DynamicsSlide';
 import ImpactMetricsSlide from './slides/ImpactMetricsSlide';
 import DemoIntroSlide from './slides/DemoIntroSlide';
 import HouseholdDemoSlide from './slides/HouseholdDemoSlide';
@@ -23,11 +26,14 @@ export const vanderbilt2025Config: SlideshowConfig = {
     CoverSlide,
     IntroSlide,
     WhatIsPolicyEngineSlide,
-    ThreeIngredientsSlide,
-    PoliciesScopeSlide,
+    MicrosimIntroSlide,
+    MicrosimBaselineSlide,
+    MicrosimReformStaticSlide,
+    MicrosimDynamicsSlide,
+    MicrosimDataSlide,
+    MicrosimWeightsSlide,
+    MicrosimAggregateSlide,
     StateEITCSlide,
-    HouseholdsSlide,
-    DynamicsSlide,
     ImpactMetricsSlide,
     DemoIntroSlide,
     HouseholdDemoSlide,
