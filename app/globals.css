@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --color-pe-teal: #319795;
+  --color-pe-dark: #1D4044;
+  --color-pe-darker: #0D2F33;
+}
 
 * {
   margin: 0;
@@ -21,19 +26,17 @@ a {
   text-decoration: none;
 }
 
-@layer utilities {
-  .gradient-bg {
-    background: linear-gradient(135deg, #319795 0%, #1D4044 100%);
-  }
+@utility gradient-bg {
+  background: linear-gradient(135deg, #319795 0%, #1D4044 100%);
+}
 
-  .gradient-footer {
-    background: linear-gradient(135deg, #319795 0%, #1D4044 100%);
-  }
+@utility gradient-footer {
+  background: linear-gradient(135deg, #319795 0%, #1D4044 100%);
+}
 
-  /* Override footer gradient when parent has gradient-bg */
-  .gradient-bg .gradient-footer {
-    background: transparent !important;
-  }
+/* Override footer gradient when parent has gradient-bg */
+.gradient-bg .gradient-footer {
+  background: transparent !important;
 }
 
 /* Mermaid diagram styling */
