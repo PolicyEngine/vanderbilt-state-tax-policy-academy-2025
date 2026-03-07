@@ -3,6 +3,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import * as d3 from 'd3';
 import { assetPath } from '@/lib/assetPath';
+import { colors } from '@policyengine/design-system/tokens';
 
 interface ConstituencyData {
   scenario: string;
@@ -181,9 +182,9 @@ export default function ConstituencyMap() {
       .attr('d', path as any)
       .attr('fill', (d: any) => {
         const constData = dataMap.get(d.properties.GSScode);
-        return constData ? colorScale(constData.average_gain) : '#ddd';
+        return constData ? colorScale(constData.average_gain) : colors.gray[300];
       })
-      .attr('stroke', '#fff')
+      .attr('stroke', colors.white)
       .attr('stroke-width', 0.05)
       .attr('class', 'constituency-path')
       .style('cursor', 'pointer')
@@ -196,12 +197,12 @@ export default function ConstituencyMap() {
         if (constData) {
           // Update styling for all paths
           svg.selectAll('.constituency-path')
-            .attr('stroke', '#fff')
+            .attr('stroke', colors.white)
             .attr('stroke-width', 0.05);
 
           // Highlight selected constituency
           d3.select(this)
-            .attr('stroke', '#1D4044')
+            .attr('stroke', colors.primary[900])
             .attr('stroke-width', 0.6);
 
           setSelectedConstituency(constData);
@@ -225,7 +226,7 @@ export default function ConstituencyMap() {
         // Only change if not already highlighted (selected has 0.6)
         if (currentStrokeWidth === '0.05') {
           d3.select(this)
-            .attr('stroke', '#666')
+            .attr('stroke', colors.gray[500])
             .attr('stroke-width', 0.3);
         }
       })
@@ -234,7 +235,7 @@ export default function ConstituencyMap() {
         // Only reset if not highlighted
         if (currentStrokeWidth !== '0.6') {
           d3.select(this)
-            .attr('stroke', '#fff')
+            .attr('stroke', colors.white)
             .attr('stroke-width', 0.05);
         }
       });
@@ -286,7 +287,7 @@ export default function ConstituencyMap() {
       .duration(500)
       .attr('fill', (d: any) => {
         const constData = dataMap.get(d.properties.GSScode);
-        return constData ? colorScale(constData.average_gain) : '#ddd';
+        return constData ? colorScale(constData.average_gain) : colors.gray[300];
       });
 
   }, [selectedScenario, data, geoData]);
@@ -345,7 +346,7 @@ export default function ConstituencyMap() {
 
     // Update styling for all paths
     svg.selectAll('.constituency-path')
-      .attr('stroke', '#fff')
+      .attr('stroke', colors.white)
       .attr('stroke-width', 0.05);
 
     // Highlight selected constituency and get its bounds
@@ -353,7 +354,7 @@ export default function ConstituencyMap() {
       .filter((d: any) => d.properties.GSScode === constData.constituency_code);
 
     selectedPath
-      .attr('stroke', '#1D4044')
+      .attr('stroke', colors.primary[900])
       .attr('stroke-width', 0.6);
 
     // Get the bounding box of the selected path
@@ -452,7 +453,7 @@ export default function ConstituencyMap() {
                 {selectedConstituency.constituency_name}
               </h3>
               <p className="text-2xl font-bold transition-all duration-300" style={{
-                color: selectedConstituency.average_gain >= 0 ? '#16a34a' : '#dc2626'
+                color: selectedConstituency.average_gain >= 0 ? colors.success : colors.error
               }}>
                 £{selectedConstituency.average_gain.toFixed(2)}
               </p>

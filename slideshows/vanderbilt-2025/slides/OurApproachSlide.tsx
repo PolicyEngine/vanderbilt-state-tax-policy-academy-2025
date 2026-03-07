@@ -2,6 +2,7 @@ import React from 'react';
 import Slide from '@/components/Slide';
 import SlideHeader from '@/components/SlideHeader';
 import SlideTitle from '@/components/SlideTitle';
+import { colors } from '@policyengine/design-system/tokens';
 
 export default function OurApproachSlide() {
   return (
@@ -15,10 +16,10 @@ export default function OurApproachSlide() {
           <div className="grid grid-cols-3 gap-8">
             {/* Policies Column */}
             <div>
-              <div className="bg-[#319795] text-white text-center py-6 rounded-t-lg mb-6">
+              <div className="bg-pe-teal text-white text-center py-6 rounded-t-lg mb-6">
                 <h2 className="text-4xl font-bold">Policies</h2>
               </div>
-              <ul className="space-y-3 text-xl text-[#2C7A7B]">
+              <ul className="space-y-3 text-xl text-pe-teal">
                 <li className="flex items-start gap-2">
                   <span className="mt-1">•</span>
                   <span>Federal income & payroll tax</span>
@@ -36,10 +37,10 @@ export default function OurApproachSlide() {
 
             {/* Households Column */}
             <div>
-              <div className="bg-[#2C7A7B] text-white text-center py-6 rounded-t-lg mb-6">
+              <div className="text-white text-center py-6 rounded-t-lg mb-6" style={{ backgroundColor: colors.primary[600] }}>
                 <h2 className="text-4xl font-bold">Households</h2>
               </div>
-              <ul className="space-y-3 text-xl text-[#2C7A7B]">
+              <ul className="space-y-3 text-xl text-pe-teal">
                 <li className="flex items-start gap-2">
                   <span className="mt-1">•</span>
                   <span>CPS ASEC foundation</span>
@@ -61,10 +62,10 @@ export default function OurApproachSlide() {
 
             {/* Dynamics Column */}
             <div>
-              <div className="bg-[#234E52] text-white text-center py-6 rounded-t-lg mb-6">
+              <div className="text-white text-center py-6 rounded-t-lg mb-6" style={{ backgroundColor: colors.primary[800] }}>
                 <h2 className="text-4xl font-bold">Dynamics</h2>
               </div>
-              <ul className="space-y-3 text-xl text-[#2C7A7B]">
+              <ul className="space-y-3 text-xl text-pe-teal">
                 <li className="flex items-start gap-2">
                   <span className="mt-1">•</span>
                   <span>Labor supply elasticities</span>
@@ -76,17 +77,17 @@ export default function OurApproachSlide() {
           {/* Bottom row with methodology */}
           <div className="grid grid-cols-3 gap-8 mt-8">
             <div className="bg-blue-50 p-4 rounded-lg">
-              <p className="text-lg italic text-[#026AA2] font-semibold">
+              <p className="text-lg italic font-semibold" style={{ color: colors.blue[700] }}>
                 Legislative references & thousands of unit tests
               </p>
             </div>
             <div className="bg-blue-50 p-4 rounded-lg">
-              <p className="text-lg italic text-[#026AA2] font-semibold">
+              <p className="text-lg italic font-semibold" style={{ color: colors.blue[700] }}>
                 Adjustable parameters with US CBO presets
               </p>
             </div>
             <div className="bg-blue-50 p-4 rounded-lg">
-              <p className="text-lg italic text-[#026AA2] font-semibold">
+              <p className="text-lg italic font-semibold" style={{ color: colors.blue[700] }}>
                 Machine learning (QRF + GD) boosts accuracy
               </p>
             </div>
